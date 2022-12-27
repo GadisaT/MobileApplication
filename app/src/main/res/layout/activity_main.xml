@@ -15,7 +15,6 @@
         android:text="    Ethiopan Law Code"
         android:textColor="@color/black"
         android:textSize="34sp"
-        app:layout_constraintBottom_toTopOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -27,6 +26,7 @@
         android:layout_height="47dp"
         android:layout_marginTop="4dp"
         android:text="      Seera Itoophiyaa"
+        android:textColor="@color/black"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -39,6 +39,7 @@
         android:layout_height="52dp"
         android:layout_marginTop="4dp"
         android:text="         የኢትዮጵያ ህግ ኮድ"
+        android:textColor="@color/black"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -83,26 +84,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="382dp"
-        android:layout_height="46dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginBottom="16dp"
-        android:text="Copy @ Right 2023"
-        android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="12dp"
-        android:text="sabo"
-        app:layout_constraintBottom_toTopOf="@+id/textView4"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
