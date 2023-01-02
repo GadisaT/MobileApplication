@@ -43,15 +43,15 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
             case  R.id.itemhome:
-//                Toast.makeText(this, "Home item selected", Toast.LENGTH_SHORT).show();
+
                 Intent intent = new Intent(MainActivity.this, MainActivity.class);
                 startActivity(intent);
                 return true;
             case  R.id.itemlanguage:
-//                Toast.makeText(this, "Language item selected", Toast.LENGTH_SHORT).show();
+
                 return true;
             case  R.id.itemsetting:
-//                Toast.makeText(this, "setting item selected", Toast.LENGTH_SHORT).show();
+
                 return true;
             case  R.id.itemexit:
                 moveTaskToBack(true);
