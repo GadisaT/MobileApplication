@@ -1,3 +1,117 @@
 <resources>
-    <string name="app_name">EthioLawCode</string>
+    <string name="app_name">Ethiopian Law Code</string>
+    <string-array name="c1">
+        <item>chapter 1 </item>
+        <item>chapter 2 </item>
+        <item>chapter 3 </item>
+        <item>chapter 4 </item>
+        <item>chapter 5 </item>
+    </string-array>
+    <string-array name="detailsc1">
+        <item>gsyytga ge twe twgftfetf twfgtewtft fwetftwfetr wetre twret twe r ty etwyerw </item>
+        <item>chapter2 details  ahgdehg</item>
+        <item>chapter ytytyt </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c2">
+        <item>chapter 1 under list 2</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+    </string-array>
+    <string-array name="detailsc2">
+        <item>fucking android </item>
+        <item>chapter2 details </item>
+        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c3">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc3">
+        <item>chapter1 details lis 3</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c4">
+        <item>chapter 1 </item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc4">
+        <item>chapter1 details list 4 </item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c5">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc5">
+        <item>chapter1 details under [odstiuon 5</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c6">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc6">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c7">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc7">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c8">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+        <item>chapter 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="detailsc8">
+        <item>chapter1 details under the last one admistration</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
 </resources>
