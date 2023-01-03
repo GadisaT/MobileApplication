@@ -13,18 +13,28 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-   Button amharic;
+   Button amharic,oromicbtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         amharic = findViewById(R.id.amharicbtn);
+        oromicbtn = findViewById(R.id.oromobtn);
 
         amharic.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, AmharicActivity.class);
+                startActivity(intent);
+
+            }
+
+        });
+        oromicbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, OromicActivity.class);
                 startActivity(intent);
 
             }

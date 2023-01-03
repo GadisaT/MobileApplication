@@ -61,7 +61,7 @@
         app:layout_constraintVertical_bias="0.267" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/oromobtn"
         android:layout_width="173dp"
         android:layout_height="66dp"
         android:layout_marginStart="88dp"
@@ -82,7 +82,7 @@
         android:text="አማርኛ"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/oromobtn" />
 
 
 
