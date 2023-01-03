@@ -1,4 +1,245 @@
 <resources>
-    <string name="app_name">EthioLawCode</string>
+    <string name="app_name">የኢትዮጵያ ህግ ኮድ</string>
+    <string-array name="c1">
+        <item>ርዕስ I: አካላዊ ሰዎች</item>
+        <item>ርዕስ II: የሰዎች አቅም </item>
+        <item>ርዕስ III: አካላት ኮርፖሬት እና ንብረት ከተወሰነ መድረሻ ጋር </item>
+        <item>ርዕስ IV: በግንኙነት ትስስር እና በወዳጅነት</item>
+        <item>ርዕስ V: ስኬቶች</item>
+        <item>ርዕስ VI:በአጠቃላይ እቃዎች እና ይዞታ</item>
+        <item>ርዕስ VII:የግለሰብ ባለቤትነት</item>
+    </string-array>
+    <string-array name="detailsc1">
+        <item>የሲቪል ኮድ:> አካላዊ ሰዎች::
 
+            HERE IS SOME AMHARIC VERSION OF ETHIOPIAN LAW CODE
+            twgftfetf twfgtewtft fwetftwfetr wetre twret twe r ty etwyerw </item>
+        <item>chapter2 details  ahgdehg</item>
+        <item>chapter ytytyt </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c2">
+        <item>ምዕራፍ 1 under list 2</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+    </string-array>
+    <string-array name="detailsc2">
+        <item>list second android </item>
+        <item>chapter2 details </item>
+        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c3">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc3">
+        <item>chapter1 details lis 3</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c4">
+        <item>ምዕራፍ 1 </item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc4">
+        <item>chapter1 details list 4 </item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="c5">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc5">
+        <item>chapter1 details under [odstiuon 5</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c6">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc6">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c7">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc7">
+        <item>ምዕራፍ details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="c8">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="detailsc8">
+        <item>chapter1 details under the last one admistration</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="kode1">
+        <item>Boqonna 1 </item>
+        <item>Boqonna 2 </item>
+        <item>Boqonna 3 </item>
+        <item>Boqonna 4 </item>
+        <item>Boqonna 5 </item>
+    </string-array>
+    <string-array name="dubbisa1">
+        <item>Other features generally found in mobile computing devices include GPS
+capability, accelerometer, compass, microphone, camera, and so on. • Mobile computing devices have evolved greatly over time. A lot of the
+devices that existed in the past have been phased out, like the Personal
+Digital Assistant (PDA). – Laptop: are portable personal computers that offer the same
+functionality as a PC, so the same OS, applications, and files can run on
+this. – Smartphone: a smartphone is a mobile phone with powerful capabilities . – Tablet computer: are often thought of as an intermediary between a
+laptop and a smartphone. – Wearable: A more recent addition, wearable computers like
+smartwatches offer limited features similar to a smartphone within a
+watch. – E-reader: devices that are similar to tablets, but their main purpose is to
+read digital documents </item>
+        <item>chapter2 details  ahgdehg</item>
+        <item>chapter ytytyt </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="kode2">
+        <item>Boqonna 1 under list 2</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+    </string-array>
+    <string-array name="dubbisa2">
+        <item>gadi-fagenya</item>
+        <item>chapter2 details </item>
+        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="kode3">
+        <item>Boqonna 1</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+        <item>Boqonna 4</item>
+        <item>Boqonna 5</item>
+    </string-array>
+    <string-array name="dubbisa3">
+        <item>chapter1 details lis 3</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="kode4">
+        <item>Boqonna 1 </item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+        <item>chapter 4</item>
+        <item>chapter 5</item>
+    </string-array>
+    <string-array name="dubbisa4">
+        <item>chapter1 details list 4 </item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="kode5">
+        <item>Boqonna 1</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+
+    </string-array>
+    <string-array name="dubbisa5">
+        <item>chapter1 details under [odstiuon 5</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="kode6">
+        <item>Boqonna 1</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+        <item>Boqonna 4</item>
+        <item>Boqonna 5</item>
+    </string-array>
+    <string-array name="dubbisa6">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="kode7">
+        <item>Boqonna 1</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+        <item>Boqonna 4</item>
+        <item>Boqonna 5</item>
+    </string-array>
+    <string-array name="dubbisa7">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="kode8">
+        <item>Boqonna 1</item>
+        <item>Boqonna 2</item>
+        <item>Boqonna 3</item>
+        <item>Boqonna 4</item>
+        <item>Boqonna 5</item>
+    </string-array>
+    <string-array name="dubbisa8">
+        <item>chapter1 details under the last one admistration</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>Boqonna 5 gadifagenyaa isaa </item>
+    </string-array>
 </resources>
