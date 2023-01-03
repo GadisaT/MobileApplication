@@ -7,15 +7,52 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
+    Button oromic,amharic,english;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        amharic = findViewById(R.id.amharicbtn);
+        oromic = findViewById(R.id.oromobtn);
+        english=findViewById(R.id.btnEnglish);
+
+        amharic.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, AmharicActivity.class);
+                startActivity(intent);
+
+            }
+
+        });
+        oromic.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, OromicActivity.class);
+                startActivity(intent);
+
+            }
+
+        });
+        english.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, English_activity.class);
+                startActivity(intent);
+
+            }
+
+        });
     }
+
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
