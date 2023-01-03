@@ -47,17 +47,17 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnEnglish"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="88dp"
         android:layout_marginBottom="88dp"
-        android:fontFamily="@font/aladin"
+        android:fontFamily="sans-serif"
         android:text="eNGLISH"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button3"
+        app:layout_constraintTop_toBottomOf="@+id/amharicbtn"
         app:layout_constraintVertical_bias="0.267" />
 
     <Button
@@ -66,19 +66,19 @@
         android:layout_height="66dp"
         android:layout_marginStart="88dp"
         android:layout_marginTop="124dp"
-        android:fontFamily="@font/aladin"
+        android:fontFamily="sans-serif"
         android:text="OROMOO"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/amharicbtn"
         android:layout_width="171dp"
         android:layout_height="64dp"
         android:layout_marginStart="88dp"
         android:layout_marginTop="20dp"
-        android:fontFamily="@font/aladin"
+        android:fontFamily="sans-serif"
         android:text="አማርኛ"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
