@@ -4,12 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EnglishActivity">
-    <ListView
-        android:id="@+id/list"
+    tools:context=".EnglishTextParagraph">
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="50dp">
-    </ListView>
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/txt1"
+            android:text="Text"
+            android:textSize="20dp"
+            android:layout_height="match_parent">
+
+        </TextView>
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

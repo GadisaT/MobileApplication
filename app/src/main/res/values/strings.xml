@@ -121,23 +121,14 @@
     </string-array>
 
     <string-array name="kode1">
-        <item>Boqonna 1 </item>
+        <item>Seensa Seera Yakka  </item>
         <item>Boqonna 2 </item>
         <item>Boqonna 3 </item>
         <item>Boqonna 4 </item>
         <item>Boqonna 5 </item>
     </string-array>
     <string-array name="dubbisa1">
-        <item>Other features generally found in mobile computing devices include GPS
-capability, accelerometer, compass, microphone, camera, and so on. • Mobile computing devices have evolved greatly over time. A lot of the
-devices that existed in the past have been phased out, like the Personal
-Digital Assistant (PDA). – Laptop: are portable personal computers that offer the same
-functionality as a PC, so the same OS, applications, and files can run on
-this. – Smartphone: a smartphone is a mobile phone with powerful capabilities . – Tablet computer: are often thought of as an intermediary between a
-laptop and a smartphone. – Wearable: A more recent addition, wearable computers like
-smartwatches offer limited features similar to a smartphone within a
-watch. – E-reader: devices that are similar to tablets, but their main purpose is to
-read digital documents </item>
+        <item>SEENSA SEERA YAKKAA </item>
         <item>chapter2 details  ahgdehg</item>
         <item>chapter ytytyt </item>
         <item>chapter4  </item>
@@ -243,125 +234,175 @@ read digital documents </item>
         <item>Boqonna 5 gadifagenyaa isaa </item>
     </string-array>
 
-
-    <string-array name="e1">
-        <item>Title I: Physical people</item>
-        <item>Title II: The capacity of people </item>
-        <item>Title III: Bodies corporate and property with a specific destination </item>
-        <item>Title IV: In connection and friendship</item>
-        <item>Title V: Achievements</item>
-        <item>Title VI: Goods and possessions in general</item>
-        <item>Title VII: Individual ownership</item>
+    <string-array name="code1Content">
+        <item>TITLE I. PHYSICAL PERSONS</item>
+        <item>TITLE II. CAPACITY OF PERSON</item>
+        <item>TITLE III. BODIES CORPORATE AND PROPERTY WHITH A SPECIFIC DESTINATION </item>
     </string-array>
-    <string-array name="de1">
-        <item>
-    This our unity
-            HERE IS SOME AMHARIC VERSION OF ETHIOPIAN LAW CODE
-            twgftfetf twfgtewtft fwetftwfetr wetre twret twe r ty etwyerw </item>
-        <item>chapter2 details  ahgdehg</item>
-        <item>chapter ytytyt </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
-    </string-array>
-
-    <string-array name="e2">
-        <item>Chapter 1 under list 2</item>
-        <item>Chapter 2</item>
-        <item>Chapter 3</item>
-    </string-array>
-    <string-array name="de2">
-        <item>list second android </item>
-        <item>chapter2 details </item>
-        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
-    </string-array>
-    <string-array name="e3">
-        <item>ምዕራፍ 1</item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
-    </string-array>
-    <string-array name="de3">
-        <item>chapter1 details lis 3</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
-    </string-array>
-    <string-array name="e4">
-        <item>ምዕራፍ 1 </item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
-    </string-array>
-    <string-array name="de4">
-        <item>chapter1 details list 4 </item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
-    </string-array>
-    <string-array name="e5">
-        <item>ምዕራፍ 1</item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
-    </string-array>
-    <string-array name="de5">
-        <item>chapter1 details under [odstiuon 5</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
-    </string-array>
-
-    <string-array name="e6">
-        <item>ምዕራፍ 1</item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
-    </string-array>
-    <string-array name="de6">
-        <item>chapter1 details</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+    <string-array name="code1deteil">
+        <item> Spatial Domain Image Processing (Enhancement in spatial domain)
+ Spatial Processing of Digital Images
+ Basic Intensity Transformation Functions
+ Grey level transformation
+ Histogram processing
+ Smoothing and sharpening Spatial filters
+ Combining Spatial Enhancement Methods
+2.2. Frequency Domain Image Processing (Enhancement in frequency domain)
+ Introduction to frequency domain
+ Fourier transform
+ Frequency spectra
+ Fourier series
+ Continuous One-Dimensional Fourier Transform and Its Inverse
+ Discrete One-Dimensional Fourier Transform and Its Inverse
+ Frequency information of images
+ Image enhancement in frequency domain
+ Smoothing and sharpening frequency domain filtering
+ Homomorphism filteringSpatial Domain Image Processing (Enhancement in spatial domain)
+ Spatial Processing of Digital Images
+ Basic Intensity Transformation Functions
+ Grey level transformation
+ Histogram processing
+ Smoothing and sharpening Spatial filters
+ Combining Spatial Enhancement Methods
+2.2. Frequency Domain Image Processing (Enhancement in frequency domain)
+ Introduction to frequency domain
+ Fourier transform
+ Frequency spectra
+ Fourier series
+ Continuous One-Dimensional Fourier Transform and Its Inverse
+ Discrete One-Dimensional Fourier Transform and Its Inverse
+ Frequency information of images
+ Image enhancement in frequency domain
+ Smoothing and sharpening frequency domain filtering
+ Homomorphism filteringSpatial Domain Image Processing (Enhancement in spatial domain)
+ Spatial Processing of Digital Images
+ Basic Intensity Transformation Functions
+ Grey level transformation
+ Histogram processing
+ Smoothing and sharpening Spatial filters
+ Combining Spatial Enhancement Methods
+2.2. Frequency Domain Image Processing (Enhancement in frequency domain)
+ Introduction to frequency domain
+ Fourier transform
+ Frequency spectra
+ Fourier series
+ Continuous One-Dimensional Fourier Transform and Its Inverse
+ Discrete One-Dimensional Fourier Transform and Its Inverse
+ Frequency information of images
+ Image enhancement in frequency domain
+ Smoothing and sharpening frequency domain filtering
+ Homomorphism filtering</item>
+        <item>Histogram equalisation
+ Equalization increases the global contrast of many images, especially
+when the usable data of the image is represented by close contrast values.
+ Through this adjustment, the intensities can be better distributed on
+the histogram.This allows for areas of lower local contrast to gain a
+higher contrast.
+ Histogram equalization accomplishes this by effectively spreading out
+the most frequent intensity values. The method is useful in images
+with backgrounds and
+foregrounds that are both bright
+or both dark. In particular, the
+method can lead to better views
+of bone structure in x- ray
+images</item>
+        <item>dhfgskfhddgtrdhydtrdtrdtrdtrdtrgxdgdxgdfghdkghdghdklgsd</item>
     </string-array>
 
-    <string-array name="e7">
-        <item>ምዕራፍ 1</item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
+
+    <string-array name="code2Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
     </string-array>
-    <string-array name="de7">
-        <item>ምዕራፍ details</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+    <string-array name="code2deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
     </string-array>
 
-    <string-array name="e8">
-        <item>ምዕራፍ 1</item>
-        <item>ምዕራፍ 2</item>
-        <item>ምዕራፍ 3</item>
-        <item>ምዕራፍ 4</item>
-        <item>ምዕራፍ 5</item>
+    <string-array name="code3Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
     </string-array>
-    <string-array name="de8">
-        <item>chapter1 details under the last one admistration</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+    <string-array name="code3deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
     </string-array>
 
+
+
+    <string-array name="code4Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+    <string-array name="code4deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+
+    <string-array name="code5Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+    <string-array name="code5deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+
+
+    <string-array name="code6Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+    <string-array name="code6deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+
+
+    <string-array name="code7Content">
+        <item>777777777777777777</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+    <string-array name="code7deteil">
+        <item>677777777777777777</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+
+
+    <string-array name="code8Content">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
+    <string-array name="code8deteil">
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+        <item>ufdgyfdgyidfgusdiop</item>
+    </string-array>
 </resources>

@@ -1,53 +1,56 @@
 package com.sabo.ethiolawcode;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    Button amharic,oromic,english;
+   Button amharic,oromicbtn,englishbtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         amharic = findViewById(R.id.amharicbtn);
-        oromic = findViewById(R.id.oromobtn);
-        english = findViewById(R.id.englishbtn);
+        oromicbtn = findViewById(R.id.oromobtn);
+
+        englishbtn = findViewById(R.id.englishbtn);
+        englishbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, EnglishActivity.class);
+                startActivity(intent);
+
+            }
+
+        });
 
         amharic.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent amharic = new Intent(MainActivity.this, AmharicActivity.class);
-                startActivity(amharic);
+                Intent intent = new Intent(MainActivity.this, AmharicActivity.class);
+                startActivity(intent);
 
             }
 
         });
-        oromic.setOnClickListener(new View.OnClickListener() {
+        oromicbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent oromo = new Intent(MainActivity.this, OromicActivity.class);
-                startActivity(oromo);
+                Intent intent = new Intent(MainActivity.this, OromicActivity.class);
+                startActivity(intent);
 
             }
 
         });
-        english.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent english = new Intent(MainActivity.this, EnglishActivity.class);
-                startActivity(english);
-
-            }
-
-        });
-
     }
 
     @Override
@@ -58,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
             case  R.id.itemhome:
 

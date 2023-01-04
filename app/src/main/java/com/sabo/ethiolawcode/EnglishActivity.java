@@ -16,10 +16,10 @@ public class EnglishActivity extends AppCompatActivity {
     ListView list;
 
     String[] maintitle ={
-            "የሲቪል ኮድ","የሲቪል ሂደት ኮድ",
-            "የወንጀል ኮድ","የወንጀል ሂደት ኮድ",
-            "የንግድ ኮድ","የተሻሻለ የቤተሰብ ኮድ","የሠራተኛ ኮድ",
-            "አስተዳደራዊ ሂደት",
+            "EthioLawCode","CIVIL PROCEDURAL CODE",
+            "CRIMINAL CODE","CRIMINAL CODE",
+            "CRIMINAL CODE","CRIMINAL CODE","CRIMINAL CODE",
+            "CRIMINAL CODE",
     };
 
 
@@ -27,9 +27,9 @@ public class EnglishActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_english);
+        setContentView(R.layout.activity_amharic);
 
-        AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
+        EnglishChapter adapter=new EnglishChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
         list.setAdapter(adapter);
 
@@ -42,52 +42,52 @@ public class EnglishActivity extends AppCompatActivity {
                 if(position == 0) {
                     //code specific to first list item
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
 
                 }
 
                 else if(position == 1) {
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
 
                 else if(position == 2) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 3) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 4) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 5) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 6) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
 
                 }
                 else if(position == 7) {
 
-                    Intent intent=new Intent(EnglishActivity.this,listChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
