@@ -9,7 +9,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class EnglishListChapter extends AppCompatActivity {
+public class EnglishlistChapter extends AppCompatActivity {
     ListView lv;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,7 +53,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de1[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -66,7 +66,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de2[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -80,7 +80,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de3[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -93,7 +93,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de4[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -107,7 +107,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de5[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -122,7 +122,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de6[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -137,7 +137,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de7[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
@@ -152,7 +152,7 @@ public class EnglishListChapter extends AppCompatActivity {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     String chapter = de8[i];
-                    Intent intent = new Intent(EnglishListChapter.this, Englishparagraph.class);
+                    Intent intent = new Intent(EnglishlistChapter.this, Englishparagraph.class);
                     intent.putExtra("Chapter", chapter);
 
                     startActivity(intent);
