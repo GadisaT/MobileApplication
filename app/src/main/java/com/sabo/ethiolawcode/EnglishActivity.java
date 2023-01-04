@@ -42,52 +42,52 @@ public class EnglishActivity extends AppCompatActivity {
                 if(position == 0) {
                     //code specific to first list item
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
 
                 }
 
                 else if(position == 1) {
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
 
                 else if(position == 2) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 3) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 4) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 5) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
                 else if(position == 6) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
 
                 }
                 else if(position == 7) {
 
-                    Intent intent=new Intent(EnglishActivity.this,EnglishListChapter.class);
+                    Intent intent=new Intent(EnglishActivity.this,EnglishlistChapter.class);
                     intent.putExtra("position",position);
                     startActivity(intent);
                 }
