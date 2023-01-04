@@ -1,4 +1,15 @@
 <resources>
+
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_history">History</string>
+    <string name="menu_share">Share</string>
+
+
     <string name="app_name">Seera Itoophiyaa</string>
     <string-array name="c1">
         <item>ርዕስ I: አካላዊ ሰዎች</item>
