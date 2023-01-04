@@ -47,25 +47,25 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="88dp"
+        android:id="@+id/englishbtn"
+        android:layout_width="195dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="72dp"
         android:layout_marginBottom="88dp"
         android:fontFamily="sans-serif"
-        android:text="eNGLISH"
+        android:text="ENGLISH"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/amharicbtn"
-        app:layout_constraintVertical_bias="0.267" />
+        app:layout_constraintVertical_bias="0.133" />
 
     <Button
         android:id="@+id/oromobtn"
-        android:layout_width="173dp"
-        android:layout_height="66dp"
-        android:layout_marginStart="88dp"
-        android:layout_marginTop="124dp"
+        android:layout_width="192dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="120dp"
         android:fontFamily="sans-serif"
         android:text="OROMOO"
         android:textSize="34sp"
@@ -74,18 +74,15 @@
 
     <Button
         android:id="@+id/amharicbtn"
-        android:layout_width="171dp"
-        android:layout_height="64dp"
-        android:layout_marginStart="88dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="202dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="16dp"
         android:fontFamily="sans-serif"
         android:text="አማርኛ"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/oromobtn" />
-
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
