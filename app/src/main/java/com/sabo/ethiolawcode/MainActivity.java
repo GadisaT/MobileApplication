@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         amharic.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, AmharicActivity.class);
-                startActivity(intent);
+                Intent amharic = new Intent(MainActivity.this, AmharicActivity.class);
+                startActivity(amharic);
 
             }
 
@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
         oromic.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent2 = new Intent(MainActivity.this, OromicActivity.class);
-                startActivity(intent2);
+                Intent oromo = new Intent(MainActivity.this, OromicActivity.class);
+                startActivity(oromo);
 
             }
 
@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
         english.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent3 = new Intent(MainActivity.this, EnglishActivity.class);
-                startActivity(intent3);
+                Intent english = new Intent(MainActivity.this, EnglishActivity.class);
+                startActivity(english);
 
             }
 
