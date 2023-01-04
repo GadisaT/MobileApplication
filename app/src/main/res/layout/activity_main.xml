@@ -47,18 +47,15 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
-        android:id="@+id/btnEnglish"
+        android:id="@+id/englishbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="88dp"
-        android:layout_marginBottom="88dp"
         android:fontFamily="sans-serif"
-        android:text="eNGLISH"
+        android:text="ENGLISH"
         android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/amharicbtn"
-        app:layout_constraintVertical_bias="0.267" />
+        app:layout_constraintTop_toBottomOf="@+id/amharicbtn" />
 
     <Button
         android:id="@+id/oromobtn"

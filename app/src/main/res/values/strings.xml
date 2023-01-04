@@ -242,4 +242,126 @@ read digital documents </item>
         <item>chapter4  </item>
         <item>Boqonna 5 gadifagenyaa isaa </item>
     </string-array>
+
+
+    <string-array name="e1">
+        <item>Title I: Physical people</item>
+        <item>Title II: The capacity of people </item>
+        <item>Title III: Bodies corporate and property with a specific destination </item>
+        <item>Title IV: In connection and friendship</item>
+        <item>Title V: Achievements</item>
+        <item>Title VI: Goods and possessions in general</item>
+        <item>Title VII: Individual ownership</item>
+    </string-array>
+    <string-array name="de1">
+        <item>
+    This our unity
+            HERE IS SOME AMHARIC VERSION OF ETHIOPIAN LAW CODE
+            twgftfetf twfgtewtft fwetftwfetr wetre twret twe r ty etwyerw </item>
+        <item>chapter2 details  ahgdehg</item>
+        <item>chapter ytytyt </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="e2">
+        <item>Chapter 1 under list 2</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+    </string-array>
+    <string-array name="de2">
+        <item>list second android </item>
+        <item>chapter2 details </item>
+        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="e3">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de3">
+        <item>chapter1 details lis 3</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="e4">
+        <item>ምዕራፍ 1 </item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de4">
+        <item>chapter1 details list 4 </item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+    <string-array name="e5">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de5">
+        <item>chapter1 details under [odstiuon 5</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="e6">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de6">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="e7">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de7">
+        <item>ምዕራፍ details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="e8">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de8">
+        <item>chapter1 details under the last one admistration</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
 </resources>
