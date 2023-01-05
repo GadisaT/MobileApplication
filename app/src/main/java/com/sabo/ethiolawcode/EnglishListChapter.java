@@ -19,29 +19,29 @@ public class EnglishListChapter extends AppCompatActivity {
         lv = findViewById(R.id.listview);
 
 
-        String[] e1 = getResources().getStringArray(R.array.e1);
-        String[] de1 = getResources().getStringArray(R.array.de1);
+        String[] e1 = getResources().getStringArray(R.array.code1Content);
+        String[] de1 = getResources().getStringArray(R.array.code1deteil);
 
-        String[] e2 = getResources().getStringArray(R.array.e2);
-        String[] de2 = getResources().getStringArray(R.array.de2);
+        String[] e2 = getResources().getStringArray(R.array.code2Content);
+        String[] de2 = getResources().getStringArray(R.array.code2deteil);
 
-        String[] e3 = getResources().getStringArray(R.array.e3);
-        String[] de3 = getResources().getStringArray(R.array.de3);
+        String[] e3 = getResources().getStringArray(R.array.code3Content);
+        String[] de3 = getResources().getStringArray(R.array.code3deteil);
 
-        String[] e4 = getResources().getStringArray(R.array.e4);
-        String[] de4 = getResources().getStringArray(R.array.de4);
+        String[] e4 = getResources().getStringArray(R.array.code4Content);
+        String[] de4 = getResources().getStringArray(R.array.code4deteil);
 
-        String[] e5 = getResources().getStringArray(R.array.e5);
-        String[] de5 = getResources().getStringArray(R.array.de5);
+        String[] e5 = getResources().getStringArray(R.array.code5Content);
+        String[] de5 = getResources().getStringArray(R.array.code5deteil);
 
-        String[] e6 = getResources().getStringArray(R.array.e6);
-        String[] de6 = getResources().getStringArray(R.array.de6);
+        String[] e6 = getResources().getStringArray(R.array.code6Content);
+        String[] de6 = getResources().getStringArray(R.array.code6deteil);
 
-        String[] e7 = getResources().getStringArray(R.array.e7);
-        String[] de7 = getResources().getStringArray(R.array.de7);
+        String[] e7 = getResources().getStringArray(R.array.code7Content);
+        String[] de7 = getResources().getStringArray(R.array.code7deteil);
 
-        String[] e8 = getResources().getStringArray(R.array.e8);
-        String[] de8 = getResources().getStringArray(R.array.de8);
+        String[] e8 = getResources().getStringArray(R.array.code8Content);
+        String[] de8 = getResources().getStringArray(R.array.code8deteil);
 
         Intent i1 = getIntent();
         int val = i1.getIntExtra("position", 0);
