@@ -27,7 +27,7 @@ public class EnglishActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_amharic);
+        setContentView(R.layout.activity_english);
 
         EnglishChapter adapter=new EnglishChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);

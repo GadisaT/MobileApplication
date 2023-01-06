@@ -41,6 +41,13 @@ public class AmharicActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amharic);
 
+  final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
+  findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
+      @Override
+      public void onClick(View view) {
+          drawerLayout.openDrawer(GravityCompat.START);
+      }
+  });
 
 
         AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
