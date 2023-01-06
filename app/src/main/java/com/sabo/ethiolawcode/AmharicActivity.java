@@ -23,18 +23,7 @@ import com.google.android.material.navigation.NavigationView;
 
 public class AmharicActivity extends AppCompatActivity {
 
-DrawerLayout drawerLayout;
-NavigationView navigationView;
-Toolbar toolbar;
-ActionBarDrawerToggle drawerToggle;
 
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-       if(drawerToggle.onOptionsItemSelected(item)){
-           return true;
-       }
-        return super.onOptionsItemSelected(item);
-    }
 
     ListView list;
 
@@ -52,41 +41,6 @@ ActionBarDrawerToggle drawerToggle;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amharic);
 
-        drawerLayout = findViewById(R.id.drawer_layout);
-        navigationView = findViewById(R.id.navigationview);
-        drawerToggle = new ActionBarDrawerToggle(this, drawerLayout, R.string.menu_open, R.string.menu_close);
-        drawerLayout.addDrawerListener(drawerToggle);
-        drawerToggle.syncState();
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch ((item.getItemId())) {
-
-                    case R.id.nav_home:
-                        Log.i("MENU_DRAWER_TAG", "Home item is selected");
-                        break;
-                    case R.id.nav_language:
-                        Log.i("MENU_DRAWER_TAG", "Language item is selected");
-                        break;
-                    case R.id.nav_search:
-                        Log.i("MENU_DRAWER_TAG", "Search item is selected");
-                        break;
-                    case R.id.nav_settings:
-                        Log.i("MENU_DRAWER_TAG", "Settings item is selected");
-                        break;
-                    case R.id.nav_history:
-                        Log.i("MENU_DRAWER_TAG", "History item is selected");
-                        break;
-                    case R.id.nav_share:
-                        Log.i("MENU_DRAWER_TAG", "Share item is selected");
-                        break;
-                }
-
-
-                return false;
-            }
-        });
 
 
         AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
