@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="menu_open">Open</string>
-    <string name="menu_close">Close</string>
-    <string name="menu_home">Home</string>
+    <string name="menu_open" translatable="false">Open</string>
+    <string name="menu_close" translatable="false">Close</string>
+    <string name="menu_home" translatable="false">Home</string>
     <string name="menu_language">Language</string>
     <string name="menu_search">Search</string>
     <string name="menu_settings">Settings</string>
@@ -819,102 +819,1192 @@ Ispeesifikeeshiniiwwan moodeela, keeyyata waliigalaa fi haal-duree fi qajeelfamn
     </string-array>
 
     <string-array name="kode2">
-        <item>Boqonna 1 under list 2</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
+        <item>LABSII SEERA HOJII HOJII SIIVIILII</item>
+        <item>Daangaa Hojiirra Oolmaa</item>
+        <item> AANGOO MANA MURTII</item>
+        <item>Daangaa hojiirra oolmaa</item>
+        <item>HOJII ILAALCHA SADARKAA JALQABAA IRRATTI</item>
+        <item> HOJAMAA ADDAA</item>
     </string-array>
     <string-array name="dubbisa2">
-        <item>gadi-fagenya</item>
-        <item>chapter2 details </item>
-        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>Seensa
+LABSII LAKK. 52 KAN BARA 1965
+LABSII SEERA HOJII HOJII SIIVIILII
+LEENCA GOSA YIHUDAA MO'ACHUU
+
+HAILE SELASSIE I. Afaan Oromoo
+FILATAME WAAQAYYO, EMPEROR OF EHTOPIA
+
+Dhimmoota siviilii irratti bulchiinsa haqaa ilaalchisee tumaaleen dabalataa fi fooyya’aan taasifamuun barbaachisaa waan ta’eef:
+AMMA KANAAF, akkaataa Heera Mootummaa Keenya Fooyya’e Keewwata 92 fi gorsa Mana Maree Ministiroota Keenyaatiin akka armaan gadiitti labsina:
+
+1. Labsiin kun “Labsii seera deemsa falmii siviilii bara 1965” jedhamee waamamuu ni danda’a.
+2. Seerri deemsa falmii siviilii bara 1965 bahe jildii addaatiin akka Dhimma Addaa Lakk.
+.
+
+Addis Ababaatti, Onkoloolessa guyyaa 8, 1965 kana raawwatame
+TSAHAFE TAEZAZ AKLILU HABTE WOLD
+Ministirri Muummee fi Ministira Pen</item>
+        <item>Duraa
+Keewwata 1. Daangaa hojiirra oolmaa
+(1) Tumaaleen seera kanaa himata guyyaa sanatti dhiyaatanii fi sana booda hundeeffaman hunda irratti guyyaa hojiirra oole irraa eegalee raawwatiinsa ni qabaatu.
+(2) Himannaan labsiin kun hojiirra ooluu isaa irratti dhiyaatu kamiyyuu manni murtii akkasii Seericha keessatti kan hin eeramne ta’us, seera seera kanaan haqame jalatti aangoo qabuun kan xumuramu ta’a.
+Art 2. Yeroo yeroo
+(1) Labsiin kun hojiirra ooluu isaa dura yeroon kan darbe yoo ta’e, seera kana keessatti hubachuun isaan deebisee jiraachisa.
+(2) Yeroon Labsii kanaan kan tumame yoo ta’e, guyyaa seerri kun hojiirra oolu irraa eegalee, .
+(3) Yeroon seera kanaan dheerate yoo ta’e yeroon seera kanaan tumame raawwatiinsa ni qabaata garuu yeroon seerri kun hojiirra ooluu isaa dura darbe ni hir’ifama.
+(4) Yeroon seera kanaan gabaabfame yoo ta’e, yeroon labsiin seera kanaan haqame tumame labsiin kun hojiirra ooluu isaa irraa eegalee itti fufa.
+Art 3. – Hiikkaa
+Seera kana keessatti, jechichaa hiika biraa kan kennu yoo ta’e malee, jechoonni fi ibsitoonni armaan gadii hiika armaan gadii ni qabaatu.
+“affidavit” jechuun barreeffamaan ibsa dhugaa seeraan kakate yookiin mirkanaa’e jechuudha: 1.1.
+“Mana murtii” jechuun mana murtii seeraan hundeeffame jechuudha:
+“labsii” jechuun murtii duraa yookiin xumuraa kamiyyuu sirnaan ibsuu yoo ta’u, hanga mana murtii ibse ilaallatutti, dhimmoota himata keessatti falmii keessa jiran hunda yookiin kamiyyuu ilaalchisee ibsaa gareewwanii murteessaa ta’e murteessaadha, .
+“abbaa labsii” jechuun nama labsiin isaa fayyadu kan ba’e yookiin ajajni raawwachuu danda’u kan kenname yoo ta’u, nama labsiin dabarfamee kan hammatu ta’a:
+“qondaala raawwachiisaa” jechuun abbaa murtii kamiyyuu, qondaala mana murtii kamiyyuu nama biraa Ministirri Haqaa labsii raawwachuuf muude kamiyyuu jechuudha, .
+“mana murtii biyya alaa” jechuun mana murtii Itoophiyaan alatti argamu, , .
+“ . </item>
+        <item>KITAABA I. AANGOO MANA MURTII
+
+BOQONNAA 1. TUMAALEE WALIIGALAA
+
+Keewwata 4- Manneen murtii yoo dhorkame malee himata akka ilaalan
+
+Tumaalee Keewwata armaan gadii osoo hin tuqin manneen murtii himannaa siviilii kanneen beekumsi isaanii ifattis ta’e ifatti dhorkameen ala ta’e hunda ilaaluuf aangoo ni qabaatu.
+Keewwata 5- Res judicata
+(1) Manni Murtii himannaa yookiin dhimma dhimmichi kallattiin fi haala qabatamaa ta’een himata duraanii qaamolee walfakkaatan gidduutti, yookiin qaamolee isaan ykn isaan keessaa tokko jalatti himan gidduutti, jalatti falmiin irratti dhiyaate kamiyyuu, jalatti falmiin kamiyyuu ni yaala, . mata duree wal fakkaatu, fi dhuma irratti murtaa’e kamiyyuu dhaga’ameera.
+(2) Himata duraanii keessatti dhimmi ittisaa yookiin haleellaa ta’uu danda’uu fi ta’uu qabu kamiyyuu himata akkasii keessatti kallattiinis ta’e haala qabatamaa ta’een falmii keessa akka ture ni fudhatama.
+.
+.
+Keewwata.6- Irra deebiin murtii kennuu
+. kaffaltii mana murtii murtaa’e kaffaluun murtiin akka ilaalamu mana murtii kenneef iyyachuu bakka:
+(a) murtii booda dhimma haaraa fi barbaachisaa ta’e kan akka sobaa, ragaa sobaa yookiin malaammaltummaa yoo argate. Innis erga cimina sirrii ta'een booda, yeroo murtiin kennamu beekumsa isaa keessa hin turre: fi
+(b) dhimmi akkasii yeroo murtiin kennamu osoo beekamee qabiyyee labsii yookiin ajaja gamaaggamni barbaadame irratti dhiibbaa qaba ture.
+(2) Iyyanni gamaaggamaaf dhiyaatu odeeffannoo walfakkaataa of keessaa qabaachuu qaba
+akka yaadannoo ol’iyyannootti kan deeggaramuu fi ragaa kakaa haal-duree keewwata xiqqaa jalatti tumame guutamuu isaa ragaa cimaa of keessaa qabuun kan deeggaramu ta’a. (1) (a). Iyyanni sababni iyyata iyyataan erga argateen booda ji’a tokko keessatti ni dhiyaata.
+(</item>
+        <item>KITAABA II. PARTIES TO SUIT
+
+Aartii. 32- Daangaa hojiirra oolmaa
+
+(1) Bu’uura seera kanaatiin adeemsa falmii kamiyyuu keessatti tumaaleen Kitaabichaa raawwatiinsa ni qabaatu.
+(2) Tumaalee Kitaaba kanaa ol’iyyannoo irratti hojiirra oolchuu keessatti, hanga danda’ametti, jechi “himatamaa” jedhu ol’iyyataa, jechi “himatamaa” jedhu deebii kenna, fi jechi “himata” jedhu ol’iyyannoo kan hammate ta’ee fudhatama.
+BOQONNAA 1. TUMAALEE WALIIGALAA
+
+Aartii. 33 - Ulaagaalee
+
+(1) Namni bu’uura seeraatiin dandeettii qabu kamiyyuu himata irratti hirmaataa ta’uu ni danda’a.
+(2) Namni kamiyyuu dhimma himata irratti fedhii guddaa yoo qabaate malee himataa ta’uu hin danda’u.
+(3) Himataan himannaa tokko tokko yoo himate malee namni kamiyyuu himatamaa ta’uu hin danda’u.
+
+Aartii. 34- Bakka bu’ummaa
+
+(1) Namni qaama miidhamummaa jala jiru karaa bakka bu’aa seeraa isaatiin himachuu ykn himatamuu ni danda’a.
+.
+(3) Tumaalee Keewwata armaan gadii osoo hin tuqin qaamoleen dhaabbilee akkaataa tumaalee seera siviilii yookiin daldalaa dhimmi ilaallatuun bakka bu’ummaa qabaachuu ni danda’u.
+(4) Dhimmoota galaanaa irratti bakka bu’ummaan akkaataa seera galaanaatiin tumameen ta’a.
+(5) Himata qabeenya ilaallatu hunda keessatti, falmiin namoota qabeenya akkasii irratti faayidaa qaban fi nama sadaffaa gidduutti yoo ta’e, abbaan imaanaa, raawwataa yookiin bulchaan namoota baay’ee fedhii qaban bakka bu’a, akkasumas manni murtii qajeelfama biraa yoo kenne malee himata irratti garee akka ta’an gochuun barbaachisaa ta’uu hin danda’u.
+
+Aartii. 35- Joinder o f himattootaa
+
+Namoonni daldala walfakkaataa yookiin wal-duraa duubaan daldala walfakkaataa ilaalchisee yookiin irraa madde mirgi birmaduu kamiyyuu, waliin, hedduu yookiin filannoo biraatiin, himannaa tokko keessatti walitti makamuu ni danda’u, namoonni akkasii boroo adda yoo ta’e actins gaaffiin seeraa ykn dhugaa waliigalaa kamiyyuu ni ka’a ture.
+
+Aartii. 36- Himatamtoota walitti makuu
+
+(1) Namoonni mirgi gargaarsa kamiyyuu irratti argamu jedhame hundi, waliin, adda addaa yookiin filannoo biraatiin, himatamtoota ta’anii walitti makamuu ni danda’u bakka. Himannaan adda addaa nama akkasii irratti yoo dhiyaate gaaffiin seeraa ykn dhugaa waliigalaa kamiyyuu ni ka’a ture.
+(2) Himatamaan himata tokko irratti gareewwan meeshaalee mari’ataman dabalatee namoota waliigaltee tokko irratti itti gaafatamummaa qaban hunda yookiin kamiyyuu adda addaatti, yookiin waliinii fi adda addaatiin walitti makamuu ni danda’a.  </item>
+        <item>KITAABA IV. HOJII ILAALCHA SADARKAA JALQABAA IRRATTI
+
+BOQONNAA 1. DHAABBATA FI FRAME OF SUIT
+
+KEEWWATA, TUMAALEE WALIIGALAA
+
+Keewwata 213-Himata ibsa himannaatiin hundeeffamu
+1. Iyyannoo fi iyyannoo ilaalchisee tumaalee seera kanaa osoo hin tuqin himannaan hundi ibsa himannaa galmee mana murtii keessatti galmeessuun kan dhiyaatu ta’a.
+2. Ibsi himannaa kamiyyuu dambiiwwan keewwata 80-93 fi 222-236 keessatti argaman kan eegu ta’uu qaba.
+3. Manni murtii qajeelfama biraa yoo kenne malee baasii ragaa kakaa hundaaf yookiin
+
+Aartii. 214- Galmee himata
+Tumaalee kwt. 229 jalatti galmeessichi ibsi himannaa hunda kitaaba kaayyoo sanaaf qabamee fi galmee himata siviilii jedhamee akka waamamu ni taasisa. Galmeen akkanaa akkaataa tartiiba ibsi himannaa itti fudhatameen waggaa waggaan lakkoofsa ni qabaata.
+
+Aartii. 215- Kaffaltii mana murtii
+1. Tumaalee Keewwata 467-479 osoo hin tuqin ibsi himannaa kamiyyuu bu’uura kwt. 230 kaffaltii mana murtii murtaa’e erga kaffalamee booda malee.
+2. kaffaltiin mana murtii murtaa’e ibsi ittisaa himannaa deebii of keessaa qabu yeroo dhiyaatus ni kaffalama.
+
+Aartii. 216- Fureemii suutii
+(1) Himannaan kamiyyuu hanga danda’ametti dhimmoota falmii keessa jiran irratti murtii dhumaa akka kennamuuf sababa ta’uu fi falmiin dabalataa isaan ilaallatu akka hin uumamneef kan qophaa’u ta’a.
+.
+(3) Himataan kutaa himannaa isaa kamiyyuu ilaalchisee himachuu kan dhiise, yookiin itti yaadee kan dhiise, booda kutaa akkasitti hafe yookiin dhiisuu ilaalchisee himachuu hin danda’u
+4. Namni sababa himannaa walfakkaataa ilaalchisee boqonnaa tokkoo ol argachuuf mirga qabu, boqonnaa mana murtii irraa kan hafe yoo dhiise garuu gargaarsa akkasii hundaaf himachuuf yoo dhiise, inni booda birmaduu akkasitti hafe kamiyyuu himachuu.
+
+Aartii. 217- Sababoota gochaa walitti makuu
+1. Himataan tokko himata tokko keessatti sababoota himannaa hedduu himatamaa tokko irratti, ykn himatamtoota tokko irratti waliin ta’uun tokko ta’uu ni danda’a.
+2. Himattoonni himatamaa tokko irratti yookiin himatamtoota tokko irratti waliin fedhii qaban sababa himannaa qaban kamiyyuu himata tokko keessatti sababoota himannaa akkasii tokkoomsuu ni danda’u.</item>
+        <item>KITAABA IV. HOJAMAA ADDAA
+BOQONNAA 1. HOJII GABAABAA
+Aartii. 284- Ibsa himannaa irratti raggaasifamuu addaa
+Himannaan himataan liqaa ykn gaaffii qulqullaa’e maallaqa himatamaan kaffalamuun, dhala waliinis ta’e osoo hin qabaatin, deebifachuu qofa barbaadu hunda kan ka’an:
+(a) Waliigaltee irratti, ibsame yookiin ibsame kan akka waraqaa jijjiirraa, waraqaa waadaa yookiin cheekiitti, yookiin liqaa waliigaltee salphaa biroo irratti; yookaan
+(b) maallaqa qulqulleessuu kaffaluuf hidhamee yookiin waliigaltee barreeffame irratti; yookaan
+(c) Himannaan ijoo irratti dhiyaatu liqaa yookiin maallaqa qulqullaa’e qofa ilaalchisee yoo ta’e wabii irratti, .
+filannoo himataatiin, ibsa himannaa “Adeemsa Cuunfaa” jedhamee raggaasifame dhiyeessuun kaffaltii mana murtii murtaa’e erga kaffalee booda, fi ragaa kakaa himataan ykn nama biraa dhugaa jiruuf kakachuu danda’uun kenname waliin kan hundeeffamu ta’uu ni danda’a , sababa himannaa, fi maallaqni himatame yoo jiraate mirkaneessuu fi amantaa isaa keessatti himata kanaaf ittisi akka hin jirre ibsuu.
+
+Aartii. 285- Murtii iyyata hayyama ittisaa hin raawwanne irratti
+(1) Ibsa himannaa raggaasifamee fi ragaa kakaa akkaataa keewwata 284 jalatti tumameen Manni Murtii himatamaaf bifa Gabatee lammaffaatiin yookiin bifa biraatiin waamicha unkaa Gabatee lammaffaatiin tumameen akka kennamu ni taasisa dhorkamuu ni danda’a, himatamaanis mana murtii irraa hayyama gaafachuu fi argachuu isaatiin alatti dhiyaatee ittisuu hin danda’u.
+(2) Himatamaan yookiin himatamaa hedduu keessaa tokkoon iyyata akkasii yeroo waamichi itti kennameen murtaa’e keessatti yoo hin raawwanne himataan maallaqa ibsa himannaa keessatti himatame hin caalle labsii argachuuf mirga qaba dhala yoo jiraate, fi baasii himatamaa irratti yookiin himatamtoota himata dhiyaatanii himata ittisuuf hayyama iyyachuu dadhaban irratti waliin.
+
+Aartii. 286- Iyyata hayyama ittisaa
+(1) Himata himatamaa dhiyaachuu fi falmuuf iyyanni dhiyaate ragaa kakaatiin kan deeggaramuu yoo ta’u, kunis ittisi himatame guutummaatti yookiin yoo jiraate, kutaa himannaa himataa kamitti akka gargar ba’u kan ibsu ta’a. akkasumas manni murtii himatamaan iyyata dhiyeessu kakaadhaan akka qoratamu hayyamuu ni danda’a.
+(2) Manni murtichaa himatamaan akka argamu fi kakaadhaan akka qoratamu, yookiin sanadoota, kitaabota yookiin sanadoota, yookiin waraabbii yookiin kanneen keessaa baafaman kamiyyuu akka dhiyeessu ajajuu ni danda’a.
+(3) Himatamaan beeksisa iyyatichaa fi waraabbii ragaa kakaa himatamaan galmeesse ni kennamaaf.</item>
     </string-array>
     <string-array name="kode3">
-        <item>Boqonna 1</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
-        <item>Boqonna 4</item>
-        <item>Boqonna 5</item>
+        <item>SEENSA SEERA YAKKAA</item>
+        <item>SEERA YAKKAA FI DAANGAA ISAA</item>
+        <item> YAKKAA FI KOMISHIINII ISAA</item>
+        <item> HAALA ITTI GAAFATAMUMMAA ADABAA YAKKA ILAALCHISEE</item>
+        <item>ADABA YAKKAA FI HOJIIRA ISAA</item>
+        <item>ADABAA MURTEESSUU, DHAABBACHUU, ITTI FUFIINSA FI DHABUU</item>
+        <item>KUTAA ADDAA</item>
     </string-array>
     <string-array name="dubbisa3">
-        <item>chapter1 details lis 3</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>SEENSA SEERA YAKKAA
+Seerri adabbii bara 1957 hojiirra erga oole gara walakkaa jaarraa ta'eera. Yeroo kana keessatti jijjiiramni hundee siyaasaa, diinagdee fi hawaasummaa Itoophiyaa keessatti mul’ateera. Jijjiirama gurguddaa keessaa Heera mootummaa fi waliigalteewwan idil-addunyaa Itoophiyaan raggaasifteen walqixxummaa amantiiwwan saboota, sablammootaa fi ummatoota, mirga dimokiraasii fi bilisummaa lammiilee fi jiraattotaa, mirga namoomaa, hunda caalaa immoo mirga gareewwan hawaasaa beekamtii kennuudha akka dubartootaa fi daa’immanii. Taateewwan kun hundi erga raawwatamanii booda raawwiin seera adabbii bara 1949 bahe itti fufuu hayyamuun sirrii hin ta’u.
+Qaawwi seera adabbii keessatti mul’atu kan biraan yakkoota guddina teeknooloojii fi walxaxiinsa jireenya ammayyaa irraa dhalatan sirnaan furuu dhabuu isaati. Seerri adabbii yakkoota akka xiyyaara butachuu, yakka kompiitaraa fi maallaqa seeraan alaa daddabarsuu hin hammatu. Kana malees, yakkoota malaammaltummaa fi qoricha sammuu namaa hadoochu waliin walqabatan ilaalchisee yeroo ammaa kana ta’us, daangaa biyyaa keessatti qofa osoo hin taane sadarkaa naannoo fi idil-addunyaatti seera baasuu fi hordoffii keessatti xiyyeeffannoo hawwataa kan jiran yoo ta’u, rakkoo hamaa isaan fidaa jiran irraa kan ka’e, seera adabbii yakkoota akkasii sadarkaa cimina isaaniif malutiin haala gahaa ta’een hin ilaalu.
+Qabxiin biraa bira darbamuu hin qabne seera adabbii sababa gocha aadaa miidhaa geessiseen miidhaa fi gidiraa cimaa dubartootaa fi daa’imman irra ga’eef beekamtii kennuu dhabuu isaati. Dhugaadha, Heerri mootummaa aadaa ummatootaaf kabaja akka qabaatu kan mirkaneessu ta’us, gochoota miidhaa akka qaban saayinsiidhaan mirkanaa’an sana hin deggeru. Seera imaanaa fi deeggarsa ummataa hin qabne baasuunis bu’aa hin qabu sababiin isaas yeroo baay’ee hojiirra ooluu kan hin dandeenye ta’ee hafeera. Garuu qaamni seera baasu yeroo tokko tokko seera tarkaanfataa fudhachuudhaan ummanni gochaalee aadaa miidhaa geessisan irraa akka adda ba’u barsiisuu fi qajeelchuu akka qabu falaasama seera yakkaa keessatti beekamtii guddaa qaba.
+Kana malees, tumaalee yakkaa adda addaa Gaazexaa Negarit irratti maxxanfaman haala bittinnaa’een walitti qabuun seera hunda galeessa ta’e fudhachuun barbaachisaadha. Haaluma walfakkaatuun hojiirra oolmaan walfakkaataan, seera adabbii idilee fi seera adabbii addaa fooyya’e dhimmoota walfakkaatan ilaalchisee walqixxummaa lammiilee tuffatu waan ta’eef, seera yakkaa hunda galeessa ta’e jiraachuun gocha akkasii xumura ni taasisa.
+Hanqinoota armaan olitti ibsaman maqsuun seera Yakkaa hunda galeessa ta’e fudhachuuf guutummaa Biyyattii keessatti hojiiwwan gurguddoon hojjetamaa turaniiru. Wixinee seera yakkaa Ministeera Haqaa fi Inistiitiyuutii Qorannoo Haqaa fi Sirna Seeraa qopheesse irratti mariin gaggeeffameera. Ogeessota seeraa fi fayyaa, ogeeyyii sammuu, dhaabbilee barnoota olaanoo adda addaa fi ogeessa</item>
+        <item>SEERA YAKKAA FI DAANGAA ISAA
+KUTAA I WALIIGALAA KUTAA
+KITAABA I YAKKAA FI YAKKAA
+MATA DUREE I SEERA YAKKAA FI DAANGAA ISAA
+BOQONNAA I DAANGAA SEERAA
+Keewwata 1- Kaayyoo fi Kaayyoo
+Kaayyoon seera yakkaa Rippabiliika Dimookiraatawaa Federaalawaa Itiyoophiyaa sirna, nagaa fi nageenya Naannichaa, ummatoota isaa, fi jiraattotaa mirkaneessu faayidaa ummataaf jecha.
+Yakkoota fi adabbii seeraan tumaman beeksisa sirrii kennuudhaan yakkoota ittisuuf kan akeeke yoo ta’u kunis yakkamtoonni yakka biroo akka hin raawwannee fi namoota biroof barumsa akka ta’an gochuuf jecha adabbiin akka adabaman tumaa gochuun bu’aa kan hin qabne yoo ta’e, ykn karaa haaromsa isaanii fi tarkaanfiiwwan yakkoota dabalataa akka hin raawwatamneef tumaa.
+
+Keewwata 2- Qajeelfama Seerummaa.
+(1) Seerri yakkaa yakkoota adda addaa, akkasumas adabbii fi tarkaanfiiwwan yakkamtoota irratti raawwatiinsa qaban ni ibsa.
+(2) Manni Murtichaa gocha yookiin dhiisuu seeraan hin dhorkamne kamiyyuu akka yakkaatti ilaaluu fi adabuu hin danda’u.
+Manni Murtichaa adabbii yookiin tarkaanfii seeraan tumameen alatti murteessuu hin danda’u.
+(3) Manni Murtii walfakkeessuudhaan yakkoota uumuu hin danda’u.
+(4) Tumaaleen armaan olitti ibsaman Manni Murtii seera hiikuu hin dhorkan. Shakkii yoo ta’e Manni Murtichaa kaayyoo yaada isaa keessa jiru galmaan ga’uuf akkaataa hiika qaamni seera baasu yaadameen, akkaataa hafuura isaatiin ni hiika.
+(5) Namni kamiyyuu yakka duraan itti murtaa’e, adabame ykn tarkaanfiiwwan biroo itti murtaa’e ykn murtii dhumaatiin bilisa ta’e bu’uura seeraatiin irra deebi’amee murtii ykn adabamuu hin danda’u.
+
+Keewwata 3- Seera Adabbii Biroo.
+Seera kana keessatti wanti kamiyyuu dambiiwwanii fi seerota addaa yakkaa ta’an irratti dhiibbaa hin geessisu:
+Qajeeltoowwan waliigalaa seera kana keessatti hammataman dambiiwwanii fi seerota sana irratti haala biraatiin haala biraatiin kan tumaman yoo ta’e malee.
+
+Keewwata 4- Walqixxummaa Seera Dura.
+Seerri yakkaa namoota, haala hawaasummaa, sanyii, saba, sabummaa, madda hawaasummaa, halluu, saala, afaan, amantii, yaada siyaasaa ykn kan biroo, qabeenya, dhaloota ykn sadarkaa biroo ilaalchisee loogii tokko malee hundaaf walqixa raawwatiinsa qaba. </item>
+        <item>MATA DUREE II YAKKAA FI KOMISHIINII ISAA
+BOQONNAA I YAKKA
+Keewwata 23- Yakkoota.
+(1) Yakki jechuun gocha seeraan dhorkamee fi akka adabamu taasifameedha.
+Seera kana keessatti gochi tokko waan dhorkame raawwachuu ykn waan seeraan tumame dhiisuu of keessaa qaba.
+(2) Yakki tokko kan xumuramu wantootni seeraa, meeshaa fi naamusaa isaa hundi yoo jiraatan qofaadha.
+(3) Keewwata kana keewwata xiqqaa (2) jalatti kan tumame jiraatus, namni abbaa seerummaa haal-duree seera kana keewwata 34 jalatti tumameen adabbii yakkaan ni adabama.
+(4) Yakki tokko kan adabsiisu Manni Murtii yakkichi mirkanaa’ee fi adabbiin kan malu ta’uu isaa yoo argatedha.
+Keewwata 24 – Hariiroo Sababaa fi Bu’aa.
+(1) Yakki tokko raawwachuun bu’aa kenname tokko galmaan ga’uu kan barbaadu hunda keessatti bu’aan argame bu’aa gocha yookiin dhiisuu himatamaan himatame yoo ta’e malee yakkichi akka raawwatameetti hin ilaalamu.
+Hariiroon sababaafi bu’aa kun kan jiru gochi tumaalee seeraa keessa jiru adeemsa idilee keessatti bu’aa himatame kan argamsiisu yoo ta’e jedhamee fudhatama.
+(2) Gocha qaama sadaffaatiin yookiin taatee uumamaa yookiin akka tasaa sababoonni gocha himatamaan ala ta’an, walitti dhufeenyi sababaafi bu’aa kun jiraachuu ni dhaabata yeroo sababni ala ta’e mataan isaa bu’aa argamsiise.
+Haala akkanaa keessatti gochi himatamaan ittiin himatame mataan isaa yakka kan ta’e yoo ta’e adabbii yakka akkasii irratti ibsameef ni kaffalama.
+(3) Hariiroon sababaafi bu’aa tokkoon tokkoon sababa keewwata xiqqaa (2) jalatti ibsamee fi bu’aa argame gidduutti akka jirutti fudhatama, bu’aan isaa bu’aa kuufamaa sababoota kanaa yoo ta’e, sababoonni tokkoon tokkoon isaanii of danda’anii bu’aa argamsiisuu kan hin dandeenye ta’us .
+Keewwata 25- Bakka fi Yeroo Yakki Raawwatame.
+(1) Yakki kan raawwatame iddoo fi yeroo yakkamaan gocha seera yakkaatiin adabame raawwate yookiin raawwachuu dhabuu isaati.
+Yaaliin kan raawwatamu bakka fi yeroo yakkamaan gochoota duraa yaalii akkasii ta’an raawwate ykn raawwachuu dadhabetti ta’a.
+(2) Yakkoota battalaa hin taane ilaalchisee gochi fi bu’aan yakkaa wal hin simne yakkichi bakka gochi seeraan alaa fi kan bu’aa isaatti raawwatame jedhamee fudhatama. </item>
+        <item>MATA DUREE III HAALA ITTI GAAFATAMUMMAA ADABAA YAKKA ILAALCHISEE
+BOQONNAA I ITTI GAAFATAMUMMAA YAKKAA
+
+Keewwata 1- Itti Gaafatamummaa Idilee
+
+Keewwata 48- Itti Gaafatamummaa Yakkaa fi Itti Gaafatamummaa Dhabuu.
+(1) Yakkamaan gocha isaatiif itti gaafatamummaa qabu tumaalee seera yakkaatiin kophaa isaa adabbiin ni danda’ama.
+(2) Namni tokko gocha isaa seera jalatti itti gaafatamummaa hin fudhatu, sababa umurii, dhukkuba, guddina isaa irratti harkifannaa hin baramne, dandeettii sammuu isaa hammeessuu, sababoota keewwata 49sub-bakka 1 ykn baayoloojii kana fakkaatan kamiyyuu jalatti ibsaman keessaa tokko. sababa, yeroo gocha isaa raawwatutti, maalummaa ykn bu’aa gocha isaa hubachuuf, ykn akkaataa hubannoo akkasiitiin amala isaa to’achuuf dandeettii hin qabu ture.
+(3) Manni Murtichaa nama itti gaafatamummaa hin qabne ilaalchisee tarkaanfiiwwan wal’aansaa yookiin eegumsa mijatoo ta’an akka seeraan tumaman ajajuu ni danda’a (Keewwata 129-131).
+
+Keewwata 49- Itti Gaafatamummaa Gartokkee.
+(1) Sababoota armaan olitti keewwata xiqqaa 48 keewwata xiqqaa (2) jalatti ibsaman keessaa tokkoon, yookiin haala jeequmsaa yookiin haala hin baramne yookiin hanqina yookiin sababa baayoloojii walfakkaataa biroo kamiinuu yeroo gocha isaa raawwatu gartokkoon dandeettii kan hin qabne yoo ta’e maalummaa yookiin bu’aa isaa hubachuun yookiin akkaataa hubannoo akkasiitiin gocha isaa to’achuun adabbii yakka raawwatameef ibsameef gartokkoon itti gaafatamummaa ni qabaata. Manni murtichaa akkaataa keewwata 180 tiin murtii ni murteessa.
+(2) Adabbii malees Manni Murtii tarkaanfiiwwan wal’aansaa, sirreeffama yookiin eegumsa sirrii ta’an akka seeraan tumaman ajajuu ni danda’a (Keewwata 129-131).
+
+Keewwata 50- Yakkoota Haala Itti Gaafatamummaa Hin Qabne Keessatti Raawwataman Machaa’uudhaan Yookiin Haala Kanaan Fakkaatu Biroo.
+(1) Tumaaleen itti gaafatamummaa adabbii hambisan yookiin hir’isan nama yakka raawwachuuf yookiin yakka raawwachuu akka danda’u beekee itti yaadee haala itti gaafatamummaa dhabuu guutuu yookiin itti gaafatamummaa daangeffame keessa of galche kamiyyuu irratti raawwatiinsa hin qabaatan alkoolii ykn qoricha sammuu namaa hadoochu ykn mala biroo kamiyyuu.
+Haala akkasii keessatti tumaaleen waliigalaa seera kanaa raawwatiinsa ni qabaatu.  </item>
+        <item>KITAABA II ADABA YAKKAA FI HOJIIRA ISAA
+
+MATA DUREE I ADABAA FI TARKAANFII BIRAA FI RAAWWII ISAANII
+
+BOQONNAA I TUMAALEE WALIIGALAA
+
+Keewwata 87- Qajeelfama.
+Adabbiiwwanii fi tarkaanfiiwwan seera kanaan tumaman akkaataa hafuura seera kanaatiin hojiirra ooluu fi kaayyoo inni yaada keessa jiru galmaan ga’uuf (Keewwata 1).
+Adabbii fi tarkaanfiiwwan yeroo hunda kabaja sababa kabaja dhala namaatiin kan walsimu ta’uu qaba.
+
+Keewwata 88- Shallaggii Adabbii.
+(1) Manni Murtichaa tumaalee Kutaa Waliigalaa seera kanaa fi tumaalee addaa yakkootaa fi adabbii isaanii ibsan waliin walsimuun adabbii fi tarkaanfiiwwan ni murteessa.
+(2) Adabbiin kan murtaa’u haala balaa yakkamaa, dursee, kaka’umsaa fi kaayyoo, haala dhuunfaa isaa fi sadarkaa barnootaa, akkasumas ulfaatina yakkichaa fi haala ergama isaa itti kenname.
+(3) Tumaalee Kutaa Addaa seera kanaa akkuma eegametti ta’ee Manni Murtichaa adabbii salphaa irraa kaasee hanga cimaa ta’etti of eeggannoodhaan qoratee adabbii tokkoon tokkoon dhimmaaf malu qofa murteessa.
+(4) Sirrummaa fi walfakkaatummaa adabbii mirkaneessuuf Manni Murtii Olaanaa Federaalaa maanuwaalii murtii adabbii ilaallatu ni baasa.
+
+Keewwata 89- Yakkoota Xixiqqaa.
+Yakkoota xixiqqaa yoo ta’an Manni Murtichaa tumaalee keewwata 122 ceepha’uu yookiin akeekkachiisa ilaallatan yookiin tumaalee Seera Yakkoota Xixiqqaa hojiirra oolchuu ni danda’a.
+Yakkoonni xixiqqaan yakkoota hidhaa salphaa ji’a sadii hin caalleen ykn maallaqa Birrii kuma tokko hin caalleen adabamanidha. </item>
+        <item>MATA DUREE II ADABAA MURTEESSUU, DHAABBACHUU, ITTI FUFIINSA FI DHABUU
+BOQONNAA I ADABAA MURTEESSUU FI DHAABBACHUU
+Kutaa I- Murteessuu
+Keewwata 178- Madaallii Adabbii Dhimma Salphisuu ykn Cimsannaa Seeraan Kenname.
+Dhimmoota idilee adabbii qajeeltoowwan waliigalaa (Keewwata 88) waliin walsimsiisuun murteessuu irraa kan hafe, akkasumas bu’uura seeraatiin dhimmi adabbii salphisuu yookiin cimsuu dirqama yookiin filannoodhaan kan ka’e yoo ta’e Manni Murtichaa tumaalee armaan gadii hojiirra ni oolcha.
+Keewwata Xiqqaa I- Dambiiwwan Salphisuu fi Bilisa Ta’uu Bulchan
+
+Keewwata 179- Salphina Idilee.
+Manni Murtichaa bu’uura keewwata kanaatiin adabbii akka salphisu seerri kan tumame hunda keessatti, salphinni sun sirrii ta’ee yoo itti mul’ate, ni labsa:
+(a) adabbii du’aa osoo hin taane hidhaa cimaa waggaa digdamaa hanga umurii guutuu;
+(b) hidhaa cimaa umurii guutuu osoo hin taane hidhaa cimaa waggaa kudhanii hanga digdamaa;
+(c) hidhaa cimaa yeroo xiqqaa murtaa’eef osoo hin taane, hidhaa cimaa yeroo xiqqaa waliigalaa waggaa tokkoo gadi hin taane;
+(d) hidhaa cimaa yoo xiqqaate waggaa tokkoo osoo hin taane hidhaa salphaa ji’a jahaa hanga waggaa shanii;
+(e) Hidhaa salphaa yeroo xiqqaa murtaa’eef Kutaa Addaa Seera kanaa keessatti tumameef osoo hin taane, hidhaa salphaa yeroo waliigalaa xiqqaa guyyoota kudhanii gadi hin taane;
+(f) hidhaa salphaa yeroo waliigalaa xiqqaa guyyoota kudhanii gadi hin taane, hojii dirqamaa yookiin adabbii maallaqaa osoo hin taane.
+
+Keewwata 180- Salphina Bilisaa.
+Dirqisiisaas ta’e filannoodhaan adabbii daangeessuu malee seerri adabbii salphisuu kan tumame yoo ta’e Manni Murtichaa bu’uura qajeeltoowwan armaan gadiitiin murteessuuf aangoo ni qabaata.
+Manni Murtichaa gosa adabbii kutaa addaa seera kanaa keessatti yakkichi akka ilaalamuuf tumameen, yookiin xiqqaa tumaan kun tumameen hin hidhamu; yeroo xiqqaa murtaa’e caalaa yeroo gabaabaa ta’eef daangaa tokko malee adabbii murteessuu yookiin adabbii kennameef adabbii cimaa hin taane bakka bu’uu ni danda’a; haa ta’u malee Manni Murtichaa adabbii inni murteessu ilaalchisee, maalummaa isaa maal iyyuu yoo ta’e,
+            xiqqaa waliigalaa Kutaa Waliigalaa, (Keewwata 90, 106 fi 108) keessatti tumame qofaan kan hidhamu ta’a.
+
+Keewwata 181- Tumaalee Waliigalaa.
+Manni Murtichaa aangoo salphisuu isaa haalawwanii fi daangaa seeraan tumameen hojiirra oolchuu keessatti yeroo hunda akkaataa qajeeltoowwan waliigalaa yakka yakkaa to’ataniin maalummaa adabbii ni murteessa (Keewwata 57).
+Salphisuun yoo ta’e, idilee (Keewwata 179) yookiin bilisaa (Keewwata 180) yoo ta’e,
+            miidhaa qaqqabeef beenyaan akka kaffalamu (Keewwata 101) yeroo hunda ajajamuu ni danda’a.</item>
+        <item>KUTAA II KUTAA ADDAA
+KITAABA III YAKKA MOOTUMMAA IRRATTI YKN DANTAA BIYYAA YKN ADDUNYAA IRRATTI Raawwatamu
+MATA DUREE I YAKKA MOOTUMMAA IRRATTI Raawwatame
+BOQONNAA I YAKKA MOOTUMMAA BIYYOOLESSAA IRRATTI Raawwatame
+KUTAA I- Yakkoota Sirna Heera Mootummaa fi Nageenya Keessaa Naannichaa irratti raawwataman
+Keewwata Xiqqaa I- Yakkoota Heera Mootummaa ykn Mootummaa irratti raawwataman
+
+Keewwata 238- Heera Mootummaa ykn Ajaja Heera Mootummaa irratti dallansuu.
+(1) Namni itti yaadee jeequmsa, doorsisa, shira ykn mala seeraan alaa biroo kamiinuu:
+(a) Heera Mootummaa Federaalaa yookiin Naannoo Oromiyaa ni kuffisa, ni fooyyessa yookiin ni dhaabsisa; yookaan
+(b) tartiiba Heera Mootummaa Federaalaa yookiin Naannootiin diriire kan kuffisu yookiin kan jijjiire yoo ta’e, .
+hidhaa cimaa waggaa sadii hanga waggaa digdamii shanitti adabama.
+(2) Yakkichi nageenya ummataa irratti rakkoo cimaa kan fide yoo ta’e yookiin umurii guutuu kan fide yoo ta’e adabbiin isaa hidhaa umurii guutuu yookiin du’a ta’a.
+
+Keewwata 239- Raawwii Aangoo Heera Mootummaa gufachiisuu.
+Jeequmsa, doorsisaa yookiin mala seeraan alaa kamiinuu qondaalli yookiin qaama Heera Federaalaa yookiin Naannootiin hundeeffame kamiyyuu aangoo isaa akka hin fayyadamne kan dhorke yookiin kan dhorke yookiin murtii akka kennan kan dirqisiisu yoo ta’e.
+Hidhaa cimaa waggaa kudha shan hin caalleen ni adabama.
+
+Keewwata 240- Hidhannoon Ka’uu ykn Waraana Biyya keessaa.
+(1) Kan itti yaadee:
+(a) qondaala yookiin qaama Heera Mootummaatiin hundeeffame kamiyyuu irratti fincila, fincila yookiin fincila hidhannoo ni qindeessa yookiin ni hooggana; yookaan
+(b) waraana biyya keessaa kan kaasu, lammiilee yookiin jiraattota hidhachiisuudhaan yookiin akka meeshaa waraanaa walirratti akka fudhatan kakaasuun, .
+hidhaa cimaa waggaa kudhanii hanga waggaa digdamii shanitti adabama.
+(2) Yakkichi nageenya ummataa irratti rakkoo cimaa kan fide yoo ta’e yookiin umurii guutuu kan fide yoo ta’e adabbiin isaa hidhaa umurii guutuu yookiin du’a ta’a.
+(3) Namni fedhii isaatiin sochii keewwata kana keewwata xiqqaa (1) jalatti ibsame irratti hirmaate hidhaa cimaa waggaa torbaa hanga waggaa digdamaa ni adabama.
+(4) Qindeessaan yookiin hirmaataan lubbuu, bilisummaa, nama, fayyaa yookiin qabeenya irratti miidhaa geessisuu yookiin yakka biraa raawwachuu isaa kan mirkanaa’e yoo ta’e, dabalataan bu’uura tumaa labsichaa dhimmi ilaallatuun itti gaafatamummaa ni qabaata.
+
+Keewwata 241- Haleellaa Qulqullina Siyaasaa ykn Naannoo Mootummaa irratti raawwachuu.
+Kallattis ta’e al-kallattiin jeequmsaan yookiin mala heera mootummaa faallessu kamiinuu gocha tokkummaa ummatootaa balleessuuf, yookiin Federeeshinii balleessuuf, yookiin naannoo yookiin ummataa gartokkee Federeeshinii yookiin Naannoo irraa addaan kutuuf qophaa’e yoo raawwate, .
+Hidhaa cimaa waggaa kudhanii hanga waggaa digdamii shanii, yookiin haala ulfaatina addaa yoo ta’e hidhaa umurii guutuu yookiin du’aan ni adabama.</item>
     </string-array>
     <string-array name="kode4">
-        <item>Boqonna 1 </item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
-        <item>chapter 4</item>
-        <item>chapter 5</item>
+        <item>MOOTUMMAA IMPERIYAAL ITOOPHIYAA ITOOPHIYAA</item>
+        <item> Daangaa hojiirra oolmaa</item>
+        <item>Labsii Seera Deemsa Falmii Yakkaa 1961</item>
+        <item>Aangoo Manneen Murtii, Kutaa Abbaa Alangaa fi Poolisii</item>
+        <item>Abbaa Alangaa fi Qorannoo</item>
+        <item>Qorannoo Duraa fi Dhaddachaaf Waadaa Galuu</item>
+        <item> Kitaaba I Tumaalee Waliigalaa</item>
+        <item> Kitaaba II Tumaalee Waliigalaa</item>
     </string-array>
     <string-array name="dubbisa4">
-        <item>chapter1 details list 4 </item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>MOOTUMMAA IMPERIYAAL ITOOPHIYAA ITOOPHIYAA
+LABSII Lakk.185 BARA 1961
+
+
+Seera deemsa falmii yakkaa
+Kan Itoophiyaa
+
+
+Aangoo mootummaan kan maxxanfame
+Ministeera Qalama
+Addis Ababa
+
+Maxxansi kitaaba kanaa inni jalqabaa waggaa 32ffaa kana keessatti kan maxxanfame bara bulchiinsa Jaalatamtuu Impaayera Haayilasillaasee 1ffaa Emperor of Ethiopia
+Maxxansi kun irra deebi'amee kan maxxanfame 1962 E.C. (1969) .
+
+NEGARIT GAZETA jedhamuun beekama
+ji'a ji'aan kan maxxanfamu aangoo th(' Ministeera l?/ Qalama
+P.O. Sanduuqa 137
+
+Kan maxxanfame
+Manneen Maxxansaa Berhanena Selam Hayile Sillaasee I
+Addis Ababa Itoophiyaa </item>
+        <item>Mata duree Duraa
+Aartii. I. - Daangaa hojiirra oolmaa.
+(I) Haala biraatiin yoo tumame malee tumaaleen seera kanaa namoota hunda irratti walqixa raawwatiinsa ni qabaatu.
+(2) Haala biraatiin yoo tumame malee, dhimmoota aangoo manneen murtii, abbaa alangaa fi aangawoota poolisii jala dhufan hunda irratti tumaaleen seera kanaa raawwatiinsa ni qabaatu.
+Aartii. 2. – Hojiirra oolmaa akka yeroo.
+( I) Tumaaleen seera kanaa guyyaa hojiirra oole irraa eegalee dhimmoota guyyaa akkasii ilaalamaa jiranii fi sana booda uumaman hunda irratti raawwatiinsa ni qabaatu.
+.
+Dhimmi kamiyyuu mana murtii seera kana keessatti hin ibsamne duratti kan dhiyaatu yoo ta’e, dhimmi akkasii mana murtii bu’uura seera kanaan aangoo qabuun kan xumuramu ta’a.
+Aartii. 3. - Hiikkaa
+Seera kana keessatti ibsitoonni armaan gadii hiika armaan gadii ni qabaatu: 'Abukaatoo Waliigalaa" jechuun Abukaatoo Waliigalaa jalatti muudame jechuudha
+tumaalee Labsii Abbootii Alangaa Lakk.
+"mana murtii" jechuun mana murtii seeraan hundeeffame jechuudha;
+"Itti Aanaa Abbaa Alangaa Waliigalaa" jechuun tumaalee Labsii Abbaa Alangaa Mootummaa Lakk.
+"seera" labsii, labsii, ajajoota fi seera gargaaraa bu'uura kanaan ba'e kamiyyuu ni dabalata;
+"Minister" jechuun Ministira Haqaa;
+"kan murtaa'e" jechuun Seera kanaan yookiin dambiilee bu'uura kanaan tumame jechuudha;
+"abbaa alangaa mootummaa" jechuun tumaalee Labsii Abbaa Alangaa Mootummaa Lakk.123 bara 1952 baheen muudame;
+"galmeessaa" itti aanaa galmeessaa, gargaaraa galmeessaa fi barreessaa mana murtii kan hammatu ta'a;
+"dargaggeessa" jechuun nama umriin isaa sagal hanga kudha shanii gidduu jiru jechuudha. </item>
+        <item>Labsii Seera Deemsa Falmii Yakkaa 1961
+
+LEENCA GOSA YIHUDAA MO'ACHUU
+
+HAILE SELLASSIE 1. Afaan Oromoo fi Jechoota Dinqisiiso
+FILATAME WAAQAYYO, EMPEROR ITOOPIA
+
+WSEREAS Seerri adeemsa yakkaa to’annoo Keenya jalatti qophaa’ee hayyama Seenetii fi Mana Maree Itti Aanaa Keenyaa argateera;
+AMMA KANAAF, akkaataa Heera Mootummaa Keenya Fooyya’e Keewwata 34 fi 88 tiin Murteewwan Seenetii fi Mana Maree Itti aanaa Keenya ni raggaasifna, haaluma kanaanis akka armaan gadiitti labsina:
+
+1. Labsiin kun “Labsii seera deemsa falmii yakkaa 1961” jedhamee waamamuu ni danda’a.
+2. Seera deemsa falmii yakkaa bara 1961 jildii addaatiin maxxanfamee akka Dhimma Adda ta’etti mul’ate. Lakk. </item>
+        <item>KITAABA I
+
+Aangoo Manneen Murtii, Kutaa Abbaa Alangaa fi Poolisii
+
+BOQONNAA 1 Aangoo Manneen Murtii
+
+Keewwata 4. __ Aangoo murtii yakkoota ilaalchisee.
+
+(1) Manneen murtii seera kana Gabatee Tokkoffaa tarree sadaffaa keessatti caqafaman yakkoota tarree tokkoffaa fi lammaffaa keessatti caqafaman murtii kennuu fi adabbii seeraan tumame murteessuuf aangoo ni qabaatu.
+(2) Ministirri ajaja Negarit Gazeta irratti maxxanfameen sagantaa jalqabaa jijjiiruu ykn jijjiiruu ni danda’a.
+
+Aartii. 5.___ Namoota murtiin itti kennamu.
+
+(1) Dargaggeessi kamiyyuu (seera adabbii keewwata 53) nama guddaa waliin murtii argachuu hin danda’u.
+(2) Miseensi humna waraanaa kamiyyuu yakka aangoo mana murtii waraanaa keessa hin dhufne malee nama nagaa waliin ta’uun hin ilaalamne.
+
+Aartii. 6. __ Naannoo aangoo murtii
+
+Manneen murtii aangoo naannoo bu’uura tumaalee kwt. 99-107 irratti kan argamu.
+
+Aartii. 7 ___ Aangoo ol’iyyannoo
+
+Manneen murtii aangoo ol’iyyannoo bu’uura tumaalee Keewwata. 182 irratti.
+
+
+Boqonnaa 2 Kutaa abbaa alangaa fi poolisii
+
+Aartii. 8 aangoo kutaa abbaa alangaa mootummaa.
+
+(1) Abbaan Alangaa Waliigalaa, Itti aanaan Abbaa Alangaa Waliigalaa fi abbootiin alangaa mootummaa dirqama seera kanaan isaan irratti fe’ame raawwachuuf itti gaafatamummaa ni qabaatu.
+(2) Kutaan Abbaa Alangaa hojii isaa raawwachuu keessatti ajajaa fi qajeelfama barbaachisaa ta’e poolisiif kennuu fi poolisiin hojii isaa bu’uura seeraatiin akka raawwatu gochuu ni danda’a.
+
+Aartii. 9 Dirqama poolisii.
+
+Poolisiin akkaataa tumaalee seera kanaatiin kutaa abbaa alangaa mootummaa akka
+(a) Yakka ittisaa kunuunsuu;
+(b) Raawwii yakkoota argachuu;
+(c) Yakkamtoota to’annoo jala oolchuu; fi
+(d) Miseensonni poolisii abbaa alangaa mootummaa ta’anii yeroo muudaman yakka himachuu. </item>
+        <item>KITAABA II
+Abbaa Alangaa fi Qorannoo
+
+MATA DUREE I
+Setting in Motion Himannaa fi Qorannoo
+Boqonnaa 1 Haqa sochii keessa galchuu
+
+Keewwata 1 Himata fi komii
+
+Aartii. 11 __ Himannaa waliigala.
+
+(1) Namni kamiyyuu falmiin yakkaa akka jalqabamu yaadamee yakkichi raawwatamuu isaa argees ta’ee osoo hin taane, yakka kamiyyuu gabaasuuf mirga ni qaba.
+(2) Dhimmoota kwt. 267,344 fi seera adabbii 438.
+
+Aartii. 12.___ Himata maqaa hin beekamne.
+
+Himannaan maqaan isaa hin ibsamne qarqara galaanaa seeraa hamaa kan ibsu fi fuula isaanii irratti haalaa fi amanamaa ta’e haala kwt. 22 fi kan itti aanan. dhugaa ta’uus ta’e karaa biraa himannichaa mirkaneessuuf yaadamee.
+
+Aartii. 13__ Yakkoota komii irratti adabaman.
+
+Yakkoota bu’uura seeraatiin seeratti dhiyaachuu fi adabamuu kan danda’an qaama miidhame ykn mirga isa irraa argataniin komii sirnaa dhiyeessuun qofa yoo ta’e, tumaalee kwt. 217-222 fi 721 Seera Adabbiitiin raawwatiinsa ni qabaata.
+
+Aartii. 14 __ bifa himannaa ykn himannaa.
+
+(1) Himannaan (Keewwata 11) yookiin komiin ( Keewwata 13) kamiyyuu nama maraateef gara barreeffamaatti kan gadi bu’u yoo ta’u, yeroo xumuramus himatamaa kan mallatteessee fi guyyaa itti kaa’uuf ni dubbifama.
+(2) Himannaan yookiin komiin nama tokkoo ol yoo dhiyaate ( Keewwata.219 Penal Cade), namoonni akkasii hundi mallatteessuu qabu.
+
+Aartii. 15 __ Yakkamaa hin beekamne irratti himannaa ykn himannaa dhiyeessu.
+
+Yakkamaan nama himannaa yookiin komii dhiyeesse biratti waan hin beekneef adda baafamuu kan hin dandeenye yoo ta’e, namni sun eenyummaa yakkamaa mirkaneessuuf yaadamee ibsa bal’aa isa beeku dhiyeessu qaba.
+
+Aartii. 16 __ Abbaa taayitaa himata ykn komii fudhachuuf gahumsa qabu.
+
+(1) Himannaan (Keewwata 11) yookiin komiin(Keewwata 13) kamiyyuu poolisii yookiin abbaa alangaa mootummaatti dhiyaachuu ni danda’a. Dargaggeessa tokko ilaalchisee himannaan ykn komiin dhiyaatu bu’uura Keewwata. 172. 172.
+(2) Abbaa alangaa mootummaaf kan dhiyaate yoo ta’e, abbaan alangaa bu’uura kwt. 22 fi kan itti aanan.
+
+Aartii. 17. __ ​​Himannaa ykn komiin qaama dogoggoraaf dhiyaate.
+
+Himannaan yookiin komiin poolisii yookiin abbaa alangaa mootummaatiin alatti nama yookiin abbaa taayitaa biraa yookiin abbaa taayitaa poolisii yookiin abbaa alangaa aangoo hin qabneef yoo dhiyaate, namni, abbaan taayitaa yookiin abbaan alangaa sun himata yookiin komii poolisii dhimmi ilaallatuuf osoo hin tursiisin dabarsuu qaba abbaa taayitaa ykn abbaa alangaa mootummaa.
+
+Aartii. 18.__ Himata ykn Iyyannoo sobaa.
+
+Namni himannaa sobaa ykn komii sobaa dhiheesse adabbiiwwan keewwata 10 jalatti tumaman ni adabama. 441 fi 580 Seera Adabbii. </item>
+        <item>KITAABA III
+
+Qorannoo Duraa fi Dhaddachaaf Waadaa Galuu
+
+Keewwata.80.—Qajeelfama.
+
+(1) Namni kamiyyuu bu’uura kwt. 522 (ajjeechaa sadarkaa tokkoffaa) ykn Keewwata. 637 (saamicha cimaa) jalatti tumaalee Kitaaba kanaatiin qorannoon duraa ni gaggeeffama.
+Keewwata kana keessatti wanti Manni Murtii Olaanaa dhaddachi hatattamaan gaggeeffamuu akka danda’u abbaan alangaa mootummaan itti quufetti qorannoo duraa akka hin gaggeessine kan dhorku yoo ta’e malee.
+(2) Namni kamiyyuu yakka biroo Mana Murtii Ol’aanaa qofaan ilaalamuu danda’uun kan himatame yoo ta’e abbaan alangaa mootummaa kwt. 38 (b) akkasitti qajeelcha.
+(3) Yakkoota aangoo Mana Murtii Ol’aanaa jala dhufan dargaggootaan raawwataman irratti tumaaleen Kitaaba kanaa raawwatiinsa hin qabaatan.
+
+Keewwata.81.—Mana murtii aangoo murtii qabu.
+
+(1) Tumaalee kwt. 99-107 jalatti kan tumame yoo ta’u, duraan dursee Mana Murtii Woreda Guezat naannoo aangoo isaa keessatti yakkichi raawwatame duratti ni gaggeeffama.
+
+Keewwata.82.—Adeemsa.
+
+(1) Gaaffiin duraa hundi haala Keewwata armaan gadiitiin kan gaggeeffamu ta’a.
+(2) Haal-duree kwt. 94. 94. .
+
+abbaan alangaa abbaa alangaa deeggaruuf bilbiluu barbaadu ni danda’a.
+(3) Dhimmi himannaaf dhiyaatu abbaa alangaa mootummaa mana murtii raawwate duratti socho’uun ta’a.
+
+Keewwata.84.—Ragaa himachuuf fudhachuu.
+
+(1) Himatamaan yoo dhiyaate yookiin gara fuulduraatti yoo dhiyaate, manni murtii abbaan alangaa dhimma isaa akka banee fi ragaalee isaa akka waamu ni gaafata.
+
+Keewwata.85.—Himatamaan ibsa kennuu barbaaddaa jedhee gaafate.
+
+(1) Ragoonni himannaaf dhiyaatan erga dhagahamee ragaan isaanii erga galmaa’ee booda manni murtichaa himatamaan himannaaf deebii kennuudhaan ibsa kennuu akka barbaadu ni gaafata.
+(2) Qorannoon duraa dhaddacha akka hin taanee fi murtiin balleessaa isaa yookiin qulqullummaa isaa ilaalchisee kennamu mana murtii raawwateen osoo hin taane Mana Murtii Ol’aanaan akka ta’e ni beeksifama.
+(3) Ibsi kennuu barbaadu kamiyyuu barreeffamaan akka gadi bu’uu fi yeroo dhaddacha isaatti galfamuu akka danda’u malee waan biraa dubbachuuf akka hin dirqamne ni beeksifama.
+
+Keewwata.86.—Ibsa himatamaa.
+
+(1) Himatamaan ibsa tokkollee kennuu yoo filate, battalumatti Mana Murtii Ol’aanaatti akka dhiyaatu ni dhiyaata.
+(2) Himatamaan ibsa kennuu yoo filate, ibsi akkasii barreeffamaan gadi bu’ee, dubbifamee, himatamaan mallattaa’ee galmee keessatti ni qabama.
+
+Keewwata.87.—Ragaa ba’oota dabalataa.
+
+Abbaan alangaa ragaan akkasii akka waamamu iyyachuu baatus, yeroo barbaadetti ragaa ragaan isaa faayidaa haqaatiif barbaachisaa ta’ee itti mul’ate waamuu ni danda’a.</item>
+
+    <item>YAALII KITAABA IV
+
+MATA DUREE I
+Yaalii
+
+Boqonnaa 1. Tumaalee Waliigalaa
+
+Aartii. 94.—Yeroo biraatti dabarsuu. -- Haalota.
+
+.
+(2) Yeroon tursiisni kennamuu hin danda’u yoo:
+(a) Abbaan alangaa, mootummaas ta’e kan dhuunfaa, yookiin himatamaan sababa gaariin dhiyaachuu dhabuu isaa; yookaan
+(b) Ragoonni himannaa yookiin ittisaaf dhiyaatan kan hin argamne yoo ta’e; yookaan
+(c) Dhaddacha dhimma qorannoo duraatiin Mana Murtii Ol’aanaatti dhiyaateen alatti, abbaan alangaa qorannoof yeroo barbaada; yookaan
+(d) Ragaan dabalataa dhiyaachuu qaba; yookaan
+(e) Ragaan abbaa alangaatiin yookiin ittisaan kan dhiyaatu yoo ta’u, kan gama biraa taajjabbiidhaan fudhatuu fi oomishni isaa tilmaamuun kan hin danda’amne yoo ta’e; yookaan
+(f) Himannaan kan jijjiirame yookiin kan itti dabalamee fi abbaan alangaa yookiin himatamaan himannaa yookiin ittisa irra deebi’ee ilaaluuf yeroo kan barbaadu yoo ta’e; yookaan
+(g) Himatamaaf waraabbii himannaa yookiin qorannoo duraa kan hin kennamne yookiin dhaddacha dura yeroon baay’ee gabaabaa ta’ee ittisa isaa sirnaan akka qopheessu kan isa dandeessisu yoo ta’e: Yookiin
+(h) Dhaddachi osoo hin jalqabin dura himannaaf qoqqobbii dursee kennuu barbaachisa: yookiin
+(i) Adeemsi biroo jalqaba yoo xumurame malee murtiin dhaddacha keessatti kennamuu hin danda’u: yookiin
+(j) Tasgabbiin sammuu himatamaa ogeessaan mirkanaa’uu qaba: yookiin
+(k) Manni murtichaa himatamaan yoo dargaggeessa ta’e hordoffii jala galchuu akka qabu ni ilaala: yookiin
+(l) Daandiin kun guyyaa tokkotti xumuramuu waan hin dandeenyeef guyyaa itti aanutti kan turu ta’a.
+(3) Keewwata (a) fi (f)-(h) dabalatee yeroon tursiisaa torban tokkoo ol hin kennamu.
+
+Keewwata 95-Yeroo biraatti dabarsuu fi waamicha haaraa.
+
+(1) Tumaalee keewwata xiqqaa. (3) Keewwata. 94 jalatti tumameen manni murtichaa dhaddacha yeroo biraatti kan dabarsu kaayyoo yeroon itti darbeef akka raawwatamuuf kan dandeessisu gahaa ta’e qofaaf ta’a.
+.
+(3) Bu’uura keewwata 94 (2) keewwata (c) yookiin (i)-(k)tiin dhaddachi yeroo biraatti kan darbe yoo ta’e, manni murtichaa kaayyoon yeroon itti kennameef yeroo raawwatame haaraa ni kenna waamicha gareewwanii fi ragootaaf.
+
+Keewwata 96-Bu’aa yeroo biraatti dabarsuu.
+
+(1) Yeroo tursiisaa yeroo kennu, kurtichi kaayyoon yeroon itti kenname akka raawwatamuuf ajaja barbaachisaa ta’e ni kenna.</item>
+        <item>YAALII KITAABA IV
+
+MATA DUREE I
+Yaalii
+
+Boqonnaa 1. Tumaalee Waliigalaa
+
+Aartii. 94.—Yeroo biraatti dabarsuu. -- Haalota.
+
+.
+(2) Yeroon tursiisni kennamuu hin danda’u yoo:
+(a) Abbaan alangaa, mootummaas ta’e kan dhuunfaa, yookiin himatamaan sababa gaariin dhiyaachuu dhabuu isaa; yookaan
+(b) Ragoonni himannaa yookiin ittisaaf dhiyaatan kan hin argamne yoo ta’e; yookaan
+(c) Dhaddacha dhimma qorannoo duraatiin Mana Murtii Ol’aanaatti dhiyaateen alatti, abbaan alangaa qorannoof yeroo barbaada; yookaan
+(d) Ragaan dabalataa dhiyaachuu qaba; yookaan
+(e) Ragaan abbaa alangaatiin yookiin ittisaan kan dhiyaatu yoo ta’u, kan gama biraa taajjabbiidhaan fudhatuu fi oomishni isaa tilmaamuun kan hin danda’amne yoo ta’e; yookaan
+(f) Himannaan kan jijjiirame yookiin kan itti dabalamee fi abbaan alangaa yookiin himatamaan himannaa yookiin ittisa irra deebi’ee ilaaluuf yeroo kan barbaadu yoo ta’e; yookaan
+(g) Himatamaaf waraabbii himannaa yookiin qorannoo duraa kan hin kennamne yookiin dhaddacha dura yeroon baay’ee gabaabaa ta’ee ittisa isaa sirnaan akka qopheessu kan isa dandeessisu yoo ta’e: Yookiin
+(h) Dhaddachi osoo hin jalqabin dura himannaaf qoqqobbii dursee kennuu barbaachisa: yookiin
+(i) Adeemsi biroo jalqaba yoo xumurame malee murtiin dhaddacha keessatti kennamuu hin danda’u: yookiin
+(j) Tasgabbiin sammuu himatamaa ogeessaan mirkanaa’uu qaba: yookiin
+(k) Manni murtichaa himatamaan yoo dargaggeessa ta’e hordoffii jala galchuu akka qabu ni ilaala: yookiin
+(l) Daandiin kun guyyaa tokkotti xumuramuu waan hin dandeenyeef guyyaa itti aanutti kan turu ta’a.
+(3) Keewwata (a) fi (f)-(h) dabalatee yeroon tursiisaa torban tokkoo ol hin kennamu.
+
+Keewwata 95-Yeroo biraatti dabarsuu fi waamicha haaraa.
+
+(1) Tumaalee keewwata xiqqaa. (3) Keewwata. 94 jalatti tumameen manni murtichaa dhaddacha yeroo biraatti kan dabarsu kaayyoo yeroon itti darbeef akka raawwatamuuf kan dandeessisu gahaa ta’e qofaaf ta’a.
+.
+(3) Bu’uura keewwata 94 (2) keewwata (c) yookiin (i)-(k)tiin dhaddachi yeroo biraatti kan darbe yoo ta’e, manni murtichaa kaayyoon yeroon itti kennameef yeroo raawwatame haaraa ni kenna waamicha gareewwanii fi ragootaaf.
+
+Keewwata 96-Bu’aa yeroo biraatti dabarsuu.</item>
+
+
     </string-array>
     <string-array name="kode5">
-        <item>Boqonna 1</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
+        <item>SEENSA
+LEENCA GOSA YIHUDAA MO'ACHUU</item>
+        <item>ABSII SEERA DALDALAA BARA 1960</item>
+        <item>KITAABA I.
+DALDALAA FI DALDALAA</item>
+        <item>KITAABA II. DHAABBILEE BIIZINASII</item>
+        <item>KITAABA III. GAARII FI INSUURAANSII</item>
+        <item>KITAABA IV
+MEESHALEE MARII FI DALDALA BANKII</item>
+        <item>KITAABA V.
+BANKRUPTCY FI ISKIIMOOTA QOPHII</item>
+        <item>KITAABA VI.
+TUMAALEE CE'UMSAA</item>
 
     </string-array>
     <string-array name="dubbisa5">
-        <item>chapter1 details under [odstiuon 5</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>SEENSA
+LEENCA GOSA YIHUDAA MO'ACHUU
+HAILE SELASSIE I. Afaan Oromoo
+FILATAME WAAQAYYO, EMPEROR ITOOPIA
+Addunyaa Ammayyaa keessatti sabni kamiyyuu jireenya daldalaa fi dinagdee isaa babal’isuuf abdachuu hin danda’u, bu’uura seeraa cimaan kan tasgabbii fi nageenya daldala daldalaa keessatti wantoota barbaachisoo ta’an kan mirkaneessu yoo ta’e, yeroo walfakkaatutti bu’uura gahaa ta’ee ibsame garuu kan jijjiiramu kan keessa jiru yoo jiraate malee daldalli fi daldalli dagaagee guddachuu danda’a. Har’a Itiyoophiyaa keessatti guddinni daldalaa tumaalee seerota dhaabbilee daldalaa fi kiisa waliin walqabatan waggoota jalqabaa Bara Bulchiinsa Keenyaa keessa labsamanii fi daldalaa fi industirii bara jalqabaa sanaa wajjin walsimsiisan guddiseera. Jireenyi Daldalaa Itiyoophiyaa babal’atee, dhaabbileen Itoophiyaa fi biyya alaa baay’inaan ijaaramanii galmaa’aniiru, waggoota dhiyoo asitti malawwan daldalaa walxaxaa ta’an qophaa’aniiru.
+Seerri ammayyaa heera mootummaa fi sochii dhaabbilee daldalaa hunda to’atu guddina daldalaa fi daldalaa daran guddisuuf kaka’umsa kennuu akka danda’u hubachuun, Komishiniin Koodifikeeshinii US uumte Seera Daldalaa ammayyaa kan yeroo ammaatiifis tajaajilu akka qopheessu qajeelfama kennine akka seerota dhimmoota kana ilaalan caalaatti fooyyessuuf bu’uura cimaa ta’u. Seerota daldalaa Keenya babal’isuu fi cimsuu keessatti, to’annoo daldala hundaaf, fi keessumaa to’annoo geejjibaa imaltootaa fi meeshaalee, gama sochii daldalaa kan bara waggoota kurnan darban keessa. Haaluma walfakkaatuun daldalli alaa fi keessoo daran babal’achuu isaa ilaalcha keessa galchuun seerota meeshaalee mariin hojjetamuu danda’anii fi daldala baankii bulchan bal’inaan ibsuun barbaachisaa ta’ee jira.
+Seerri daldalaa har’a labsamaa jiru ulaagaalee kana guuta. Seeraa fi aadaa Itoophiyaa durii irratti kan hundaa’e yoo ta’u, seera humnoota daldalaa gurguddoo biroo eeruun daran babal’ateera. Seerri kun hawwii Ummata Keenya Jaallatamaa kan guutu ta’uu fi jireenya dinagdee Itoophiyaa saffisaa fi sirnaan akka guddatu kan gargaaru ta’uu isaa amantaa qabna. Paarlaamaan keenya tumaalee bal’aa seera kanaa of eeggannoo fi obsaan qoratee wanti ittiin ragga’e fedhii Biyya Keenyaa fi namootaa fi dhaabbileen lafa biraa irraa dhufaniif hirmaataa fi fayyadamummaa seera kana keessatti qooda fudhachaa jiraniif haala gaariin kan mijatu ta’uu isaati jireenya daldalaa Impaayera keenyaa. Hojii hunda caalaa barbaachisaa ta’e kan seera Keenya koodii gochuu keessatti Waaqayyo isa hundumaa danda’uun akka qajeelfamnu, fi firii hojii kanaas qajeelfama haqaa idil-addunyaa kan sabni kamiyyuu malee jiraachuu ykn badhaadhuu akka hin dandeenye jala sararuu isaa yeroo hunda yaada keessa galchina.
+Bara Bulchiinsa Keenya waggaa 30ffaa, Caamsaa 5ffaa bara 1960 kana kan kenname
+HAILE SELASSIE I. Afaan Oromoo
+Emperor</item>
+        <item>LABSII Lakk.166 bara 1960
+LABSII SEERA DALDALAA BARA 1960
+LEENCA GOSA YIHUUDAA MO'UU HAILE SELASSIE I
+FILATAME WAAQAYYO, EMPEROR ITOOPIA
+Guddinni Impaayera Keenya damee daldalaatiin argamtu seera daldalaa Keenya koodii gochuu waan barbaaduuf; fi
+Seerri Daldalaa to’annoo Keenya jalatti qophaa’ee hayyama Seenetii fi Mana Maree Itti Aanaa Keenyaa waan argateef;
+AMMA KANAAF, akkaataa Heera Mootummaa Keenya Fooyya’e Keewwata 34 fi 88 tiin murteewwan Seenetii fi Mana Maree Bakka Bu’oota Ummata keenyaa raggaasifnee akka armaan gadiitti labsina:
+1. Labsiin kun “Labsii Seera Daldalaa, 1960” jedhamee waamamuu ni danda’a.
+2. Seerri Daldalaa bara 1960, jildii addaa Lakk.
+3. Labsiin Kisii fi seera Kubbaaniyyaa 12th July, 1933, Adoolessa guyyaa 11, 1960 irraa eegalee haqameera.
+Caamsaa 5ffaa bara 1960 kana Addis Ababaatti raawwatame.
+TSAHAFE TAEZAZ AKLILU HABTE WOLD
+Itti aanaa muummicha ministeeraa fi Ministira Pen </item>
+        <item>KITAABA I.
+DALDALAA FI DALDALAA
+
+MATA DUREE I. TUMAALEE WALIIGALAA DALDALOOTA IRRATTI Raawwataman
+
+Boqonnaa 1. Tumaalee Namoota Daldala Gaggeessan Ilaalchisee
+
+Aartii. 1. - Daangaa raawwii seera siviilii.
+
+Seera kana keessatti haala biraatiin kan tumame yoo ta’e malee, tumaaleen seera siviilii sadarkaa fi sochii namootaa fi dhaabbilee daldalaa daldala gaggeessan irratti raawwatiinsa ni qabaatu.
+
+Aartii. 2. - Daangaa raawwii Seera Galaanaa.
+
+Tumaaleen seera galaanaa dhimmi ilaallatu namootaa fi dhaabbilee daldalaa daldala galaanaa gaggeessan irratti raawwatiinsa ni qabaatu
+
+Aartii. 3. - Namootaa fi dhaabbilee daldalaa.
+
+Tumaaleen Seera kanaa tumaalee namoota qaamaan mul’atan qofa irratti raawwatiinsa qaban irraa kan hafe namoota irratti raawwatiinsa qaban dhaabbilee daldalaa irratti raawwatiinsa ni qabaatu.
+Wanti tumaalee addaa Kitaaba II fi Kitaaba V Mata duree IV seera kanaa dhaabbilee daldalaa qofa irratti raawwatiinsa qaban irratti dhiibbaa hin geessisu.
+
+Aartii. 4. - Qaamolee Seera Mootummaa jalatti dhaabbilee ta’an.
+
+1. Seeraan ifatti kan tumame yoo ta’e malee, qaamoleen seera mootummaa jalatti dhaabbilee ta’an, kan akka dhaabbilee bulchiinsaa yookiin amantaa yookiin dhaabbileen mootummaa biroo kamiyyuu bu’uura kwt. 5. 5. .
+2. Tumaalee keewwata xiqqaa. (1) dhaabbilee qaamoleen seera mootummaa jalatti dhaabbilee ta’an qofa irratti hirmaatan irratti raawwatiinsa hin qabaatu.
+
+Boqonnaa 2. Daldaltoota
+
+Aartii. 5. - Namoota akka daldaltootaatti ilaalamuu qaban.
+Namoonni ogummaadhaanis ta’e bu’aadhaaf hojiiwwan armaan gadii kamiyyuu raawwatan akka daldaltootaatti ni ilaalamu: 1.1.
+1. Meeshaalee socho’an ykn kan hin sochoone akkuma jiran irra deebi’anii gurguruuf yaadamee bitachuu
+yookiin erga jijjiiramee yookiin madaqfamee booda;
+2. Kiraadhaaf kireeffachuuf yaadamee meeshaalee socho’an bitachuu;
+3. Hojiiwwan kuusaa akkaataa kwt. 2806 jalatti tumameen seera siviilii:
+4. Zayitii albuudaa barbaaduu fi hojjechuu dabalatee albuuda fayyadamuu;
+5. Faayidaa warshaalee dhagaa ogeeyyii harkaatiin osoo hin taane;
+6. Fayyadama qamadii soogidda;
+7. Jijjiirraa fi madaqsuu chattels, kan akka nyaataa, meeshaalee jallisii ykn walakkaa .
+oomishaalee xumuraman kan ogeeyyii harkaatiin osoo hin taane;
+8. Meeshaalee socho’an ijaaruu, suphuu, kunuunsuu, qulqulleessuu, dibu ykn halluu itti gochuu osoo hin taane
+ogeeyyii harkaa;
+9. Embanking, levelling, trenching ykn draining qaama sadaffaaf raawwatame osoo hin taane
+ogeeyyii harkaa;
+10. Meeshaalee yookiin namoota ogeeyyii harkaatiin hin taane geejjibsiisuu; </item>
+        <item>KITAABA II. DHAABBILEE BIIZINASII
+
+MATA DUREE I. TUMAALEE WALIIGALAA
+
+Aartii. 210. - Gurmaa’ina daldalaa ibsame.
+
+1. Dhaabbanni daldalaa waldaa waliigaltee walta’iinsaa irraa maddu kamiyyuu jechuudha.
+2. Dhaabbanni daldalaa walta’iinsa waliin ala ta’e kamiyyuu nama seera qabeessa ta’ee fudhatama.
+
+Aartii. 211. - Waliigaltee walta’iinsaa.
+
+Waliigaltee walta’iinsaa a. waliigaltee namoonni lamaa fi isaa ol walitti makamuu fi tumsuuf yaadan hojiiwwan bifa dinagdee ta’an raawwachuu fi bu’aa fi kasaaraa kana irraa maddu yoo jiraate irratti hirmaachuuf gumaacha walitti fiduuf waadaa galan.
+
+Aartii. 212. - Dhaabbilee daldalaa adda addaa.
+
+1. Seera kana jalatti dhaabbileen daldalaa bifa ja’a qabu: 1.1.
+qeenxee. walta’iinsa idilee;
+b. hojii waliinii;
+c. walta’iinsa waliigalaa;
+d. Walta’iinsa daangeffame;
+e. dhaabbata aksiyoonaa;
+f. dhaabbata dhuunfaa daangeffame;
+
+2. Tumaaleen addaa dhaabbilee waldaa hojii gamtaa irratti raawwatiinsa qaban tumamuu ni danda’u.
+
+Aartii. 213. - Dhaabbilee daldalaa daldalaa.
+
+1. Dhaabbanni daldalaa walta’iinsa idileetiin ala ta’e kamiyyuu hiika Keewwata 1tiin dhaabbata daldalaa daldalaa ta’uu ni danda’a. 10 (1) jalatti tumameera.
+2. Dhaabbanni daldalaa daldalaa bifa walta’iinsa idileetiin kan uumame yookiin bifa dhaabbatichaa kan hin ibsamne yoo ta’e, dhaabbati daldalaa daldalaa akka walta’iinsa waliigalaa ta’ee fudhatama.
+
+Aartii. 214. - Uumamni barreeffamaan ta’uu qaba.
+
+Dhaabbanni daldalaa kamiyyuu dhaabbata waliinii malee ijaaramuun isaa barreeffamaan yoo ta’e malee bu’aa tokkollee hin qabu.
+
+Aartii. 215. -Tumaalee dhaadannoo.
+
+1. Tumaan bu’aa hunda hiriyaa tokkoof kennu kamiyyuu bu’aa hin qabu.
+2. Tumaan kamiyyuu hiriyoota 01' ol qooda isaa kasaaraa irraa bilisa taasisu bu'aa hin qabu.  </item>
+        <item>KITAABA III. GAARII FI INSUURAANSII
+
+MATA DUREE I. GAARII LAFAAN
+
+Boqonnaa I. Tumaalee Waliigalaa
+
+Aartii. 561. - Waliigaltee geejjibaa.
+Waliigaltee geejjibaa jechuun namni tokko geejjibaa jedhamu namoota, mi’a ykn meeshaalee baatee bakka murtaa’e tokkotti akka geessu badhaasaaf waadaa galuudha.
+
+Aartii. 562. - Mi'a.
+
+1. Meeshaaleen imaltuun tokko akka fe’amu taasisu kan akka meeshaalee jirma, baaskitii, boorsaa harkaa yookiin paakeejii biroo bifa walfakkaataa qaban keessatti argaman akka mi’aatti ilaalamu.
+2. Meeshaaleen imaltuun tokko akka baatu hayyamamee fi geejjibaan hin galmoofne akka mi’a harkaa ta’etti fudhatama.
+3. Meeshaaleen geejjibaan imaanaa itti kennamee fi fudhate akka mi’a galmaa’etti ilaalamu.
+
+Aartii. 563. - Lafaan konkolaataa geejjibuu.
+
+Tumaaleen Mata Duree kanaa nama kamiyyuu namoota, mi’a yookiin meeshaalee lafaan, keessumaa daandii, baaburaa yookiin karaa bishaanii biyya keessaa kan akka lagaa, sulula yookiin haroowwan fe’uuf badhaasaaf waadaa gale kamiyyuu irratti raawwatiinsa ni qabaatu.
+Aartii. 564. - Xiyyaaraan geejjibuu.
+Tumaaleen Mata duree II Kitaaba kanaa qilleensaan geejjibaa namootaa, mi’a ykn meeshaalee irratti raawwatiinsa ni qabaatu.
+
+Aartii. 565. - Geejjibaa galaanaan.
+Tumaaleen seera galaanaa dhimmi ilaallatu namoota, mi’a ykn meeshaalee galaanaan geejjibsiisuu irratti raawwatiinsa ni qabaatu.
+
+Aartii. 566. - Kontiraata 01 konkolaataa bakka bu’aan hojjetame.
+Tumaaleen Keewwata. 2251 seera siviilii waliigaltee geejjibaa ergamtootaan hojjetame irratti raawwatiinsa ni qabaata.
+
+Boqonnaa 2. Mata dureewwan Geejjibaa
+Kutaa 1. Tikeetii Imaltootaa
+Aartii. 567. - Tikeetiin barbaachisuu danda'a.
+1. Waliigaltee geejjibaa namootaa bakka gareewwan waliigalan ni uuma. Geejjibaan imaltichi ofii isaatiif akka bituu fi hanga imala xumuramutti maqaa geejjibaa kan akka kaffaltii, tikkeettii ykn tikkeettii waqtii akka eegu gaafachuu ni danda’a.
+2. Namni tikkeettii malee imalu baasii imala sanaa irratti dabalataan kaffaltii dabalataa akka kaffalu tumaaleen kaa’amuu ni danda’u.
+3. Baasii geejjibaa fi yeroon ka’uu fi dhufaatii tikkeettii imaltuu irratti ni ibsama.
+
+Kutaa 2. Mi'a - Tikeetii
+Aartii. 568. - Mirga imaltuu.
+Imaltuun mi’a galmaa’e ilaalchisee tikkeettii mi’aa guyyaa fi bakka itti kenname, bakka mi’a irraa fi garamitti akka fe’amu, baay’ina ciccitaa fi ulfaatina mi’a agarsiisu akka isaaf geessu gaafachuu ni danda’a , fi baasii geejjibaa yoo baasii geejjibaa imaltuu keessatti hammatame malee.
+
+Aartii. 569. - Kaayyoo mi’a-tikeetii.
+1. Faallaan isaa yoo mirkanaa’e malee, tikkeettiin mi’a galmee fi haala geejjibaa mi’a sanaaf ragaa ta’a. </item>
+        <item>KITAABA IV
+MEESHALEE MARII FI DALDALA BANKII
+
+MATA DUREE I. TUMAALEE WALIIGALAA
+
+Aartii. 715. - Hiika.
+
+1. Meeshaan mari’atamu jechuun sanada kamiyyuu mirga mirga tokko haala meeshaa sana irraa adda ta’ee hojiirra oolchuu ykn dabarsuu hin dandeenyeen of keessatti hammate jechuudha.
+2. Seerri kun keessumaa meeshaa daldalaa meeshaalee daldalaa, sekuritiiwwan dabarfamuu danda’an, sanadoota abbaa qabeenyummaa meeshaalee ta’uun beekamtii kenna.
+
+Aartii. 716. - Dirqama meeshaalee mariin hojjetamuu danda’an irraa maddu.
+
+.
+2. Abbaan idaa kan kaffalu meeshaan sun yoo dhiyaate qofa.
+3. Hanni yookiin dagannoon guddaan gama isaatiin yoo ta’e malee, namni jedhame abbaa mirgaa ta’uu baatus, nama meeshaan sun dandeettii liqii kenneef yeroo bilchinaatti kaffaltiin ni gadhiifama.
+
+Aartii. 717. - Ittisa.
+
+1. Iyyataan abbaa meeshaa irratti ittisa hariiroo dhuunfaa isaanii, ittisa unkaa fi kan barreeffama meeshaa irratti hundaa’e qofa irratti hundaa’uun dhaabuu ni danda’a.
+.
+.
+
+Aartii. 718. - Yeroo isaa eeggatee qabata.
+
+Nama meeshaa marii yeroo isaa eeggatee argate irratti, akkaataa seera marii irratti raawwatiinsa qabuun, gaaffiin deebi’ee argamu kamiyyuu dhiyaachuu hin danda’u.
+
+Aartii. 719. - Unkaalee jijjiirraa.
+
+Akkaataa unkaalee jijjiirraa isaaniif tumamanitti meeshaaleen mari’ataman gara baateetti, maqaa murtaa’een yookiin ajaja kennuu danda’u.
+
+Aartii. 720. - Jijjiirraa meeshaalee.
+
+1. Meeshaaleen waliigaltee irra ga’uu danda’an gara baattuutti nama isaan kenneen, gaaffii fi baasii abbaa qabeenyaatiin maqaa murtaa’een gara meeshaaleetti jijjiiramuu ni danda’u.
+2. Bakka jijjiirraan seeraan dhorkame yookiin ifatti nama meeshaalee sana baaseen malee, meeshaaleen maqaa murtaa’een gara meeshaatti jijjiiramuu ni danda’u, gaaffii fi baasii abbaa qabeenyaatiin, inni lammaffaan eenyummaa isaa fi dandeettii isaa hundeessuun ni danda’ama . akkaataa tumaalee kwt. 723 (2) jalatti kan tumame dha.</item>
+    <item>KITAABA V.
+BANKRUPTCY FI ISKIIMOOTA QOPHII
+
+MATA DUREE I. TUMAALEE WALIIGALAA
+
+
+Aartii. 968. - Daangaa hojiirra oolmaa.
+
+1. Tumaaleen Kitaaba kanaa daldalaa kamiyyuu irratti raawwatiinsa ni qabaatu hiika Keewwata. 5 jalatti tumamee fi dhaabbata daldalaa daldalaa kamiyyuu hiika kwt. 10 jalatti kan tumame yoo ta’u, dhaabbilee waliinii irraa kan hafe.
+2. Tumaalee namoota qaamaan mul’atan qofa irratti raawwatiinsa qaban yookiin tumaalee Mata duree IV dhaabbilee daldalaa qofa irratti raawwatiinsa qaban osoo hin tuqin, tumaaleen Mata duree I, II, III fi V Kitaaba kanaa daldaltootaa fi dhaabbilee daldalaa daldalaa irratti raawwatiinsa ni qabaatu.
+
+Aartii. 969. - Haala kiisa.
+
+Daldalaan kaffaltii addaan kutee fi bankrupt ta’uun labsame kamiyyuu akka bankrupt ta’etti fudhatama.
+
+Aartii. 970. - Kisii dhugaa.
+
+1. Murtiin kiisaa kan hin kennamne yoo ta’e, kiisa kaffaltii addaan kutuu qofa irraa kan maddu hin ta’u.
+.
+
+Aartii. 971. - Dhugaawwan kaffaltii addaan kutuu ta’an.
+
+Kaffaltiin addaan cituun isaa dhugaa, gocha yookiin sanada liqiin fudhataan hojii daldalaa isaatiin walqabatee waadaa galee ture kana booda guutuu akka hin dandeenye agarsiisu kamiyyuu irraa kan maddu ta’a.
+
+Aartii. 972. - Beeksisa kaffaltii addaan kutuu.
+
+Daldalaan kamiyyuu kaffaltii liqaa daldalaa isaa addaan kute guyyoota kudha shan keessatti beeksisa kana ilaalchisee galmeessaa mana murtii bu’uura kwt. 974 yookiin 1157 jalatti tumameen, dhaabbata falmii kiisaa yookiin iskiimii qophii raggaasisuuf yaadamee.
+
+Keewwata 973. - Sanadoota beeksisaatti dabalamuu qaban.
+
+1. Sanadoonni armaan gadii, guyyaa fi mallattaa’an, beeksisa bu’uura kwt. 972: 1.1.
+qeenxee. baalansii dhaabbatichaa;
+b. herrega bu’aa fi kasaaraa;
+c. tarree liqii fi liqaa daldalaa, maqaa fi teessoo abbootii liqaa fi liqaa waliin.
+2. Sababoonni ni kennama i</item>
+        <item>KITAABA VI.
+TUMAALEE CE'UMSAA
+
+Boqonnaa 1. Tumaalee waliigalaa
+
+Aartii. 1171. - Yeroo yeroo.
+1. Seerri kun hojiirra ooluu isaa dura yeroon kan darbe yoo ta’e, wanti tokkollee, seerri kun yeroo sanatti deebi’ee hin ka’u.
+2. Seerri kun yeroo gochoota ykn raawwii sirnaa raawwachuuf yeroo kaa'u yeroo kamiyyuu seera kana hojiirra oolchuu dura yeroon hin kaa'amne, yeroon akkasii hojiirra oolaa jiru irraa ni fiiga . kan Dambii kanaa.
+3. Yeroon seera kanaan dheerate yoo ta’e tumaaleen seera kanaa raawwatiinsa kan qabaatan yoo ta’u, yeroon seerri kun hojiirra ooluu isaa dura ture ni hir’ifama.
+4. Yeroon seera kanaan gabaabfame yoo ta’e yeroon labsiin seera kanaan haqame raawwatiinsa kan qabuu fi yeroon seerri kun hojiirra ooluu isaa dura ture ni hir’ifama.
+
+Aartii. 1172. Mirga kenname.
+
+Haala biraatiin yoo tumame malee, haalli seeraa haala dhimmi ilaallatu uumuuf ments dura uumame kamiyyuu akka Seera kana keessatti tumameen haalawwan uumamuu haalli akkasii bulchan ni fooyyessa.
+
+Aartii. 1173. - Haalli seeraa dhumarratti hin uumamne.
+Ifatti yoo tumame malee, haalli seeraa dhumarratti seerri kun hojiirra ooluu isaatiin hin uumamne haala ilaallatu uumuuf ulaagaalee dabalataa seera kana keessatti tumamaniin kan bulfamu ta’a.
+
+Chaartara 2. Daldaltoota: Daldala. Dhaabbilee Daldalaa
+
+Aartii. 1174. - Galmee Daldalaa.
+
+1. Tumaalee Keewwata. 86-122 seera kanaa guyyaa Ajaja Gaazexaa Negarit irratti maxxanfameen beeksifamu irraa eegalee hojiirra oola.
+2. Tumaan seera kanaa dirqama Galmee Daldalaa keessatti galmeessuuf yeroo kaa’u hundatti galmeen akkasii akkaataa gocha seera kana hojiirra ooluu isaa dura hordofameen ta’a.
+3. Seerri kun hojiirra ooluu isaa irraa eegalee Ministeerri Daldalaa dhaabbata daldalaa Ministeera Daldalaa keessatti galmaa’e hunda irratti unka odeeffannoo keewwata 1 jalatti barbaadamu akka dhiyeessan dirqisiisu ni tajaajila. 105 fi 108 jalatti tumameen kan tumame yoo ta’u, unka guutame erga fudhatee booda odeeffannoo akkasii Galmee keessatti ni galcha.
+
+Aartii. 1175. - Galmee liqii manaa dhaabbilee daldalaa irratti.
+
+1. Tumaalee Keewwata. 179 jalatti tumame guyyaa fi haal-duree ajaja Gaazexaa Negarit irratti maxxanfameen beeksifamuun hojiirra oola.
+2. Tumaan seera kanaa dirqama liqii manaa daldalaa tokko irratti galmeessuu yeroo kaa’u hundatti, odeeffannoon seera kanaan barbaadu mana murtii Awraja Guezat kan daldalli dhimmi ilaallatu aangoo isaa keessatti argamutti ni dhiyaata.</item>
+
+
     </string-array>
 
     <string-array name="kode6">
-        <item>Boqonna 1</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
-        <item>Boqonna 4</item>
-        <item>Boqonna 5</item>
+        <item>Seera Maatii Fooyya’e</item>
+        <item>BOQONNAA TOKKO
+XUMURA ​​FUDHAA</item>
+        <item>BOQONNAA LAMA
+BU’AA HAALA BARBAACHISAA GAALOOTA CABSUU</item>
+        <item>BOQONNAA SADI
+BU'AA GA'EELII</item>
+        <item>BOQONNAA AFUR
+GAALII DIIGUU</item>
+        <item>BOQONNAA SHAN
+HARIIROO MAALLAQAA HIDHAA GAARII JIDDUTTI JIDDUTTI DHAABBACHUU</item>
     </string-array>
     <string-array name="dubbisa6">
-        <item>chapter1 details</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>Seera Maatii Fooyya’e
+Labsii Lakk-213-2000 Seera Maatii Fooyya’e Labsii-kan-2000- .
+Seensa
+
+Maatiin bu’uura uumamaa hawaasaa waan ta’eef hawaasaa fi mootummaan eegumsa kan argatu yoo ta’u, mala eegumsaa keessaa tokko hariiroo maatii seeraan to’achuu fi bulchuudhaan kan raawwatamu waan ta’eef;
+seera maatii Itiyoophiyaa jiru guddina hawaas-dinagdee hawaasichaa fi hunda caalaa Heera mootummaa biyyattiitiin tolchuun, keessumattuu gaa’elli bilisa ta’e irratti kan hundaa’u ta’uu hubachuun barbaachisaa ta’ee waan jiruuf hayyama hiriyoota gaa’elaa, akkasumas yeroo gaa’elli xumuramu, yeroo fi diigamutti bu’uura seeraa walqixxummaa hiriyoota gaa’elaa mirkaneessu dhiyeessuun barbaachisaa ta’uu isaa;
+Akkaataa Heera Mootummaa fi Meeshaalee Idil-addunyaa Itoophiyaan raggaasifteen seera jiru haala nageenya, guddinaa fi eegumsa daa’immaniif dursa kennuudhaan fooyyessuun barbaachisaa ta’ee waan jiruuf;
+Waldhabdee maatii keessatti uumamu qaama gahumsa qabuun haala haqa qabeessaa fi gahumsa qabuun furuun barbaachisaa ta’ee waan argameef;
+Kaayyoowwan kana dhugoomsuudhaaf, bulchiinsa kallattiin Mootummaa Federaalaaf itti gaafatamummaa qabu keessatti raawwatiinsa kan qabu seera maatii Mana Maree Bakka Bu’aa Ummatootaatiin bahuun murteessaa ta’ee waan jiruuf;
+AMMA KANAAF, bu’uura Heera Mootummaa Federaalaa Dimookiraatawaa Rippabiliika Itiyoophiyaa keewwata 55(1) tiin akka armaan gadiitti labsameera.
+1. Mata Duree Gabaabaa
+Labsiin kun “Labsii Seera Maatii Fooyya’e Lakk.213/2000” jedhamee waamamuu ni danda’a.
+2. Guyyaa Hojiirra Oolmaa
+Seerri Maatii Fooyya’e bara 2000, jildii addaatiin kan maxxanfamee fi Gaazexaa Federaalaa Negarit Gaazexaa Addaa Lakk.
+
+Addis Ababaatti, guyyaa 4ffaa kana ji'a July, 2000 raawwatame.
+
+NEGASO GIDADA (DR.)
+
+PIREZIDAANTE DIMOKRAATII FEDERAALAA
+RIPAABILIIK ITOOPHIYAA</item>
+        <item>BOQONNAA TOKKO
+XUMURA ​​FUDHAA
+
+Kutaa 1. Waliigala
+Keewwata 1. – Gaa’ela Bifa Adda Addaa.
+1) Gaa’elli qondaala sadarkaa siiviilii duratti raawwatamuu ni danda’a.
+.
+Keewwata 2. – Gaa’ela Qondaala Haala Siivilii duratti Raawwatame.
+Gaa’elli qondaala sadarkaa siiviilii duratti akka xumurame kan fudhatamu dhiirri fi dubartiin gaa’ela xumuruuf jecha qondaala sadarkaa siiviilii duratti dhiyaatanii fi qondaalli sadarkaa siiviilii hayyama isaanii yoo fudhate ta’a.
+Keewwata 3. – Gaa’ela Amantaa.
+Gaa’elli amantii kan raawwatamu dhiirri fi dubartiin tokko amantii isaaniitiin yookiin amantii isaan keessaa tokkoon gochaalee yookiin sirna gaa’ela seera qabeessa ta’e jedhamee fudhatamu yoo raawwatan ta’a.
+Keewwata 4. – Gaa’ela Akka Aadaatti.
+Gaa’elli akkaataa aadaatiin kan raawwatamu dhiirri fi dubartiin tokko aadaa hawaasa keessa jiraataniin ykn aadaa hawaasa isaan keessa jiranii ykn keessaa tokko ta’een sirna gaa’ela seera qabeessa ta’ee fudhatame yoo raawwatan ta’a isaan kan isaaniiti.
+Keewwata 5. – Gaa’ela Biyya Alaatti Kabajamu.
+Gaa’elli biyya alaatti akkaataa seera iddoo ayyaanichaatiin kabajamu Itoophiyaa keessatti seera qabeessa ta’a hanga safuu ummataa hin faallessinetti. </item>
+        <item>BOQONNAA LAMA
+BU’AA HAALA BARBAACHISAA GAALOOTA CABSUU
+
+Keewwata 31. – Umurii
+.
+2) Kana booda umriin seera gaa'elaatiin barbaadamu erga guutee booda iyyatamuu hin danda'u.
+
+Keewwata 32. – Hiriyyoota firooma.
+Gaa’elli gufuuwwan walitti dhufeenya ykn walitti dhufeenya irraa maddan cabsuun xumurame iyyata nama fedhii qabu kamiyyuu ykn abbaa alangaa mootummaa irratti ajajni ni kennama.
+Keewwata 33. – Bigamy
+.
+2) Diigamuun Keewwata kana Keewwata Xiqqaa (1) irratti ibsame kana booda bakka haati warraa gaa’ela lamaa duraanii du’etti iyyatamuu hin danda’u.
+Keewwata 34 . – Gaa’elli Nama Abbaa Seeraan Dhorkame Diigamuu.
+.
+2) Namni abbaa seerummaatiin dhorkame kana booda guyyaa qaama miidhamummaan isaa addaan citee ji’a jaha booda iyyata diigamuu dhiyeessu hin danda’u.
+.
+Keewwata 35. – Gocha Jeequmsaa
+1) Dhiibbaa jeequmsaan fuudhaa fi heeruma raawwate kamiyyuu akka diigamuuf mana murtiitti iyyachuu ni danda’a.
+2) Iyyanni akkanaa jeequmsi akkasii erga dhaabbatee ji’a jaha booda, haala kamiinuu gaa’elli erga xumuramee waggaa lama booda dhiyaachuu hin danda’u.
+Keewwata 36. – Dogoggora
+1) Namni sababa dogongora bu’uuraatiin fuudhaa fi heeruma raawwate, akka diigamuuf mana murtiitti iyyachuu ni danda’a.
+2) Iyyanni akkanaa dogongorri akkasii erga argamee ji’a jaha booda, fi , haala kamiinuu, gaa’elli erga xumuramee waggaa lama booda dhiyaachuu hin danda’u.
+Keewwata 37. – Yeroo Dubartii Abbaan manaa irraa du’e.
+Yeroon abbaan manaa irraa du’e keewwata 16 keewwata xiqqaa (1) jalatti ibsame waan hin eegamneef qofaaf gaa’elli akka diigamu ajajamuu hin danda’u.
+Keewwata 38. – Gahumsa dhabuu Qondaala Haala Siivilii.
+Gaa’elli akka diigamu qondaalli sadarkaa siiviilii gaa’ela kana kabaje gahumsa dhabuu qofaan ajajamuu hin danda’u. </item>
+        <item>BOQONNAA SADI
+BU'AA GA'EELII
+
+Keewwata 1. Dambii Waliigalaa
+Keewwata 40. – Walqixa Gaa’elaa Bifa Adda Addaa.
+1) Gaa’elli bifa kamiinuu akkaataa itti kabajameen bu’aa seeraa walfakkaataa argamsiisa.
+.
+Keewwata 41. – Xumura Fuudhaa fi Heerumaa.
+Bu’aan gaa’elaa xumura gaa’elaa dhugaa ykn tilmaamame irratti hin hundaa’u.
+Keewwata 42. – (1) Waliigaltee Gaa’elaa.
+1) Hiriyaan gaa’elaa guyyaa gaa’ela isaanii dura yookiin guyyaa gaa’ela isaaniitti bu’aa maallaqaa gaa’ela isaanii waliigalteedhaan to’achuu ni danda’a.
+2) Waliigaltee akkasii keessattis dhimmoota hariiroo dhuunfaa isaanii ilaallatan irratti mirgaa fi dirqama wal-faana qaban ibsuu ni danda’u.
+3) Waliigalteewwan akkasii tumaalee dirqamaa labsichaa irratti dhiibbaa hin geessisan.
+Keewwata 43. – (2) Dandeettii Hiriyoota Gaa’elaa.
+.
+2) Namni seeraan dhorkame waliigaltee gaa’ilaa raawwachuu ilaalchisee dandeettii dhabuu hin qabu.
+Keewwata 44. – (3) Unkaalee Waliigaltee.
+Waliigaltee gaa’ilaa barreeffamaan kan raawwatamee fi ragaa afuriin yoo mirkanaa’e malee, lama abbaa warraaf, haadha manaaf immoo harkisaa yoo ta’e malee bu’aa hin qabu.
+Keewwata 45. – (4) Kuufama Waliigaltee.
+1) Koppiin waliigaltee fuudhaa fi heerumaa mana murtiitti yookiin waajjira haala siviilii biratti ni kaa’ama.
+2) Hiriyoota gaa’elaa keessaa tokkoon yookiin namoota mana murtiitiin hayyamamaniin yookiin hiriyoota gaa’elaa keessaa tokkoon tokkoon bilisaan mari’achuu ni danda’a.
+Keewwata 46. – (5) Daangaa Bilisummaa Waliigaltee.
+1) Hiriyoonni gaa’elaa waliigaltee gaa’ela isaaniitiin qaama sadaffaa irratti dirqama hin fe’an.
+2) Waliigaltee gaa’ilaa aadaa naannoo, amantii yookiin laayyoo biyya tokkoo qofa kan agarsiisu yoo ta’e bu’aa tokkollee hin qabu.
+Keewwata 47. – (6) Fooyya’iinsa Waliigaltee Gaa’elaa
+1) Dantaan maatii akkas kan barbaadu yoo ta’e, hiriyoonni gaa’elaa waliigalteedhaan, haala waliigaltee gaa’elaa fooyyessuu fi fooyya’iinsa akkasii akka ragga’u mana murtii gaafachuu ni danda’u.
+2) Manni murtii ma </item>
+        <item>BOQONNAA AFUR
+GAALII DIIGUU
+
+Keewwata 74. – Walqixa Gaa’elaa Bifa Adda Addaa.
+1) Sababoonni fi bu’aan diigamuun gaa’elaa bifa kabajni gaa’elaa kamiyyuu yoo ta’e tokko ta’a.
+2) Bifa gaa’elli itti kabajamu kamiinuu haa ta’u, diigamuu ilaalchisee garaagarummaan hin taasifamu.
+
+Keewwata 75. – Sababoota Gaa’ela Diigamuu
+Kanneen armaan gadii sababoota diigamuun gaa’elaa ni ta’u;
+(a) Du’a hiriyoota gaa’elaa keessaa tokko, yookiin labsii akka hin jirre mana murtiitiin, hiriyoota gaa’elaa keessaa tokko yoo ta’e;
+(b) Haalawwan barbaachisoo gaa’elaa keessaa tokko cabsuu isaatiin mana murtiin ajaja diigamuu; yookaan
+(c) Wal hiikuu </item>
+        <item>BOQONNAA SHAN
+HARIIROO MAALLAQAA HIDHAA GAARII JIDDUTTI JIDDUTTI DHAABBACHUU
+
+Keewwata 85. – Waliigalteedhaan Qulqulleessuu.
+1) tumaalee Seera kanaa beenyaa ilaalchisee osoo hin tuqin, fuudhaa fi heerumni akkaataa tumaalee seera kanaatiin kan diigamu yoo ta’u, hariiroon maallaqaa hiriyoota gaa’elaa gidduu jiru akkaataa Waliigaltee Hiriyoonniyaatiin raawwatamaniin yookiin waliigaltee . gaa’ela isaanii.
+.
+
+Keewwata 86. – Qabeenya Dhuunfaa Irra Deebiin Fudhachuu.
+1) Tokkoon tokkoon hiriyoota gaa’elaa qabeenya dhuunfaa isaa abbaa qabeenyaa qofa ta’uu isaa kan agarsiise gosaan deebisee fudhachuuf mirga qaba.
+.
+3) Hiriyoonni gaa’elaa lamaan mirga akkasii kan qaban yoo ta’e tokkoon tokkoon isaanii qooda isaanii qabeenya waliinii irraa gumaacha isaanii wajjin walmadaaluun ni fudhatu.
+
+Keewwata 87. – Gatii beenyaa.
+1) Hiriyoonni gaa’elaa aangoo qabeenya waliinii yookiin qabeenya dhuunfaa haadha warraa isa kaanii akkaataa seera kanaatiin bulchuuf kenname keessaa tokko yoo ta’e, gochoota hiriyaa gaa’elaa akkasii irratti dhiibbaa hamaa geessisan, ykn bakka abbaan warraa akkasii raawwate raawwateera . gochi aangoo kan hin qabne yoo ta’e, yookiin gochoonni akkasii gocha bulchiinsa badaa kan ta’an yoo ta’e, yookiin mirga haadha warraa himannaa dhiheesse irratti hanna kan raawwataman yoo ta’e, manni murtichaa gaaffii haadha warraa miidhame irraa dhiyaateen haadha warraa akkasii irratti miidhaa murteessuu ni danda’a.
+2) Himannaan beenyaa irratti hundaa’e pm Cubbuu Keewwata kana keewwata (1) sababa gochoota gaa’elli diigamuu isaa waggaa shan dura raawwatamaniin dhiyaachuu hin danda’u.
+
+Keewwata 88. – Badhaadhina Seeraan Alaa.
+Waliigaltee biraa yoo ta’e malee manni murtichaa qabeenyi dhuunfaa abbaa warraa isa kaanii yookiin qabeenyi waliinii qabeenya dhuunfaa isaa irratti miidhaa geessisuudhaan badhaadhina akka argate kan mirkaneesse haadha warraa tokkoof beenyaa kennuu ni danda’a.
+
+Keewwata 89. – Eegumsa Abbootii Liqii.
+Hiriyaan gaa’elaa yookiin hiriyoonni gaa’elaa lamaan waliin ta’uun liqiin kan raawwatame yoo jiraate, liqiin akkasii murtii abbaa seerummaatiin kan mirkanaa’e yoo ta’e, yookiin hiriyoonni gaa’elaa beekamtii kan kennan yoo ta’e, liqiin akkasii qabeenyi osoo hin qoodin dura ni kaffalama.
+
+Keewwata 90. – (1) Qoodinsa Qabeenya Waloo.
+Tumaalee Keewwata armaan duraa fi waliigalteewwan hiriyoonni gaa’elaa raawwatan osoo hin tuqin qabeenyi waloo hiriyoota gaa’elaa gidduutti walqixa qoodama.</item>
     </string-array>
 
     <string-array name="kode7">
-        <item>Boqonna 1</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
-        <item>Boqonna 4</item>
-        <item>Boqonna 5</item>
+        <item>LABSII HOJII HOJII</item>
+        <item>KUTAA LAMA HARIIROO HOJII
+BOQONNAA TOKKO KONTIRAATA HOJII</item>
+        <item>KUTAA SADAFFAA MINDAA BOQONNAA TOKKO MURTEESSUU MINDAA</item>
+        <item>KUTAA AFUR SA'AATII HOJII, TORBEE BOQONNAA FI Ayyaana UMMATAA</item>
+        <item>KUTAA SHAN BOQONNAA BOQONNAA TOKKO BOQONNA WAAGGAA</item>
     </string-array>
     <string-array name="dubbisa7">
-        <item>chapter1 details</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>chapter5 details </item>
+        <item>Labsii Lakk.1156/2019
+LABSII HOJII HOJII
+Waggaa 25ffaa Lakk 89 ADDIS ABABA 5th September, 2019
+AS, hojjettoonni fi hojjechiistonni nagaa industirii waaraa mirkaneessuuf yaadamee hariiroon hojjetaa fi hojjechiisaa qajeeltoowwan bu’uuraa mirgaa fi dirqamaatiin akka bulfamu gochuun barbaachisaa ta’ee waan ta’eef; oomishtummaa fi dorgomtummaa itti fufiinsa qabuun hirmaannaa tumsaa gara misooma gama hundaan biyya keenyaatti;
+Sirna hojii hojjettootaa fi hojjechiistonni waldaa isaanii bilisaan hundeessuun karaa bakka bu’oota isaanii sirnaan hayyamamaniin marii hawaasummaa fi waliigaltee gamtaa irratti akka bobba’an, akkasumas bocuuf mirga isaanii mirkaneessu kaa’uun barbaachisaa ta’ee waan argameef hojimaata falmii hojjettootaa, kan isaan gidduutti uumamu saffisaan furuuf;
+Bulchiinsa hojjettootaa akka gaariitti ilaalamu kaa’uudhaan mirga bu’uuraa bakka hojii osoo hin sodaachisin invastimantii fi galma ga’iinsa galmoota dinagdee biyyaalessaatiif haala mijataa uumuun barbaachisaa ta’uu isaa waan ta’eef; akkasumas hojii fi itti gaafatamummaa qaamolee mootummaa haala hojii hordofuuf aangoo itti kenname ni murteessa; fayyaa fi nageenya hojii; fi eegumsa naannoo mala marii hawaasummaa biyyoota lamaanii fi sadii waliin ta’uun; imaammata siyaasaa, diinagdee fi hawaasummaa Biyyattii;
+Kaayyoowwan armaan olitti ibsaman galmaan ga’uuf yaadamee fi akkaataa fi waliigalteewwan idil-addunyaa fi waadaa seeraa biroo Itoophiyaan miseensa taate waliin walsimuun seera hojjetaa jiru irra deebiin bocuun barbaachisaa ta’ee waan argameef;
+AMMA,kanaaf, bu'uura Heera Mootummaa Federaalaa Dimookiraatawaa Rippabiliika Itoophiyaa keewwata 55 (1) fi (3) tiin akka armaan gadiitti labsameera.
+KUTAA TOKKO WALIIGALAA
+1. Mata Duree Gabaabaa
+Labsiin kun “Labsii Hojii Lakk.1156/2019” jedhamee waamamuu ni danda’a.
+2. Hiika
+Labsii kana keessatti jechichaa hiika biraa kan kenne yoo ta’e malee:
+1/ “Hojjechiisaa” jechuun bu’uura Labsii kana keewwata 4 tiin nama uumamaa tokko yookiin isaa ol qacare nama yookiin dhaabbata jechuudha.
+2/ “Waldaa” jechuun qaama daldalaa, industirii, qonnaa, ijaarsaa ykn hojii seera qabeessa biroo kamiyyuu raawwachuuf hoggansa tokkummaa jalatti hundeeffame kamiyyuu jechuudha.
+Dameen hojii dhaabbata addatti muudamee fi ofiin of bulchuu hojii ykn jaarmiyaa qabu kamiyyuu akka dhaabbata addaatti fudhatama.
+3/ “Hojjetaa” jechuun akkaataa Labsii kana Keewwata 4 tiin nama hojjechiisaa waliin hariiroo hojii qabu jechuudha.
+4/ "Ministeera" ykn "Minister" jechuun Ministeera ykn Ministira Dhimma Hojjetaa fi Hawaasummaa akkaataa walduraa duubaan.
+5/ “Aangoo barbaachisaa” jechuun, qaama mootummaa Naannoo aangoo seerota hojjetaa hojiirra oolchuuf kenname jechuudha.</item>
+        <item>KUTAA LAMA HARIIROO HOJII
+BOQONNAA TOKKO KONTIRAATA HOJII
+KUTAA TOKKO BIFA KONTIRAATA HOJII
+4. Qaama Waliigaltee Hojii
+1/Waliigaltee qaxarrii kan uumame ta’ee kan fudhatamu namni uumamaa tokko kallattiinis ta’e al-kallattiin hojii hojjechiisaa tokkoof fi aangoo isaa jalatti yeroo murtaa’eef yookiin hin murtoofneef yookiin hojii mindaa ilaalcha keessa galchuun raawwachuuf yoo waliigale ta’a;
+2/ Waliigaltee qaxarrii ifatti fi haala gareewwan falmii mirgaa fi dirqama haalawwan isaa jalatti qaban irratti mirkanaa’uu dhabuun kan hafu ta’ee kan tumamu ta’a;
+.
+4/ Waliigaltee qaxarrii gocha seeraan alaa ykn naamusa hin qabne raawwachuuf hin raawwatamu;
+5/ Waliigaltee qaxarrii haalawwan mijatoo ta’an kanneen seeraan, waliigaltee gamtaa ykn dambii hojiitiin tumaman caalaa hojjetaadhaaf haala mijataa hin taane kaa’uu hin danda’u.
+5.Unka
+Seeraan haala biraatiin kan tumame yoo ta’e malee waliigalteen hojii bifa addaa kamiinuu hin ta’u.
+6.Kontiraata Hojii Barreessaan hojjetame
+Tumaalee seera dhimmi ilaallatu akkuma eegametti ta’ee waliigaltee hojii barreeffamaan kanneen armaan gadii ni ibsa.
+1/Maqaa fi teessoo hojjechiisaa;
+2/ Maqaa, umrii, teessoo fi lakkoofsi kaardii hojii yoo jiraate;
+3/ bu’uura Labsii kana keewwata 4 (3) tiin waliigaltee qaamolee waliigaltee raawwatan; fi
+4/ Mallattoo qaamolee waliigaltee mallatteessanii.
+7. Waliigaltee Hojii Barreeffamaan hin hojjetamne
+1/ Waliigaltee hojii barreeffamaan kan hin raawwatamne yoo ta’e, hojjechiisaan waliigalteen xumuramee guyyoota 15 keessatti xalayaa barreeffamaa fi mallattaa’ee fi labsii kana keewwata 6 jalatti ibsame of keessaa qabu hojjetaaf ni kenna.</item>
+        <item>KUTAA SADAFFAA MINDAA BOQONNAA TOKKO MURTEESSUU MINDAA
+53. Waliigalaa
+1/ “Mindaa” jechuun kaffaltii idilee hojjetaan tokko raawwii hojii waliigaltee qaxarriitiin raawwateef deebisee argachuuf malu jechuudha.
+2/ Kaayyoo Labsii kanaatiif kaffaltiin armaan gadii akka mindaatti hin ilaalamu:
+a)Kaffaltii yeroo dabalataa;
+b)Maallaqa karaa per-diems, allowance rakkinaa, deeggarsa geejjibaa, baasii r e l o c a t i o n, fi deeggarsa kana fakkaatu hojjetaan imala ykn jijjiirraa mana jireenyaa isaa sababeeffachuun kaffalamu;
+c)Booniis;
+d)Koomishinii;
+e)Onnachiiftuu biroo bu’aa hojii dabalataaf kaffalamu;
+f)Kaffaltii tajaajilaa maamiltoota irraa argamu.
+54. Haala Kaffaltii Yeroo Hojii Hin Taane
+1/Labsii kana keessattis ta’e seera dhimmi ilaallatu keessatti haala biraatiin kan tumame yoo ta’e malee mindaan kan kaffalamu hojii raawwatame qofaaf ta’a.
+. ykn sababoota biroo isa irratti hin maxxanne irraa kan ka’e.
+BOQONNAA LAMA
+HAALA FI RAAWWII KAFFALTII
+55. Waliigalaa
+1/ Mindaan maallaqaan kan kaffalamu yoo ta’u, haa ta’u malee bakka hojjechiisaan fi hojjettoonni walii galan gosaan kaffalamuu kan danda’u ta’a. Mindaan gosaan kaffalamu naannoo kaffaltii gosaatti gatii gabaa caalu kan hin dandeenye yoo ta’u, haala kamiinuu mindaa maallaqaan kaffalame keessaa %30 caalu hin danda’u.
+2/ Dambiin Mana Maree Ministirootaa aangoo fi itti gaafatamummaa Boordii Mindaa kan bakka bu’oota Mootummaa, hojjettootaa fi waldaalee hojjettootaa qooda fudhattoota biroo waliin ta’uun qorannoowwan biyyattii tilmaama keessa galchan irratti hundaa’uun yeroo yeroon mindaa xiqqaa fooyyessuu kan of keessaa qabu murteessa misooma dinagdee, gabaa hojii fi yaadota biroo. </item>
+        <item>KUTAA AFUR SA'AATII HOJII, TORBEE BOQONNAA FI Ayyaana UMMATAA
+BOQONNAA TOKKO
+SA'AATII HOJII
+KUTAA TOKKO
+SA'AATII HOJII NORMAL
+61. Sa’aatii Hojii Guyyaa ykn Torbanitti Ol’aanaa
+.
+2/ Sa’aatiin hojii idilee guyyaatti sa’aatii 8 ykn torbanitti sa’aatii 48 hin caalu.
+62. Sa’aatii Hojii Idilee Hir’isuu
+1/Ministeerri dameewwan diinagdee, industirii ykn hojiiwwan haalli hojii addaa jiranitti sa’aatii hojii idilee hir’isuu Qajeelfama baasuu ni danda’a.
+2/Bu’uura Labsii kanaatiin sa’aatii hojii idilee hir’isuun mindaa hojjetaa hir’isuu kan fidu hin ta’u.
+63. Qophii Sa’aatii Hojii Torbanitti
+Sa’aatiin hojii guyyoota hojii torban tokkoo irratti walqixa kan babal’atu yoo ta’u, haa ta’u malee, bakka maalummaa hojii sanaa akkas barbaadutti, sa’aatiin hojii guyyoota hojii kamiyyuu keessatti gabaabfamuu fi garaagarummaan guyyoota hafan irratti raabsamuu danda’a torban keessatti daangaa guyyaa sa’aatii saddeet sa’aatii lamaa ol osoo hin dheeressin.
+64. Giddugaleessa Sa’aatii Hojii Idilee
+Haalli hojiin itti raawwatamuu qabu sa’aatiin hojii idilee torban dhuunfaa irratti walqixa raabsamuu kan hin dandeenye yoo ta’e, sa’aatiin hojii idilee yeroo torban tokkoo ol dheeratu keessatti giddu galeessaan shallagamuu ni danda’a, haa ta’u malee giddu galeessaan lakkoofsi sa’aatii yeroo tokkotti guyyaatti sa’aatii saddeet ykn wee tokkotti sa’aatii afurtamii saddeet caalu hin qabu
+65. Kan keessaa bahuu
+Waliigaltee gamtaa yookiin waliigaltee hojii keessatti haala biraatiin kan tumame yoo ta’e malee, tumaaleen Labsii kanaa sa’aatii hojii ilaallatan imaltoota daldalaa yookiin bakka bu’oota daldalaa irratti raawwatiinsa hin qabaatan. </item>
+        <item>KUTAA SHAN BOQONNAA BOQONNAA TOKKO BOQONNA WAAGGAA
+76. Waliigalaa
+1/ Hojjetaan tokko mirga boqonnaa waggaa isaa haala kamiinuu akka dhiisu waliigalteen taasifamu gatii hin qabu.
+2/Labsii kana keessatti haala biraatiin yoo tumame malee boqonnaa waggaa bakka bu’ee mindaa kaffaluun dhorkaadha.
+77. Hanga Boqonnaa Waggaa
+1/Hojjetaan bu'uura keewwata kanaatiin boqonnaa waggaa addaan hin cinne mindaa waliin argachuu ni qabaata. Hayyamni akkasii haala kamiinuu kanneen armaan gadii gadi ta’uu hin qabu:
+a) Waggaa tokkoffaa tajaajilaaf guyyoota hojii kudha jaha (16);
+b) Tajaajila waggaa lamaa dabalataa hundaaf guyyoota hojii kudha jaha (16) dabalataan guyyaa hojii tokko.
+2/ Mindaan hojjetaan tokko yeroo boqonnaa waggaa isaa argatu, osoo hojii isaa itti fufee silaa argatu waliin wal qixa ta’a.
+3/Mirga boqonnaa waggaa argachuuf yeroo tajaajilaa ulaagaa guutuu barbaachisu murteessuuf dhaabbata tokko keessatti guyyoota 26 tajaajiluu ji’a tokkoo wajjin wal gitu jedhamee fudhatama.
+4/Hojjetaan bu’uura Labsii kanaatiin waliigaltee hojii isaa addaan cite boqonnaa hin fudhanneef kaffaltii isaaf mirga ni qabaata.
+5/Dheerinni tajaajila hojjetaa tokkoo waggaa tokkoo gadi yoo ta’e hojjataan boqonnaa waggaa dheerina tajaajila isaa wajjin walmadaalu ni qabaata.
+78. Hayyama Kennuu
+1/Hojjetaan tokko waggaa tokko erga tajaajilee booda boqonnaan waggaa jalqabaa fi boqonnaa waggaa itti aanuu fi itti aanu adeemsa waggaa kaalaandarii tokkoon tokkoon isaa keessatti ni kennamaaf.
+2/ Hojjechiisaan tokko adeemsa bara kaalaandarii yeroon itti kenname keessatti akkaataa sagantaa boqonnaatiin hojjetaa tokkoof hayyama isaa ni kenna.
+3/ Sagantaa boqonnaa Keewwata Xiqqaa keessatti ibsame
+(2) keewwata kana jalatti tumame hanga danda’ametti ilaalcha barbaachisaa ta’een hojjechiisaan bishaaniin ni liqimfama:
+a) dantaa hojjetaa; fi
+b) hojii idilee dhaabbatichaa eeguun barbaachisaa ta’uu isaa.
+79. Boqonnaa Waggaa Qooduu fi Yeroo biraatti Tursiisuu
+1/ Tumaaleen Keewwata
+77(1) jalatti tumame.</item>
     </string-array>
 
     <string-array name="kode8">
-        <item>Boqonna 1</item>
-        <item>Boqonna 2</item>
-        <item>Boqonna 3</item>
-        <item>Boqonna 4</item>
-        <item>Boqonna 5</item>
+        <item>KUTAA TOKKO BEEKSISA HOJII BULCHIINSA FEDERAALAA TA'E</item>
+        <item>KUTAA LAMA QAJEELFAMA BULCHIINSAA
+KUTAA XIQQOO TOKKO BAASII QAJEELFAMA</item>
+        <item>KUTAA SADI MURTEE BULCHIINSAA
+KUTAA XIQQOO TOKKO JALQABA MURTEE BULCHIINSAA</item>
+        <item>KUTAA AFUR
+GAMAAGGAMA HAQAA QAJEELFAMA FI MURTEE BULCHIINSAA</item>
+        <item>KUTAA SHAN TUMAALEE ADDAA</item>
     </string-array>
     <string-array name="dubbisa8">
-        <item>chapter1 details under the last one admistration</item>
-        <item>chapter2 details </item>
-        <item>chapter </item>
-        <item>chapter4  </item>
-        <item>Boqonna 5 gadifagenyaa isaa </item>
+        <item>LABSII LAKK. 1183/2020 bahe
+BEEKSISA HOJII BULCHIINSA FEDERAALAA TA'E
+Heerri Mootummaa Rippabiliika Dimookiraatawaa Federaalawaa Itiyoophiyaa hojimaanni hojii Mootummaa iftoomina akka qabaatu, Qondaalli Mootummaa kamiyyuu hojii isaa raawwachuu dhabuu isaatiin akka itti gaafatamu waan tumeef;
+Ejensiiwwan Bulchiinsaa achitti gidduu seenuun namoota Mirgaa fi Dantaa irratti akka of qusatan to’achuun barbaachisaa waan ta’eef;
+Namoota gocha manneen hojii bulchiinsaatiin miidhamuu danda’aniif, dandeettii seera baasuu fi murtee kennuu isaaniitiin sirna gamaaggama abbaa seerummaa seeraan diriirsuun aadaa iftoominaa fi itti gaafatamummaa guddisuudhaan haqaa bulchiinsaa mirkaneessuun barbaachisaa waan ta’eef,
+AMMA KANAAF, bu’uura Heera Mootummaa Federaalaa Dimookiraatawaa Rippabiliika Itiyoophiyaa keewwata 55 (1) tiin akka armaan gadiitti labsameera.
+KUTAA TOKKO TUMAALEE WALIIGALAA
+1. Mata Duree Gabaabaa
+Labsiin kun “Labsii Hojimaata Bulchiinsa Federaalaa Lakk.1183/2020” jedhamee waamamuu ni danda’a.
+2. Hiika
+Labsii kana keessatti, jechichaa hiika biraa kan kennisiisuuf yoo ta’e malee:
+1/ “Ejensii Bulchiinsaa” jechuun Hojii Raawwachiiftuu jechuudha
+Qaama Rippabiliika Dimookiraatawaa Federaalaa Itoophiyaa seeraan sirnaan hundeeffamee fi Qaamolee Hojii Raawwachiiftuu Bulchiinsa Magaalaa Mootummaa Federaalaaf itti gaafatamummaa qaban kan hammate;
+2/“Qajeelfama” jechuun sanada seera baastuu qaama bulchiinsaatiin Aangoo Seera Baasaan kennameef irratti hundaa’uun bahee Mirgaa fi Dantaa namootaa irratti dhiibbaa geessisu jechuudha. Jechi kun qajeelfama duraan jiru fooyyessuu, ykn haquus ni dabalata;
+3/ “Murtii Bulchiinsaa” jechuun Qajeelfama kennuu osoo hin dabalatin, mirga ykn dantaa namootaa hojii guyyaa guyyaa isaa ilaalchisee murtii kenne jechuudha;
+4/ “Nama” jechuun Nama Uumamaa yookiin Seerummaa kamiyyuu jechuudha;
+5/ Ibsi saala dhiiraa keessatti argamu kamiyyuu kan dubartii dabalata.
+3. Daangaa Raawwii Hojii
+1/ Labsiin kun Bulchiinsa hunda keessatti raawwatiinsa qaba
+Ejensiiwwan Abbaa Alangaa fi Poolisii irraa kan hafe hojiiwwan Seera Deemsa Falmii Yakkaa fi Dhaabbilee Waraanaa fi Nageenyaatiin bulfaman yeroo raawwatan.
+.
+3/ Labsii kana keewwata 11 osoo hin tuqin, .
+Baankiin Biyyaalessaa qajeelfama safartuu sharafa alaa, dhala biyyattii fi dhimmoota dhoksaa kana fakkaatan biroo ilaalchisee yeroo bahu dirqama Labsii kana keewwata 7-10 jalatti tumame hojiirra oolchuuf dirqama hin qabu.</item>
+        <item>KUTAA LAMA QAJEELFAMA BULCHIINSAA
+KUTAA XIQQOO TOKKO BAASII QAJEELFAMA
+4. Qajeelfama Kennuu
+1/ Ejensiin bulchiinsaa kamiyyuu bu’uura Aangoo Seeraan Kenname bu’uura godhachuun qajeelfama fudhachuu ni danda’a.
+2/ Ejensiin bulchiinsaa tokko qajeelfama baasuu kan danda’u hojimaata Labsii kanaan tumameen qofa.
+3/ Dhimmoota mirga yookiin dantaa isaa ilaallatan ilaalchisee, namni kamiyyuu ejensiin bulchiinsaa qajeelfama hin fudhanne ta’us, murtii bulchiinsaa gaafachuuf mirga qaba, .
+4/ Gama dhaabbata bulchiinsaatiin Qajeelfama fudhachuuf aangoo seeraan kenname baasuu dhabuun tajaajila dhorkuuf ykn Murtii Bulchiinsaa kennuudhaaf sababa ta’uu hin danda’u.
+5. Qajeelfama Yeroodhaan Fudhachuu
+Qajeelfamni bulchiinsaa kamiyyuu bu’uura seera haadha , Qajeelfamni tokko dirqama yoo ta’e ji’a sadii keessatti ni raggaasifama, Dirqama yoo ta’uu baate yeroo madaalawaa keessatti waliin ni raggaasisa.
+6. Iyyata Qajeelfama Fudhatama
+1/Namni kamiyyuu ejensichi qajeelfama akka fudhatu iyyata barreeffamaatiin gaafachuu ni danda’a, yeroo madaalawaa keessatti ejensiin bulchiinsaa qajeelfama ittiin ajajame fudhachuu yoo dadhabe.
+2/Ejensiin iyyata Qajeelfamiin akka fudhatamuuf dhiyaate Guyyoota 30 keessatti adeemsa seera fudhachuu ni jalqaba ykn sababa isaa ibsuun iyyata ni haalu.
+KUTAA LAMA HOJATA QAJEELFAMA FUDHATAMUU DURA
+7. Waa’ee Qajeelfama Galmee Ejensii qabachuu
+1/ Yeroo qajeelfamni tokko raggaasisu, ejensiin bulchiinsaa tokko galmee/faayila kanneen armaan gadii of keessaa qabu ni qabata.
+a) Dhimma qajeelfama ilaalamaa jiruu fi yeroo tarkaanfiiwwan gurguddoo;
+b) Haala wixineen qajeelfamaa adeemsa fudhatama irra jiru ilaalchisee odeeffannoo;
+c) Beeksisa wixinee qajeelfamaa raggaasifamuun walqabatee maxxanfame ;
+d) Yeroo ummanni wixinee irratti yaada itti kennuu danda’u ;
+e) Bu’uura Labsii kana keewwata 8 fi 9 tiin yaada dhiyaatee fi yaada kenname ilaalchisee ejjennoo fudhatame.
+2/ Namni kamiyyuu galmee akkaataa Keewwata kana Keewwata Xiqqaa (1) tiin gurmaa’e, kaffaltii baasii irratti sakatta’uu ykn waraabbii argachuu ni danda’a. </item>
+        <item>KUTAA SADI MURTEE BULCHIINSAA
+KUTAA XIQQOO TOKKO JALQABA MURTEE BULCHIINSAA
+20. Murtii Bulchiinsaa Jalqabuu
+1/ Iyyanni murtii bulchiinsaa nama fedhii qabuun ykn bakka bu’aa isaatiin kan dhiyaatu ta’a.
+2/ Adeemsi murtii bulchiinsaa qaama bulchiinsaa dhimmi ilaallatuun jalqabamu ni danda’a.
+21. Akkaataa Raawwii Murtii Bulchiinsaa
+1/ Iyyanni murtii bulchiinsaa barreeffamaan kan dhiyaatu yoo ta’u, qaamaan, teessoo poostaa galmaa’een ykn karaa elektirooniksiitiin dhiyaachuu ni danda’a.
+2/ Iyyanni murtii bulchiinsaa barreeffamaan dhiyaatu: 1.1.
+a) Guyyaa, maqaa iyyataa yookiin bakka bu’aa isaa, mallattoo fi teessoo;
+b) Maqaa dhaabbata bulchiinsaa iyyanni itti dhiyaate;
+c) Mirgaa fi dantaa iyyataa barbaadamaa jiruu;
+d) Hojii abbaan taayitaa bulchiinsaa hojjechuu qabu.
+e) Dhugaa fi ragaalee murtii sanaaf barbaachisoo ta’an.
+3/Ejensiin tokko unka iyyanni ittiin dhiyaachuu danda’u qopheessuu ni danda’a.
+22. Galmee Iyyannoowwan
+1/Iyyanni murtii bulchiinsaa erga fudhatee booda ejensichi hatattamaan ni dhiyeessa.
+2/ Mirkaneessi iyyata barreeffamaa, sanadoota barbaachisoo achitti dabalaman argachuu isaanii ibsa bal’aa qabaachuu qaba.
+KUTAA XIQQOO LAMA
+DUREE MURTEE BULCHIINSAA
+23. Murteessaa Bulchiinsaa
+murtiin kan kennamu Hogganaa ykn Qondaala/Hogganaa ykn Hojjetoota Hayyamame qofaan ta’uu danda’a.
+24. Daangaa Aangoo Kabajuu
+Namni murtii bulchiinsaa kennu bal’ina aangoo ejensichaa Seeraan hundeeffame ni kabaju.
+25. Madaallii Dantaa Ummataa fi Dhuunfaa
+Namni murtii bulchiinsaa kennu dantaa dhuunfaa nama murtiin bulchiinsaa ilaallamaa jiruu fi faayidaa ummataa kaayyoo ejensichaa keessatti adda baafame madaaluu qaba.
+26. Dhimmoota fi Dantaa Barbaachisoo Hin Taane irraa fagaachuu
+Namni murtii bulchiinsaa kennu dhiibbaa dhugaa ykn dantaa barbaachisaa hin taane irraa dhufu irraa fagaachuu qaba.
+27.Ogummaa Kennuu
+Murtiin tokko, ulaagaa naamusaa kan eegu, hojii ykn ogummaa dhimmi ilaallatu irraa barbaachisu ciminaa fi of eeggannoo barbaachisaa ta’e kan agarsiisu ta’a.
+28. Dhagahuu
+Namni murtii bulchiinsaa bu’uura Labsii kana keewwata 23 tiin kennu falmii fi ragaa nama murtiin itti kennamu, akkasumas akka haala isaatti qaama sadaffaa akkasumas ummataaf dhiheesse dhaggeeffachuuf carraa gahaa ni kenna.
+29. Amantii gaarii </item>
+        <item>KUTAA AFUR
+GAMAAGGAMA HAQAA QAJEELFAMA FI MURTEE BULCHIINSAA
+KUTAA XIQQOO TOKKO JALQABA GAMAAGGAMAA
+48. Iyyata Irra Deebiin Ilaalamuu Galchuu
+Tumaalee Labsii kana keewwata 46 jalatti tumaman osoo hin tuqin : .
+1/ Namni fedhii qabu kamiyyuu qajeelfamni tokko abbaa seerummaatiin akka ilaalamu iyyata dhiyeessu ni danda’a;
+2/ Namni fedhiin isaa murtii bulchiinsaatiin miidhame kamiyyuu iyyata gamaaggama abbaa seerummaa gaafatu dhiyeessu ni danda’a.
+49. Humna Irra Deebi’uu
+1/Iyyanni qajeelfama ykn murtii bulchiinsaa gamaaggamuuf Mana Murtii Ol’aanaa Federaalaatti dhiyaatee murtiin Mana Murtichaa isa dhumaa ta’a.
+2/ Keewwata Xiqqaa jalatti tumame jiraatus
+(1) keewwata kana jalatti murtiin qajeelfama Mana Murtii Ol’aanaa Mana Murtii Waliigalaa Federaalaatti ol’iyyannoo dhiyeessuun ni danda’ama.
+3/Manni Murtii Olaanaa Federaalaa teessoo addaa iyyannoowwan gamaaggama abbaa seerummaa gochoota bulchiinsaa ilaaluuf of kennan ni hundeessa.
+KUTAA XIQQOO LAMA DUREE ILAALCHA
+50. Sababoota Irra Deebiin Ilaalamuu
+1/ Qajeelfamni tokko Manni Murtii bakka
+a) Dambiiwwan hojimaataa Labsii kana Boqonnaa Lama keessatti tumaman kabajuu dhabuun isaa kan mirkanaa’e yoo ta’e;
+b) Altiraavaayirasii dha; yookaan
+c) Seerota biroo sadarkaa Seerotaa keessatti ol’aantummaadhaan kaa’amaniin kan wal faallessudha.
+2/Murtiin bulchiinsaa Dudhaalee Labsii kana Boqonnaa Sadii jalatti tumaman cabsuun kan kenname yoo ta’e haqamuu ni danda’a.
+51.Iyyata Irra Deebiin Murtii
+Gamaaggamni Abbaa Seerummaa kan barbaadamu murtii dhumaa ejensii tokkoo qofa irratti.
+52. Dadhabbii Qoricha
+1/ Seeraan haala biraatiin yoo tumame malee, iyyataan
+Gamaaggamni Abbaa Seerummaa mana murtiitti gamaaggama abbaa seerummaa akka argatu iyyachuu dura furmaata Ejensicha keessatti argaman hunda xumuruun dirqama.
+.
+KUTAA XIQQOO SADI HOJII GAMAAGGAMA HAQAA
+53. Yeroo Daangaa Iyyata Irra Deebiin Abbaa Seerummaa
+.
+2/ Bu’uura Keewwata 50 Keewwata Xiqqaa 1 (b) ykn (c) tiin qajeelfama tokko irra deebi’anii ilaaluuf iyyanni yeroo barbaadetti dhiyaachuu ni danda’a.
+3/ Murtii bulchiinsaa tokko gamaaggamuuf iyyanni dhiyaatu erga iyyataan murtii sana beeksisee booda guyyoota 30 keessatti ta'a . </item>
+        <item>KUTAA SHAN TUMAALEE ADDAA
+58. Raawwatamummaa seera deemsa falmii siviilii
+Dhimmoota hojimaataa Labsii kana Boqonnaa Afur jalatti hin hammatamne irratti Tumaaleen seera deemsa falmii siviilii dhimmi ilaallatu raawwatiinsa ni qabaatu.
+59.Beenyaa
+Namni sababa badii qajeelfama kennuudhaan yookiin murtii bulchiinsaatiin raawwatameen miidhaan irra gahe, bu’uura seerota dhimmi ilaallatuun, abbaa taayitaa bulchiinsaa itti gaafatamummaa qabu irraa beenyaa gaafachuuf mirga qaba.
+60. Dirqama Odeeffannoo Kennuu
+Ejensiin bulchiinsaa kamiyyuu qajeelfama kennuu yookiin murtii bulchiinsaa qaama seeraatiin kennuu keessatti odeeffannoo barbaachisaa ta’e akka kennu yoo gaafatame, ejensiin akkasii odeeffannoo ni kenna.
+61. Aangoo Dambii Baasu
+Manni Maree Ministirootaa Dambiiwwan Labsii kana sirnaan hojiirra oolchuuf barbaachisaa ta’uu danda’an baasuu ni danda’a.
+62. Guyyaa Hojiirra Oolmaa
+Labsiin kun guyyaa Gaazexaa Federaalaa Negarit irratti maxxanfamee eegalee hojiirra oola.
+Addis Ababaatti, Ebla 7ffaa 2020tti raawwatame.
+SHALEWORK ZEWDE PRESIDENTE DIMOKRAATII FEDERAALAA
+RIPAABILIIK ITOOPHIYAA</item>
     </string-array>
 
     <string-array name="code1Content">
