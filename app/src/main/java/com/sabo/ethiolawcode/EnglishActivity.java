@@ -1,16 +1,15 @@
 package com.sabo.ethiolawcode;
 
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
-
-
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
 
 public class EnglishActivity extends AppCompatActivity {
     ListView list;
@@ -28,6 +27,14 @@ public class EnglishActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_english);
+
+        final DrawerLayout drawerLayout = findViewById(R.id.englishdrawable);
+        findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                drawerLayout.openDrawer(GravityCompat.START);
+            }
+        });
 
         EnglishChapter adapter=new EnglishChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);

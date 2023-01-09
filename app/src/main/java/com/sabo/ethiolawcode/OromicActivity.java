@@ -2,6 +2,8 @@ package com.sabo.ethiolawcode;
 
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -27,6 +29,14 @@ public class OromicActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_oromic);
+
+        final DrawerLayout drawerLayout = findViewById(R.id.oromicdrawable);
+        findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                drawerLayout.openDrawer(GravityCompat.START);
+            }
+        });
 
         OromicChapter adapter=new OromicChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);

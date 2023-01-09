@@ -37,7 +37,9 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
-//material Design
+
+
+    //material Design
     implementation 'com.google.android.material:material:1.2.0-alpha02'
 //Rounded Image view
     implementation 'com.makeramen:roundedimageview:2.3.0'
@@ -48,4 +50,5 @@ dependencies {
     def lifecycle_version = "2.4.0"
     implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+
 }
