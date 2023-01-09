@@ -1,29 +1,29 @@
 package com.sabo.ethiolawcode;
 
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBarDrawerToggle;
+
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SearchView;
 import androidx.core.view.GravityCompat;
+
+
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
 import android.os.Bundle;
 
 
-import android.util.Log;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ListView;
-import android.widget.Toast;
-import android.widget.Toolbar;
+import android.widget.ArrayAdapter;
 
-import com.google.android.material.navigation.NavigationView;
+import android.widget.ListView;
+
+
 
 public class AmharicActivity extends AppCompatActivity {
-
-
 
     ListView list;
 
@@ -41,6 +41,8 @@ public class AmharicActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amharic);
 
+
+
   final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
   findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
       @Override
@@ -50,11 +52,11 @@ public class AmharicActivity extends AppCompatActivity {
   });
 
 
+
+
         AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
         list.setAdapter(adapter);
-
-
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
             @Override
@@ -116,4 +118,6 @@ public class AmharicActivity extends AppCompatActivity {
             }
         });
     }
+
+
 }

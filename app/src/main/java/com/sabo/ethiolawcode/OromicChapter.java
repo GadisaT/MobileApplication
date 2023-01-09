@@ -31,5 +31,5 @@ public class OromicChapter extends ArrayAdapter<String> {
 
         return rowView;
 
-    };
+    }
 }

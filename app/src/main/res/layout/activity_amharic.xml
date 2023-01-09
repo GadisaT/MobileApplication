@@ -11,11 +11,14 @@
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+
         android:layout_marginBottom="50dp">
     </ListView>
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <LinearLayout
             android:id="@+id/layoutToolBar"
             android:layout_width="?actionBarSize"
@@ -25,12 +28,14 @@
             android:gravity="center_vertical"
             android:orientation="horizontal"
             android:paddingStart="15dp"
-            android:paddingEnd="15dp">
+            android:paddingEnd="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
 
             <ImageView
                 android:id="@+id/imageMenu"
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:contentDescription="@string/app_name"
                 android:src="@drawable/ic_menu"
 
@@ -54,7 +59,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:menu="@menu/navigation_menu"
+        app:headerLayout="@layout/header_menu"
+        android:paddingTop="0dp"
         android:layout_gravity="start"
         />
+
 
 </androidx.drawerlayout.widget.DrawerLayout>
