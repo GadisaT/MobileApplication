@@ -50,7 +50,7 @@ public class AmharicActivity extends AppCompatActivity {
   });
 
 
-        AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
+        EnglishChapter adapter=new EnglishChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
         list.setAdapter(adapter);
 

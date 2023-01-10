@@ -5,21 +5,27 @@
     android:id="@+id/drawerLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     tools:context=".AmharicActivity">
 
     <ListView
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="50dp">
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="25dp">
     </ListView>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        >
         <LinearLayout
             android:id="@+id/layoutToolBar"
             android:layout_width="?actionBarSize"
             android:layout_height="?actionBarSize"
+
+            app:showAsAction="ifRoom|collapseActionView"
+
 
             android:background="@color/colorWhite"
             android:gravity="center_vertical"
@@ -34,7 +40,11 @@
                 android:contentDescription="@string/app_name"
                 android:src="@drawable/ic_menu"
 
+                app:showAsAction="ifRoom|collapseActionView"
+
                 />
+
+
 
             <TextView
                 android:id="@+id/textTitle"
@@ -53,6 +63,8 @@
         android:id="@+id/navigationView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+
+        app:showAsAction="ifRoom|collapseActionView"
         app:menu="@menu/navigation_menu"
         android:layout_gravity="start"
         />

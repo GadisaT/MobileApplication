@@ -918,162 +918,411 @@ Ispeesifikeeshiniiwwan moodeela, keeyyata waliigalaa fi haal-duree fi qajeelfamn
         <item>Boqonna 5 gadifagenyaa isaa </item>
     </string-array>
 
-    <string-array name="code1Content">
-        <item>TITLE I. PHYSICAL PERSONS</item>
-        <item>TITLE II. CAPACITY OF PERSON</item>
-        <item>TITLE III. BODIES CORPORATE AND PROPERTY WHITH A SPECIFIC DESTINATION </item>
+    <string-array name="e1">
+        <item>Title I: Physical Persons</item>
+        <item>Title II: Capacity of People</item>
+        <item> Title III: Entities Corporate and Property with a Specific Destination </item>
+        <item>Title IV: Relationship and Friendship</item>
+        <item>Title V: Achievements</item>
+        <item>Title VI: Goods and Possessions in General</item>
+        <item>Title VII: Individual Ownership</item>
+        <item>Title VIII: Private Ownership</item>
+        <item>Title IX Corporate Ownership, Use, and Other Rights in RAM</item>
     </string-array>
-    <string-array name="code1deteil">
-        <item> Spatial Domain Image Processing (Enhancement in spatial domain)
- Spatial Processing of Digital Images
- Basic Intensity Transformation Functions
- Grey level transformation
- Homomorphism filteringSpatial Domain Image Processing (Enhancement in spatial domain)
- Spatial Processing of Digital Images
- Basic Intensity Transformation Functions
- Grey level transformation
- Histogram processing
- Smoothing and sharpening Spatial filters
- Combining Spatial Enhancement Methods
-2.2. Frequency Domain Image Processing (Enhancement in frequency domain)
- Introduction to frequency domain
- Fourier transform
- Frequency spectra
- Fourier series
- Continuous One-Dimensional Fourier Transform and Its Inverse
- Discrete One-Dimensional Fourier Transform and Its Inverse
- Frequency information of images
- Image enhancement in frequency domain
- Smoothing and sharpening frequency domain filtering
- Homomorphism filteringSpatial Domain Image Processing (Enhancement in spatial domain)
- Spatial Processing of Digital Images
- Basic Intensity Transformation Functions
- Grey level transformation
- Histogram processing
- Smoothing and sharpening Spatial filters
- Combining Spatial Enhancement Methods
-2.2. Frequency Domain Image Processing (Enhancement in frequency domain)
- Introduction to frequency domain
- Fourier transform
- Frequency spectra
- Fourier series
- Continuous One-Dimensional Fourier Transform and Its Inverse
- Discrete One-Dimensional Fourier Transform and Its Inverse
- Frequency information of images
- Image enhancement in frequency domain
- Smoothing and sharpening frequency domain filtering
- Homomorphism filtering</item>
-        <item>Histogram equalisation
- Equalization increases the global contrast of many images, especially
-when the usable data of the image is represented by close contrast values.
- Through this adjustment, the intensities can be better distributed on
-the histogram.This allows for areas of lower local contrast to gain a
-higher contrast.
- Histogram equalization accomplishes this by effectively spreading out
-the most frequent intensity values. The method is useful in images
-with backgrounds and
-foregrounds that are both bright
-or both dark. In particular, the
-method can lead to better views
-of bone structure in x- ray
-images</item>
-        <item>dhfgskfhddgtrdhydtrdtrdtrdtrdtrgxdgdxgdfghdkghdghdklgsd</item>
+    <string-array name="de1">
+       <item>Civil Code:> Natural persons::
+While it is necessary to make civil law when it is necessary for the legal system of our state to develop properly; And
+Although the Civil Code was prepared under our supervision and received the consent of our Senate and House of Representatives;
+Therefore, according to articles 34 and 88 of our amended constitution, we approve the decisions of our Senate and the House of Representatives.
+1. This Act may be cited as the "Civil Code, 1960".
+2. Civil Code of 1960, published in 1960 as Special Issue No. 2 in a separate volume.
+It happened in Addis Ababa on May 5, 1960
+Tahafeh Taezaz Aklilu Habte Wold
+Deputy Prime Minister and Minister Penn </item>
+        <item>Title II Human Rights
+Chapter 1. General principles
+Art. 192.- Capacity Act.
+
+Any natural person can perform all the duties of civil life unless declared legally incapacitated.
+
+Art. 193.- General disability.
+
+General disabilities are based on age or mental condition or the faults imposed on them.
+
+Art. 194.- Special disabilities.
+
+(1) Special disabilities may be provided because of people\'s nationality or occupation.
+(2) Chapter 5 of this title (sections 389-393) and special regulations.
+
+Art. 195.- Arbitrary limits.
+
+(1) No person shall exercise or refrain from exercising the right of citizenship, even in part.
+(2) Any voluntary restriction on the exercise or exercise of these rights shall be void unless justified by legitimate interest.
+
+Art. 196.- Evidence of physical injury.
+
+(1) Capacity is estimated.
+(2) Every person claiming to be disabled must prove that they are disabled.
+
+Art. 197.- Fixed location of corporate entities and assets.
+
+The ability of corporate entities and location-specific assets to comply with the provisions relating to them by their nature</item>
+        <item>Title III. Companies and properties with different locations
+Chapter 1. Administrative bodies and the Church
+Art. 394.- Government.
+
+(1) The State shall be held legally as a person.
+(2) He can also hold and exercise all the rights that are compatible with his character.
+
+Art. 395.- Division of regional territories.
+
+(1) Provincial Governments, District Governments, District and Sub-district Governments and urban and rural communities have the right to have rights.
+(2) Therefore, they can obtain and use all the rights granted by the administrative law through their respective bodies.
+              Art. 396.- Ministers.
+
+(1) Ministers of the Ethiopian government have rights.
+(2) Therefore, they can obtain and use all the rights granted by the administrative law through their respective bodies.
+
+Art. 397.- Public administration authorities and institutions.
+
+All public administration officials, offices or institutions are subject to the rights conferred by administrative law, according to their profession.
+
+Art. 398.- Ethiopian Orthodox Tewahedo Church.
+
+(1) The Ethiopian Orthodox Tewahedo Church is considered as one person by law.
+(2) Therefore, he can use all the rights given by administrative laws through his organs.
+
+Art. 399.- Churches, parishes and monasteries.
+
+Churches, congregations and monasteries that are part of the Ethiopian Orthodox Tewahedo Church have the same rights as all professions under the conditions and limits determined by the administrative law.
+          Art. 400.- Powers and bodies.
+
+(1) The authority of the bodies referred to in the above number and the authority of the bodies authorized to represent these bodies are stipulated by the administrative law.
+(2) They may require these parties to observe certain conditions or procedures in order to exercise certain rights.
+
+Art. 401.- Failure to meet statutory requirements.
+
+(1) The actions of the bodies referred to in this chapter that exceed the powers given by law without fulfilling the formal conditions given by law shall have no effect.
+(2) The provisions of sub-para. (1) It is applicable in these cases even if it is not clear in law.
+
+Art. 402. - Rejection.
+
+(1) Sec. 401 can be called by any interested party.
+(2) It cannot be summoned after ten years have passed since the date of the act.
+
+Art. 403.- Non-contractual liability.
+
+(1) The entities described in this chapter shall be defined in accordance with the provisions of the title of this code, "Extracontractual Liability and Unlawful Enrichment" (Sec. 2027-2161).
+(2) Pay any illegal enrichment received in accordance with the provisions of the corresponding title (sections, 2162-2178).</item>
+        <item>Title V. Continued
+Vacation time. 1. Substitute changes
+Article 1. General provisions
+Article 1.- The opening of the series and the creation of series items
+
+Art. 826.- Series opening.
+(1) that a person is dead; The decedent\'s estate is opened at the place where he had his principal residence at the time of his death.
+. . . .
+
+Art. 827.- Things that make up a will-1. Life insurance.
+
+(1) Amounts payable under a life insurance contract to which the deceased was a party; If the deceased fails to appoint a beneficiary or if the insured becomes the beneficiary instead of the heirs of the deceased. Another indicator.
+(2) They are not part of his inheritance in any other way.
+          Art. 829.- Different types of success.
+
+(1) The estate of a deceased person may be inherited or inherited.
+(2) He may be disinherited partially; And part of it can be disinherited.
+(3) The property not bequeathed by the deceased belongs to his legal heirs.
+
+Article 2 Success ability
+Art. 830.- Conditions for success.
+
+A person cannot represent the deceased unless he or she survives and is eligible to succeed.
+
+Art. 831. Life of deceased heir.
+
+(1) The proof of the residence of the deceased on the date of his death is in accordance with the provisions of this title on "bodily bodies" (Article 47-153).
+(2) Regarding the consequences of absence, the provisions of this ownership shall be applicable (Article 154-173).
+(3) Nothing in this section shall affect the provisions relating to the participation of representatives.
+
+Art. 832. - People who died at the same time.
+
+When two or more people die and it is not possible to determine which of these people will survive the other, it is not possible to ensure that the succession of each of them will survive the other, the successor of these people will be governed as the successor.
+             The last one left to accept anything from the other successors</item>
+        <item> TITLE VI GENERAL GOODS AND GOODS
+Chapter 1. General items
+Section .1126. Various types of equipment.
+All devices are portable or fixed.
+
+Art. 1127.- Physical property.- 1. Principle.
+
+Physical resources are things that have physical existence and can move themselves or be moved by people without losing their individual characteristics.
+
+Section .1128.- 2. Mortgage securities.
+
+Unless otherwise provided by law, claims and other intangible rights embodied in securities are considered tangible assets.
+
+Art. 1129. 3. Forces of nature.
+
+Unless otherwise provided by law, natural forces of economic value, such as electricity, are considered physical goods where they are occupied by humans.
+
+Art. 1130.- Immovable objects.
+
+The land and buildings are considered immovable.
+
+Art. 1131.- Internal components of goods. 1. Instructions.
+
+Unless otherwise specified, the material rights or relationships apply to all internal entities.
+
+Art. 1132.- 2. Definition.
+
+(1) Anything that is normally considered to be a part of something is considered an intrinsic part.
+(2) Any substance that is physically integrated with the object and cannot be separated without destroying or damaging the object is considered to be an internal part of the object.
+
+Art. 1133.- 3. Timber Corporation.
+
+(1) Trees and associations must be part of the body until they are separated from the ground.
+(2) Contracts for separation from the land or that imply separation shall be considered as a separate physical object.
+
+Art. 1134.- 4. Rights of third parties.
+
+(1) Anything moving or stationary in the body ceases to form a separate substance.
+(2) All rights previously held by third parties are forfeited.
+(3) Nothing shall affect the right of a third party to file a claim based on liability for damages or unjust enrichment.
+     </item>
+        <item> TITLE VII. Private ownership
+Chapter 1. Acquisition, transfer, disposal and certificate of ownership
+Section 1. Acquisition of ownership rights
+Article 1. Work
+Art. 1151.- Instructions.
+
+A person who owns a physical property intends to own it.
+
+Art. 1152.- Animals.
+
+(1) Trained or captive animals that escape from their owner\'s control and do not try to recapture them within the next month, or stop trying to capture them for a month, shall be ownerless.
+(2) The provisions referred to in sub-section (1) shall not apply to horses or asinine species or their breeding or to camels and cattle.
+
+Art. 1153.- Livestock breeding.
+
+(1) A swarm of bees that have left their hive is considered to have no master.
+(2) The person who settled in the hive becomes the owner of this herd due to his ownership.
+(3) The former investor may take them to the place of their eviction and immediately reach their residence.
+
+Art. 1154.- Something found.- 1. To find duty.
+
+(1) A person who acquires or possesses a physical object must comply with administrative regulations requiring him or her to report what he or she has found.
+(ii) In the absence of these regulations, to inform the owner of the findings and to take all necessary steps to investigate the circumstances.
+
+Art. 1155.- 2. Possession of material.
+
+(1) The applicant has fulfilled the above obligations. 1154 holds what is found in his hand.
+(2) take all reasonable steps to protect against such circumstances.</item>
+        <item> TITLE VIII Church ownership, usufruct and other rights in RAM
+
+Chapter 1. Joint ownership
+Article 1. General provisions
+Art. 1257.- Instructions.
+
+(1) One thing may be owned by several persons.
+(2) Nothing in Title IX of this Act shall affect regulations relating to agricultural associations and official associations of home owners. (Articles 1489-1534).
+
+Art. 1258.- How to adjust joint ownership.
+
+(1) Subject to the mandatory provisions of the law, the rights and obligations of the co-investors shall be subject to the goods generated by the co-investors and the contracts entered into by the co-investors.
+(2) In the absence of the documents or agreements referred to in subsection, these provisions shall apply. (1) made or these documents or terms are defective or contrary to law;
+
+Art. 1259.- Presumption of equity.
+
+The shares held by each co-owner are assumed to be equal.
+
+Art. 1260.- Rights on shares.
+
+(1) Each shareholder may dispose of or reserve his shares.
+(2) Creditors of each common investor may attach the shares.
+Art. 1261.- Preemptive legal right.
+(1) The common shareholders have the legal right to compel a third party to sell the shares obtained from the common property to them.
+(2) The right in subsection 1 (1) shall be exercised in the manner prescribed in chapter 4 of this title (sections 1386-1409).
+
+Art. 1262.- Issuance of shares.
+
+(1) If a joint investor has surrendered his share in the common property, this share will be transferred to the other joint investors.
+(2) A co-investor who has surrendered his shares shall be liable for the debts that existed before the surrender.
+
+Art. 1263. Use of object.
+
+Each co-owner may use the jointly owned property for the purpose for which it was acquired and taking into account the rights of the other co-owners.
+
+Art. 1664. - Addition.
+
+(1) The fruit of an object held in common is shared.
+(2) Each co-investor may at any time apply for the distribution of such fruits.
+
+Art. 1265.- Management of jointly owned objects-1. Majority rule.</item>
+        <item>Title X. Registrants of Real Property
+Chapter 1. Keeping records and notes
+Art. 1553.- Instructions.
+
+Real estate records are maintained by custodians of real estate records in each district guazat.
+
+Art. 1554.- Organizing places to keep records.
+
+(1) The appointment and rank of real estate registrars and their assistants shall be as prescribed by the Department of Agriculture.
+(2) The Minister shall determine the material organization of the sites for the preservation of real estate records; They also ensure that their work is done correctly.
+(3) Take reasonable steps to protect and preserve real estate records.
+
+Art. 1555.- Land distribution districts.
+
+(1) A real estate register shall be kept in each repository according to the districts in which the land is divided.
+(2) The Ministry of Agriculture shall determine the boundaries of the districts in which the land is distributed.
+
+Art. 1556.- Main register.
+
+Property records and mortgage records are maintained for each ward and each district.
+
+Art. 1557.- Registration of real estate.
+
+If the conditions of the cadastre accept such a system, the real estate register must be kept in each district.
+
+Art. 1558.- Register of owners.
+
+If the cadastral area does not allow for the preparation of an immovable property register, the register of ownership shall be kept in each district.
+
+Art. 1559.- Other records.
+
+The Department of Agriculture may determine that additional records are to be maintained under a general directive or a directive that applies specifically to one or more conservation areas.
+
+Art. 1560.- Records cannot be deleted.
+
+The real estate register cannot be removed from the place where it is attached under any circumstances.
+
+Art. 1561.- Notice of registration. -1 instructions.
+
+Real estate registration is available to the public.
+
+Art. 1562.- 2. Registration of real estate and owners.
+
+(1) The custodians of records shall, upon request, provide certified true copies of the leaves included in the real estate records relating to the property.
+(ii) Submits upon request a certified true copy of the leaf or leaves of an investor in the register of owners.
+(3) When necessary, they must provide proof that the leaf of the immovable property does not have any registration or that there is no leaf regarding the registration of one owner.</item>
+        <item>Administrative contracts
+Chapter 1. General Provisions
+Art. 3131 - Regulations applicable to contracts of administrative bodies.
+(1) Contracts entered into by the government or other administrative authorities shall be governed by the provisions of this law on general contracts or special contracts.
+(2) If the agreement is an administrative agreement, the provisions of this patent shall be in addition to or supersede these provisions.
+Art. 3132 - Administrative agreements.
+The agreement shall be considered as an administrative agreement:
+(a) is expressly qualified as such by law or by the parties; Or
+(b) related to public service activity if the party contracting with the administrative bodies implies permanent participation in the performance of this service; Or
+(c) contains one or more provisions that can be motivated only by immediate consideration of the common good outside the relationship between individuals.
+Art. 3133 - Application for certain businesses.
+Businesses applying for government savings or offering their shares to the public may be asked by the competent authorities to comply with the procedures and systems prescribed by law by the regulatory bodies in completing their contracts.
+Section 1. Contract
+Article 1. License
+Art. 3134 - accepted format.
+(1) Unless otherwise provided by administrative laws or regulations, the contract summary of administrative authorities shall constitute a clear expression of interest on their part.
+(2) In the absence of a formal provision, silence shall not be deemed to be a confirmation of an authority competent to ratify a contract.
+(iii) The provisions of sub-para. (1) and (2) shall apply to the extension or modification of the contract.
+Art. 3135 - General conditions applicable to management contracts. - 1. Draw a picture.
+Model specifications, general clauses and general terms and conditions and instructions can be prepared by the administrators of each need</item>
     </string-array>
 
-
-    <string-array name="code2Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e2">
+        <item>ምዕራፍ 1 under list 2</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
     </string-array>
-    <string-array name="code2deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de2">
+        <item>list second android </item>
+        <item>chapter2 details </item>
+        <item>chapter  gsyfgthyri hygfuiyhi8u yguity</item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
-
-    <string-array name="code3Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e3">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
     </string-array>
-    <string-array name="code3deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de3">
+        <item>chapter1 details lis 3</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
-
-
-
-    <string-array name="code4Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e4">
+        <item>ምዕራፍ 1 </item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
     </string-array>
-    <string-array name="code4deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de4">
+        <item>chapter1 details list 4 </item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
-
-    <string-array name="code5Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e5">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
     </string-array>
-    <string-array name="code5deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-    </string-array>
-
-
-    <string-array name="code6Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-    </string-array>
-    <string-array name="code6deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de5">
+        <item>chapter1 details under [odstiuon 5</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
 
-
-    <string-array name="code7Content">
-        <item>777777777777777777</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e6">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
     </string-array>
-    <string-array name="code7deteil">
-        <item>677777777777777777</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de6">
+        <item>chapter1 details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
 
-
-    <string-array name="code8Content">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="e7">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
     </string-array>
-    <string-array name="code8deteil">
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
-        <item>ufdgyfdgyidfgusdiop</item>
+    <string-array name="de7">
+        <item>ምዕራፍ details</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
+    </string-array>
+
+    <string-array name="e8">
+        <item>ምዕራፍ 1</item>
+        <item>ምዕራፍ 2</item>
+        <item>ምዕራፍ 3</item>
+        <item>ምዕራፍ 4</item>
+        <item>ምዕራፍ 5</item>
+    </string-array>
+    <string-array name="de8">
+        <item>chapter1 details under the last one admistration</item>
+        <item>chapter2 details </item>
+        <item>chapter </item>
+        <item>chapter4  </item>
+        <item>chapter5 details </item>
     </string-array>
 </resources>
