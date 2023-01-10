@@ -580,7 +580,7 @@ Aartii. 832.- Namoota yeroo tokkotti du’an.
 
 Namoonni lamaa fi isaa ol du’anii fi namoota akkasii keessaa kamtu isa kaan irraa hafe mirkaneessuun kan hin danda’amne yoo ta’e, walduraa duubaan namoota akkasii tokkoon tokkoon isaanii isa kaan irraa akka hafe mirkaneessuun kan hin danda’amne yoo ta’e, walduraa duubaan namoota akkasii tokkoon tokkoon isaanii akka waan tureetti ni qajeelfama kan dhumaa lubbuun hafe with out, garuu, walduraa duubaan namoota biroo irraa waan tokkollee argachuu.</item>
 
-    <item>
+        <item>
         MATA DUREE VI MEESHALEE WALIIGALAA FI QABANNI
 Boqonnaa 1. Meeshaalee akka waliigalaatti
 Keewwata .1126. Meeshaalee gosa adda addaa.
@@ -748,7 +748,7 @@ Aartii. 1562.- 2. Galmee meeshaalee hin sochoone fi kan abbootii qabeenyaa.
         </item>
 
 
-    <item>MATA DUREE X. GALMEESSOOTA QABEENYA HIN SOCHA’E
+        <item>MATA DUREE X. GALMEESSOOTA QABEENYA HIN SOCHA’E
 Boqonnaa 1. Galmee fi beeksisa qabachuu
 Aartii. 1553.- Qajeelfama.
 
@@ -1005,7 +1005,6 @@ images</item>
         <item>ufdgyfdgyidfgusdiop</item>
         <item>ufdgyfdgyidfgusdiop</item>
     </string-array>
-
 
 
     <string-array name="code4Content">

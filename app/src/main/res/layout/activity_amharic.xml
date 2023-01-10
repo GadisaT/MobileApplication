@@ -7,6 +7,15 @@
     android:layout_height="match_parent"
     tools:context=".AmharicActivity">
 
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/switch_btn"
+        android:text="NightMode"
+        android:layout_gravity="end"
+    />
+
+
     <ListView
         android:id="@+id/list"
         android:layout_width="match_parent"
@@ -59,10 +68,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:menu="@menu/navigation_menu"
+        android:fitsSystemWindows="false"
         app:headerLayout="@layout/header_menu"
         android:paddingTop="0dp"
-        android:layout_gravity="start"
-        />
+        android:layout_gravity="start">
+
+    </com.google.android.material.navigation.NavigationView>
 
 
 </androidx.drawerlayout.widget.DrawerLayout>
