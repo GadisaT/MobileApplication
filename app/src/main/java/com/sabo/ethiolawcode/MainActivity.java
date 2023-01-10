@@ -70,9 +70,8 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, MainActivity.class);
                 startActivity(intent);
                 return true;
-            case  R.id.itemlanguage:
 
-                return true;
+
             case  R.id.itemsetting:
 
                 return true;

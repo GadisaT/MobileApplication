@@ -3,12 +3,15 @@
     <item android:id="@+id/nav_home"
         android:title="Home"
         android:icon="@drawable/ic_baseline_home_24"/>
-    <item android:id="@+id/nav_language"
-        android:title="Language"
-        android:icon="@drawable/ic_baseline_language_24"/>
+    <item android:id="@+id/nav_content"
+        android:title="Content"
+        android:icon="@drawable/ic_baseline_home_work_24">
+
+
+        </item>
 
     <item android:id="@+id/nav_search"
-        android:title="Search"
+        android:title="Background"
         android:icon="@drawable/ic_baseline_search_24"/>
 
     <item android:id="@+id/nav_settings"
@@ -16,13 +19,17 @@
         android:icon="@drawable/ic_baseline_settings_24"/>
 
 
-    <item android:id="@+id/nav_history"
-        android:title="History"
-        android:icon="@drawable/ic_baseline_history_24"/>
+    <item android:id="@+id/nav_close"
+        android:title="Close"
+        android:icon="@drawable/ic_baseline_close_24"/>
 
     <item android:id="@+id/nav_share"
         android:title="Share"
         android:icon="@drawable/ic_baseline_share_24"/>
+
+    <item android:id="@+id/nav_about"
+        android:title="About Us"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"/>
 
 
 

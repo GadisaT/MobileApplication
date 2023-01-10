@@ -7,26 +7,7 @@
     <item
         android:id="@+id/itemsetting"
         android:title="Setting" />
-    <item
-        android:id="@+id/itemlanguage"
-        android:title="Language" >
-        <menu>
-           <item
-            android:id="@+id/english"
-            android:title="English"/>
 
-
-
-            <item
-                android:id="@+id/english"
-                android:title="Afaan oromo"/>
-
-
-            <item
-            android:id="@+id/ahmaric"
-            android:title="አማርኛ" />
-        </menu>
-    </item>
     <item
         android:id="@+id/itemexit"
         android:title="Exit" />

@@ -18,6 +18,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.ListView;
 
 import android.widget.Toast;
@@ -31,6 +32,9 @@ public class AmharicActivity extends AppCompatActivity {
 
     ListView list;
     AhmaricChapter adapter;
+    Button oromicbtn,englishbtn,amharic;
+
+
     String[] maintitle ={
             "የሲቪል ኮድ","የሲቪል ሂደት ኮድ",
             "የወንጀል ኮድ","የወንጀል ሂደት ኮድ",
@@ -38,21 +42,59 @@ public class AmharicActivity extends AppCompatActivity {
             "አስተዳደራዊ ሂደት",
     };
 
-
+private DrawerLayout drawerLayout;
+private NavigationView navigationView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amharic);
 
-        final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
+       drawerLayout = findViewById(R.id.drawerLayout);
+
+
+
+
+        navigationView=findViewById(R.id.navigationView);
+        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                switch (item.getItemId()){
+                    case R.id.nav_home:
+                        Intent intent=new Intent(AmharicActivity.this,MainActivity.class);
+                        startActivity(intent);
+                        return true;
+                    case R.id.nav_about:
+                        Intent intent2=new Intent(AmharicActivity.this,AboutUs.class);
+                        startActivity(intent2);
+                    case R.id.nav_content:
+                        Intent intent3=new Intent(AmharicActivity.this,AmharicActivity.class);
+                        startActivity(intent3);
+
+                        return true;
+                    case R.id.nav_share:
+                        Intent intents= new Intent(Intent.ACTION_SEND);
+                        intents.setType("text/plain");
+                        intents.putExtra(Intent.EXTRA_SUBJECT,"check out this cool application");
+                        intents.putExtra(Intent.EXTRA_TEXT,"your application is link here");
+                        startActivity(Intent.createChooser(intents,"Share via"));
+                        return true;
+                    case R.id.nav_close:
+                        moveTaskToBack(true);
+                        android.os.Process.killProcess(android.os.Process.myPid());
+                        System.exit(1);
+                        return true;
+                }
+                return false;
+            }
+        });
+
         findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 drawerLayout.openDrawer(GravityCompat.START);
             }
         });
-
 
         adapter=new AhmaricChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
