@@ -4,6 +4,7 @@ package com.sabo.ethiolawcode;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SearchView;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
@@ -12,6 +13,7 @@ import android.os.Bundle;
 
 
 import android.util.Log;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
@@ -26,7 +28,7 @@ public class EnglishActivity extends AppCompatActivity {
 
 
     ListView list;
-
+    AhmaricChapter adapter;
     String[] maintitle ={
             "Civil Code", "Civil Procedure Code",
             "Criminal Code", "Criminal Procedure Code",
@@ -50,7 +52,7 @@ public class EnglishActivity extends AppCompatActivity {
         });
 
 
-        AhmaricChapter adapter=new AhmaricChapter(this, maintitle);
+         adapter=new AhmaricChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
         list.setAdapter(adapter);
 
@@ -115,5 +117,29 @@ public class EnglishActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.search,menu);
+        MenuItem menuItem= menu.findItem(R.id.search);
+        SearchView searchView=(SearchView) menuItem.getActionView();
+        searchView.getQueryHint();
+
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                adapter.getFilter().filter(s);
+                return false;
+            }
+        });
+
+        return super.onCreateOptionsMenu(menu);
     }
 }

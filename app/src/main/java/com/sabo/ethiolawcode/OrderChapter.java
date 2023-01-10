@@ -1,9 +1,12 @@
 package com.sabo.ethiolawcode;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SearchView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -11,6 +14,7 @@ import android.widget.ListView;
 
 public class OrderChapter extends AppCompatActivity {
     ListView lv;
+    ArrayAdapter<String> adapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,8 +51,8 @@ public class OrderChapter extends AppCompatActivity {
         int val = i1.getIntExtra("position", 0);
 
         if (val == 0) {
-            ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c1);
-            lv.setAdapter(adapter1);
+            adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c1);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -60,8 +64,8 @@ public class OrderChapter extends AppCompatActivity {
                 }
             });
         } else if (val == 1) {
-            ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c2);
-            lv.setAdapter(adapter2);
+            adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c2);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -74,8 +78,8 @@ public class OrderChapter extends AppCompatActivity {
             });
         } else if (val == 2) {
 
-            ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c3);
-            lv.setAdapter(adapter3);
+            adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c3);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -87,8 +91,8 @@ public class OrderChapter extends AppCompatActivity {
                 }
             });
         } else if (val == 3) {
-            ArrayAdapter<String> adapter4 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c4);
-            lv.setAdapter(adapter4);
+            adapter= new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c4);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -101,8 +105,8 @@ public class OrderChapter extends AppCompatActivity {
             });
         }
         else if (val == 4) {
-            ArrayAdapter<String> adapter5 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c5);
-            lv.setAdapter(adapter5);
+            adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c5);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -116,8 +120,8 @@ public class OrderChapter extends AppCompatActivity {
         }
         else if (val == 5) {
 
-            ArrayAdapter<String> adapter6 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c6);
-            lv.setAdapter(adapter6);
+            adapter= new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c6);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -131,8 +135,8 @@ public class OrderChapter extends AppCompatActivity {
         }
         else if (val == 6) {
 
-            ArrayAdapter<String> adapter7 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c7);
-            lv.setAdapter(adapter7);
+            adapter= new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c7);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -146,8 +150,8 @@ public class OrderChapter extends AppCompatActivity {
         }
         else if (val == 7) {
 
-            ArrayAdapter<String> adapter8 = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c8);
-            lv.setAdapter(adapter8);
+            adapter= new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, c8);
+            lv.setAdapter(adapter);
             lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -159,5 +163,28 @@ public class OrderChapter extends AppCompatActivity {
                 }
             });
         }
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.search,menu);
+        MenuItem menuItem= menu.findItem(R.id.search);
+        SearchView searchView=(SearchView) menuItem.getActionView();
+        searchView.getQueryHint();
+
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                adapter.getFilter().filter(s);
+                return false;
+            }
+        });
+
+        return super.onCreateOptionsMenu(menu);
     }
 }

@@ -4,6 +4,8 @@ package com.sabo.ethiolawcode;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
+
+import androidx.appcompat.widget.SearchView;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
@@ -12,10 +14,12 @@ import android.os.Bundle;
 
 
 import android.util.Log;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+
 import android.widget.Toast;
 import android.widget.Toolbar;
 
@@ -26,7 +30,7 @@ public class AmharicActivity extends AppCompatActivity {
 
 
     ListView list;
-
+    AhmaricChapter adapter;
     String[] maintitle ={
             "የሲቪል ኮድ","የሲቪል ሂደት ኮድ",
             "የወንጀል ኮድ","የወንጀል ሂደት ኮድ",
@@ -41,16 +45,16 @@ public class AmharicActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amharic);
 
-  final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
-  findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
-      @Override
-      public void onClick(View view) {
-          drawerLayout.openDrawer(GravityCompat.START);
-      }
-  });
+        final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
+        findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                drawerLayout.openDrawer(GravityCompat.START);
+            }
+        });
 
 
-        EnglishChapter adapter=new EnglishChapter(this, maintitle);
+        adapter=new AhmaricChapter(this, maintitle);
         list=(ListView)findViewById(R.id.list);
         list.setAdapter(adapter);
 
@@ -115,5 +119,29 @@ public class AmharicActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.search,menu);
+        MenuItem menuItem= menu.findItem(R.id.search);
+        SearchView searchView=(SearchView) menuItem.getActionView();
+        searchView.getQueryHint();
+
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                adapter.getFilter().filter(s);
+                return false;
+            }
+        });
+
+        return super.onCreateOptionsMenu(menu);
     }
 }
