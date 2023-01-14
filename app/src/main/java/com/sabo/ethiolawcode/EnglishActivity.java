@@ -36,14 +36,50 @@ public class EnglishActivity extends AppCompatActivity {
             "Administrative Process",
     };
 
-
+    private DrawerLayout drawerLayout;
+    private NavigationView navigationView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_english);
+        drawerLayout = findViewById(R.id.englishdrawerLayout);
 
-        final DrawerLayout drawerLayout = findViewById(R.id.drawerLayout);
+        navigationView=findViewById(R.id.navigationView);
+        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                switch (item.getItemId()){
+                    case R.id.nav_home:
+                        Intent intent=new Intent(EnglishActivity.this,MainActivity.class);
+                        startActivity(intent);
+                        return true;
+//                    case R.id.nav_content:
+//                        Intent intent2=new Intent(EnglishActivity.this,EnglishActivity.class);
+//                        startActivity(intent2);
+                    case R.id.nav_about:
+                        Intent intent3=new Intent(EnglishActivity.this,AboutUs.class);
+                        startActivity(intent3);
+
+                        return true;
+                    case R.id.nav_share:
+                        Intent intents= new Intent(Intent.ACTION_SEND);
+                        intents.setType("text/plain");
+                        intents.putExtra(Intent.EXTRA_SUBJECT,"check out this cool application");
+                        intents.putExtra(Intent.EXTRA_TEXT,"your application is link here");
+                        startActivity(Intent.createChooser(intents,"Share via"));
+                        return true;
+                    case R.id.nav_close:
+                        moveTaskToBack(true);
+                        android.os.Process.killProcess(android.os.Process.myPid());
+                        System.exit(1);
+                        return true;
+                }
+                return false;
+            }
+        });
+
+
         findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

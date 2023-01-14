@@ -1,6 +1,7 @@
 package com.sabo.ethiolawcode;
 
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.core.view.GravityCompat;
@@ -16,6 +17,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.google.android.material.navigation.NavigationView;
+
 
 public class OromicActivity extends AppCompatActivity {
     ListView list;
@@ -27,12 +30,49 @@ public class OromicActivity extends AppCompatActivity {
             "Adeemsa bulchiinsaa",
     };
 
-
+    private DrawerLayout drawerLayout;
+    private NavigationView navigationView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_oromic);
+
+
+        drawerLayout = findViewById(R.id.oromicdrawable);
+        navigationView=findViewById(R.id.navigationView);
+        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                switch (item.getItemId()){
+                    case R.id.nav_home:
+                        Intent intent=new Intent(OromicActivity.this,MainActivity.class);
+                        startActivity(intent);
+                        return true;
+                    case R.id.nav_about:
+                        Intent intent2=new Intent(OromicActivity.this,AboutUs.class);
+                        startActivity(intent2);
+//                    case R.id.nav_content:
+//                        Intent intent3=new Intent(OromicActivity.this,OromicActivity.class);
+//                        startActivity(intent3);
+
+                        return true;
+                    case R.id.nav_share:
+                        Intent intents= new Intent(Intent.ACTION_SEND);
+                        intents.setType("text/plain");
+                        intents.putExtra(Intent.EXTRA_SUBJECT,"check out this cool application");
+                        intents.putExtra(Intent.EXTRA_TEXT,"your application is link here");
+                        startActivity(Intent.createChooser(intents,"Share via"));
+                        return true;
+                    case R.id.nav_close:
+                        moveTaskToBack(true);
+                        android.os.Process.killProcess(android.os.Process.myPid());
+                        System.exit(1);
+                        return true;
+                }
+                return false;
+            }
+        });
 
         final DrawerLayout drawerLayout = findViewById(R.id.oromicdrawable);
         findViewById(R.id.imageMenu).setOnClickListener(new View.OnClickListener() {

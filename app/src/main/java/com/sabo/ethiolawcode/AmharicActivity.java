@@ -67,9 +67,9 @@ private NavigationView navigationView;
                     case R.id.nav_about:
                         Intent intent2=new Intent(AmharicActivity.this,AboutUs.class);
                         startActivity(intent2);
-                    case R.id.nav_content:
-                        Intent intent3=new Intent(AmharicActivity.this,AmharicActivity.class);
-                        startActivity(intent3);
+//                    case R.id.nav_content:
+//                        Intent intent3=new Intent(AmharicActivity.this,AmharicActivity.class);
+//                        startActivity(intent3);
 
                         return true;
                     case R.id.nav_share:
